@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "id": "exam-skills-a2",
+  "topic": "Learning & Exam Skills",
+  "level": "A2",
+  "publishDate": "2026-10-18",
+  "title": "Learning & Exam Skills — A2",
+  "description": "Từ vựng giúp nói về việc ôn tập, làm bài và quản lý thời gian học.",
+  "words": [
+    {
+      "id": "exam-focus",
+      "word": "focus",
+      "meaning": "tập trung; sự tập trung",
+      "partOfSpeech": "verb/noun",
+      "example": "I focus better in a quiet room.",
+      "pronunciation": "/ˈfəʊ.kəs/"
+    },
+    {
+      "id": "exam-revise",
+      "word": "revise",
+      "meaning": "ôn tập",
+      "partOfSpeech": "verb",
+      "example": "We revise grammar before the test.",
+      "pronunciation": "/rɪˈvaɪz/"
+    },
+    {
+      "id": "exam-memorise",
+      "word": "memorise",
+      "meaning": "ghi nhớ",
+      "partOfSpeech": "verb",
+      "example": "Try to memorise the phrase, not only the word.",
+      "pronunciation": "/ˈmem.ə.raɪz/"
+    },
+    {
+      "id": "exam-attempt",
+      "word": "attempt",
+      "meaning": "cố gắng; lần thử",
+      "partOfSpeech": "noun/verb",
+      "example": "Read every question before you attempt it.",
+      "pronunciation": "/əˈtempt/"
+    },
+    {
+      "id": "exam-correct",
+      "word": "correct",
+      "meaning": "đúng; sửa lỗi",
+      "partOfSpeech": "adjective/verb",
+      "example": "Check whether your answer is correct.",
+      "pronunciation": "/kəˈrekt/"
+    },
+    {
+      "id": "exam-mistake",
+      "word": "mistake",
+      "meaning": "lỗi; sự nhầm lẫn",
+      "partOfSpeech": "noun",
+      "example": "I learn from each mistake I make.",
+      "pronunciation": "/mɪˈsteɪk/"
+    },
+    {
+      "id": "exam-result",
+      "word": "result",
+      "meaning": "kết quả",
+      "partOfSpeech": "noun",
+      "example": "She was pleased with her test result.",
+      "pronunciation": "/rɪˈzʌlt/"
+    },
+    {
+      "id": "exam-progress",
+      "word": "progress",
+      "meaning": "sự tiến bộ",
+      "partOfSpeech": "noun/verb",
+      "example": "Small daily steps can lead to real progress.",
+      "pronunciation": "/ˈprəʊ.ɡres/"
+    },
+    {
+      "id": "exam-instruction",
+      "word": "instruction",
+      "meaning": "hướng dẫn; chỉ dẫn",
+      "partOfSpeech": "noun",
+      "example": "Read the instructions carefully.",
+      "pronunciation": "/ɪnˈstrʌk.ʃən/"
+    },
+    {
+      "id": "exam-option",
+      "word": "option",
+      "meaning": "lựa chọn; phương án",
+      "partOfSpeech": "noun",
+      "example": "Choose the best option for each question.",
+      "pronunciation": "/ˈɒp.ʃən/"
+    },
+    {
+      "id": "exam-passage",
+      "word": "passage",
+      "meaning": "đoạn văn",
+      "partOfSpeech": "noun",
+      "example": "Read the passage once for the main idea.",
+      "pronunciation": "/ˈpæs.ɪdʒ/"
+    },
+    {
+      "id": "exam-evidence",
+      "word": "evidence",
+      "meaning": "bằng chứng",
+      "partOfSpeech": "noun",
+      "example": "Find evidence in the text for your answer.",
+      "pronunciation": "/ˈev.ɪ.dəns/"
+    },
+    {
+      "id": "exam-score",
+      "word": "score",
+      "meaning": "điểm số",
+      "partOfSpeech": "noun/verb",
+      "example": "Your score shows which skills need more practice.",
+      "pronunciation": "/skɔːr/"
+    },
+    {
+      "id": "exam-deadline",
+      "word": "deadline",
+      "meaning": "hạn chót",
+      "partOfSpeech": "noun",
+      "example": "I set a deadline for finishing my revision.",
+      "pronunciation": "/ˈded.laɪn/"
+    },
+    {
+      "id": "exam-strategy",
+      "word": "strategy",
+      "meaning": "chiến lược; cách làm",
+      "partOfSpeech": "noun",
+      "example": "A clear strategy helps me manage exam time.",
+      "pronunciation": "/ˈstræt.ə.dʒi/"
+    },
+    {
+      "id": "exam-manage-time",
+      "word": "manage time",
+      "meaning": "quản lý thời gian",
+      "partOfSpeech": "verb phrase",
+      "example": "Plan each section to manage your time well.",
+      "pronunciation": "/ˈmæn.ɪdʒ taɪm/"
+    }
+  ]
+}
