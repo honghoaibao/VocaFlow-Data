@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "id": "school-life-a1",
+  "topic": "School Life",
+  "level": "A1",
+  "publishDate": "2026-10-18",
+  "title": "School Life — A1",
+  "description": "Từ vựng nền tảng về lớp học, môn học và hoạt động ở trường.",
+  "words": [
+    {
+      "id": "school-bag",
+      "word": "schoolbag",
+      "meaning": "cặp sách",
+      "partOfSpeech": "noun",
+      "example": "My schoolbag is next to the desk.",
+      "pronunciation": "/ˈskuːl.bæɡ/"
+    },
+    {
+      "id": "classroom",
+      "word": "classroom",
+      "meaning": "phòng học",
+      "partOfSpeech": "noun",
+      "example": "Our classroom is bright and clean.",
+      "pronunciation": "/ˈklɑːs.ruːm/"
+    },
+    {
+      "id": "classmate",
+      "word": "classmate",
+      "meaning": "bạn cùng lớp",
+      "partOfSpeech": "noun",
+      "example": "My classmate helps me with English.",
+      "pronunciation": "/ˈklɑːs.meɪt/"
+    },
+    {
+      "id": "timetable",
+      "word": "timetable",
+      "meaning": "thời khóa biểu",
+      "partOfSpeech": "noun",
+      "example": "I check my timetable every Sunday.",
+      "pronunciation": "/ˈtaɪm.teɪ.bəl/"
+    },
+    {
+      "id": "lesson",
+      "word": "lesson",
+      "meaning": "bài học; tiết học",
+      "partOfSpeech": "noun",
+      "example": "Our English lesson starts at eight.",
+      "pronunciation": "/ˈles.ən/"
+    },
+    {
+      "id": "school-subject",
+      "word": "subject",
+      "meaning": "môn học",
+      "partOfSpeech": "noun",
+      "example": "Science is my favourite subject.",
+      "pronunciation": "/ˈsʌb.dʒekt/"
+    },
+    {
+      "id": "homework-task",
+      "word": "homework",
+      "meaning": "bài tập về nhà",
+      "partOfSpeech": "noun",
+      "example": "I finish my homework before dinner.",
+      "pronunciation": "/ˈhəʊm.wɜːk/"
+    },
+    {
+      "id": "notebook",
+      "word": "notebook",
+      "meaning": "vở ghi chép",
+      "partOfSpeech": "noun",
+      "example": "She writes new words in her notebook.",
+      "pronunciation": "/ˈnəʊt.bʊk/"
+    },
+    {
+      "id": "pencil-case",
+      "word": "pencil case",
+      "meaning": "hộp bút",
+      "partOfSpeech": "noun",
+      "example": "There are two pens in my pencil case.",
+      "pronunciation": "/ˈpen.səl keɪs/"
+    },
+    {
+      "id": "school-library",
+      "word": "library",
+      "meaning": "thư viện",
+      "partOfSpeech": "noun",
+      "example": "We borrow books from the library.",
+      "pronunciation": "/ˈlaɪ.brər.i/"
+    },
+    {
+      "id": "borrow-book",
+      "word": "borrow",
+      "meaning": "mượn",
+      "partOfSpeech": "verb",
+      "example": "Can I borrow your dictionary?",
+      "pronunciation": "/ˈbɒr.əʊ/"
+    },
+    {
+      "id": "explain-answer",
+      "word": "explain",
+      "meaning": "giải thích",
+      "partOfSpeech": "verb",
+      "example": "The teacher explains the new words.",
+      "pronunciation": "/ɪkˈspleɪn/"
+    },
+    {
+      "id": "ask-question",
+      "word": "question",
+      "meaning": "câu hỏi",
+      "partOfSpeech": "noun",
+      "example": "Please ask a question if you need help.",
+      "pronunciation": "/ˈkwes.tʃən/"
+    },
+    {
+      "id": "give-answer",
+      "word": "answer",
+      "meaning": "câu trả lời; trả lời",
+      "partOfSpeech": "noun/verb",
+      "example": "I know the answer to this question.",
+      "pronunciation": "/ˈɑːn.sər/"
+    },
+    {
+      "id": "school-project",
+      "word": "project",
+      "meaning": "dự án; bài tập lớn",
+      "partOfSpeech": "noun",
+      "example": "Our group is working on a science project.",
+      "pronunciation": "/ˈprɒdʒ.ekt/"
+    },
+    {
+      "id": "school-uniform",
+      "word": "uniform",
+      "meaning": "đồng phục",
+      "partOfSpeech": "noun",
+      "example": "We wear our school uniform on weekdays.",
+      "pronunciation": "/ˈjuː.nɪ.fɔːm/"
+    }
+  ]
+}
