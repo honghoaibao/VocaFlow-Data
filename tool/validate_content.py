@@ -141,8 +141,16 @@ def validate_vocabulary_and_articles() -> None:
                     fail(f"{path}: list block {block_index} must have items")
             if block_type == "image":
                 source = block.get("source", block.get("url", ""))
-                if not isinstance(source, str) or not source.startswith("https://"):
-                    fail(f"{path}: image block {block_index} must use an HTTPS source")
+                is_https = isinstance(source, str) and source.startswith("https://")
+                is_safe_asset = (
+                    isinstance(source, str)
+                    and source.startswith("assets/")
+                    and ".." not in Path(source).parts
+                    and "\\" not in source
+                    and source.endswith((".png", ".jpg", ".jpeg", ".webp", ".gif", ".svg"))
+                )
+                if not (is_https or is_safe_asset):
+                    fail(f"{path}: image block {block_index} must use HTTPS or a safe app asset path")
             if block_type == "video" and not re.fullmatch(r"[A-Za-z0-9_-]{11}", str(block.get("videoId", ""))):
                 fail(f"{path}: video block {block_index} has an invalid videoId")
         article_id = article.get("id")
