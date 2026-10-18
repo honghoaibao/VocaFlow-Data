@@ -5,11 +5,23 @@
     {
       "path": "assets/vocabulary/packs/daily_routines_a1_2026-10-18.json",
       "publishDate": "2026-10-18"
+    },
+    {
+      "path": "assets/vocabulary/packs/school_life_a1_2026-10-18.json",
+      "publishDate": "2026-10-18"
+    },
+    {
+      "path": "assets/vocabulary/packs/learning_exam_skills_a2_2026-10-18.json",
+      "publishDate": "2026-10-18"
     }
   ],
   "editorialArticles": [
     {
       "path": "assets/editorial/articles/learning_vocabulary_a1_2026-10-18.json",
+      "publishDate": "2026-10-18"
+    },
+    {
+      "path": "assets/editorial/articles/active_recall_spacing_a1_2026-10-18.json",
       "publishDate": "2026-10-18"
     }
   ]
