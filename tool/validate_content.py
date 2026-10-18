@@ -95,7 +95,7 @@ def validate_vocabulary_and_articles() -> None:
                     fail(f"{path}: word {word_id} is missing {field}")
                 if len(field_value.strip()) > limit:
                     fail(f"{path}: word {word_id} has an overlong {field}")
-            if any("\\x00" in word[field] for field in ("word", "meaning", "example", "partOfSpeech", "pronunciation")):
+            if any("\x00" in word[field] for field in ("word", "meaning", "example", "partOfSpeech", "pronunciation")):
                 fail(f"{path}: word {word_id} contains a null character")
 
 
