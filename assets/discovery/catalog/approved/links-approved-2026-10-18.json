@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "approvalDate": "2026-10-18",
+  "items": [
+    {
+      "id": "resource-bc-vocabulary-a1-a2",
+      "status": "approved",
+      "approvedOn": "2026-10-18",
+      "type": "article",
+      "title": "A1–A2 Vocabulary — từ vựng theo chủ đề",
+      "publisher": "British Council LearnEnglish",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2",
+      "description": "Bài luyện từ vựng theo cấp độ, có phần nghĩa, cách viết và bài tập theo chủ đề.",
+      "topics": [
+        "vocabulary",
+        "reading"
+      ],
+      "levels": [
+        "beginner"
+      ],
+      "goals": [
+        "vocabulary-building",
+        "exam-preparation"
+      ],
+      "thumbnailAsset": null,
+      "thumbnailSourceUrl": null,
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow."
+    },
+    {
+      "id": "resource-teens-a2-reading",
+      "status": "approved",
+      "approvedOn": "2026-10-18",
+      "type": "article",
+      "title": "A2 Reading — bài đọc kèm bài tập",
+      "publisher": "British Council LearnEnglish Teens",
+      "url": "https://learnenglishteens.britishcouncil.org/skills/reading/a2-reading",
+      "description": "Các bài đọc ngắn theo trình độ A2, kèm hoạt động kiểm tra mức độ hiểu nội dung.",
+      "topics": [
+        "reading",
+        "vocabulary"
+      ],
+      "levels": [
+        "beginner"
+      ],
+      "goals": [
+        "reading-practice",
+        "exam-preparation"
+      ],
+      "thumbnailAsset": null,
+      "thumbnailSourceUrl": null,
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow."
+    },
+    {
+      "id": "resource-cambridge-learner-activities",
+      "status": "approved",
+      "approvedOn": "2026-10-18",
+      "type": "article",
+      "title": "Activities for Learners — chọn kỹ năng và thời lượng",
+      "publisher": "Cambridge English",
+      "url": "https://www.cambridgeenglish.org/learning-english/activities-for-learners/",
+      "description": "Danh mục hoạt động có thể lọc theo nghe, nói, đọc, viết, ngữ pháp, phát âm, từ vựng và trình độ.",
+      "topics": [
+        "reading",
+        "listening",
+        "speaking",
+        "writing",
+        "vocabulary",
+        "grammar",
+        "pronunciation"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate"
+      ],
+      "goals": [
+        "general-english",
+        "exam-preparation"
+      ],
+      "thumbnailAsset": null,
+      "thumbnailSourceUrl": null,
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow."
+    },
+    {
+      "id": "resource-bc-grammar-a1-a2",
+      "status": "approved",
+      "approvedOn": "2026-10-18",
+      "type": "article",
+      "title": "A1–A2 Grammar — giải thích và bài kiểm tra",
+      "publisher": "British Council LearnEnglish",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2",
+      "description": "Bài ngữ pháp theo trình độ, kết hợp câu hỏi kiểm tra, giải thích và bài tập củng cố.",
+      "topics": [
+        "grammar",
+        "exam"
+      ],
+      "levels": [
+        "beginner"
+      ],
+      "goals": [
+        "grammar-practice",
+        "exam-preparation"
+      ],
+      "thumbnailAsset": null,
+      "thumbnailSourceUrl": null,
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow."
+    },
+    {
+      "id": "resource-teens-a2-graded-reading",
+      "status": "approved",
+      "approvedOn": "2026-10-18",
+      "type": "article",
+      "title": "A2 Graded Reading — truyện và bài đọc theo cấp độ",
+      "publisher": "British Council LearnEnglish Teens",
+      "url": "https://learnenglishteens.britishcouncil.org/study-break/reading-zone/a2-graded-reading",
+      "description": "Truyện và bài đọc dành cho người học A2, giúp luyện đọc trong ngữ cảnh dễ tiếp cận.",
+      "topics": [
+        "reading",
+        "vocabulary"
+      ],
+      "levels": [
+        "beginner"
+      ],
+      "goals": [
+        "reading-practice",
+        "general-english"
+      ],
+      "thumbnailAsset": null,
+      "thumbnailSourceUrl": null,
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow."
+    }
+  ]
+}
