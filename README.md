@@ -4,6 +4,13 @@ Kho dữ liệu công khai dành cho ứng dụng học tiếng Anh **VocaFlow**
 
 Repository này chỉ lưu **dữ liệu JSON đã xuất bản**: gói từ vựng, bài viết do VocaFlow biên soạn và danh mục đường dẫn học tập đã được duyệt. Ứng dụng đọc các tệp qua HTTPS từ nhánh `main`; không cần và không được nhúng GitHub token vào APK.
 
+## Nội dung đã xuất bản
+
+- 3 bộ từ vựng: Daily Routines (A1), School Life (A1), Learning & Exam Skills (A2).
+- 5 liên kết học tập mới được duyệt ngày 2026-10-18, bên cạnh 8 liên kết trong đợt trước.
+- Bài viết gốc mới: “Muốn nhớ từ vựng lâu hơn: học, tự nhớ lại, rồi ôn đúng lúc”.
+- Chuẩn biên tập: [docs/editorial-style-guide.md](docs/editorial-style-guide.md). Tài liệu này học hỏi nguyên tắc trình bày tổng quát từ nguồn học uy tín; bài viết và ví dụ vẫn phải do VocaFlow tự viết.
+
 ## Cấu trúc
 
 ```
