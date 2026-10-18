@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "approvalDate": "2026-10-17",
+  "items": [
+    {
+      "id": "learnenglish-teens",
+      "status": "approved",
+      "approvedOn": "2026-10-17",
+      "type": "article",
+      "title": "LearnEnglish Teens — luyện đọc, nghe và từ vựng",
+      "publisher": "British Council",
+      "url": "https://learnenglishteens.britishcouncil.org/",
+      "description": "Nguồn học miễn phí dành cho học sinh tuổi teen, có bài đọc, nghe, ngữ pháp, từ vựng và video.",
+      "topics": [
+        "reading",
+        "listening",
+        "grammar",
+        "vocabulary"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate"
+      ],
+      "goals": [
+        "exam-preparation",
+        "general-english"
+      ],
+      "thumbnailAsset": null,
+      "thumbnailSourceUrl": null,
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình minh họa dự phòng nội bộ."
+    },
+    {
+      "id": "learnenglish-teens-exams",
+      "status": "approved",
+      "approvedOn": "2026-10-17",
+      "type": "article",
+      "title": "Exam practice — kỹ năng làm bài tiếng Anh",
+      "publisher": "British Council",
+      "url": "https://learnenglishteens.britishcouncil.org/exams",
+      "description": "Tài liệu và mẹo luyện đọc, nghe, viết, ngữ pháp và từ vựng cho người học chuẩn bị thi.",
+      "topics": [
+        "exam",
+        "reading",
+        "listening",
+        "grammar"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate"
+      ],
+      "goals": [
+        "exam-preparation"
+      ],
+      "thumbnailAsset": null,
+      "thumbnailSourceUrl": null,
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình minh họa dự phòng nội bộ."
+    },
+    {
+      "id": "news-in-levels",
+      "status": "approved",
+      "approvedOn": "2026-10-17",
+      "type": "article",
+      "title": "News in Levels — đọc tin theo ba cấp độ",
+      "publisher": "News in Levels",
+      "url": "https://www.newsinlevels.com/",
+      "description": "Bài tin ngắn được trình bày theo Level 1, 2 và 3; phù hợp luyện đọc và nghe kèm văn bản.",
+      "topics": [
+        "reading",
+        "listening",
+        "news",
+        "vocabulary"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate"
+      ],
+      "goals": [
+        "reading-practice",
+        "listening-practice"
+      ],
+      "thumbnailAsset": null,
+      "thumbnailSourceUrl": null,
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình minh họa dự phòng nội bộ."
+    },
+    {
+      "id": "voa-lets-learn-english-level-1",
+      "status": "approved",
+      "approvedOn": "2026-10-17",
+      "type": "video",
+      "title": "Let's Learn English — Level 1",
+      "publisher": "VOA Learning English",
+      "url": "https://learningenglish.voanews.com/p/5644.html",
+      "description": "Khóa học cho người mới bắt đầu với video theo bài, từ vựng, luyện nói/viết và tài liệu học.",
+      "topics": [
+        "video",
+        "listening",
+        "speaking",
+        "vocabulary"
+      ],
+      "levels": [
+        "beginner"
+      ],
+      "goals": [
+        "general-english",
+        "listening-practice"
+      ],
+      "thumbnailAsset": null,
+      "thumbnailSourceUrl": null,
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình minh họa dự phòng nội bộ."
+    },
+    {
+      "id": "learnenglish-teens-grammar",
+      "status": "approved",
+      "approvedOn": "2026-10-17",
+      "type": "article",
+      "title": "Grammar — video bài học và bài tập ngữ pháp A1–B2",
+      "publisher": "British Council LearnEnglish Teens",
+      "url": "https://learnenglishteens.britishcouncil.org/grammar",
+      "description": "Video Grammar Snack giải thích ngữ pháp trong hội thoại tự nhiên, có lời giải thích và bài tập theo cấp độ.",
+      "topics": [
+        "grammar",
+        "video",
+        "exam"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate"
+      ],
+      "goals": [
+        "exam-preparation",
+        "grammar-practice"
+      ],
+      "thumbnailAsset": null,
+      "thumbnailSourceUrl": null,
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình minh họa dự phòng nội bộ."
+    },
+    {
+      "id": "test-english-a2-grammar",
+      "status": "approved",
+      "approvedOn": "2026-10-17",
+      "type": "article",
+      "title": "A2 Grammar — bài học và bài tập",
+      "publisher": "Test-English",
+      "url": "https://test-english.com/grammar-points/a2/",
+      "description": "Danh sách chủ điểm ngữ pháp A2, từ câu hỏi và thì cơ bản đến liên từ, lượng từ và cấu trúc thông dụng.",
+      "topics": [
+        "grammar",
+        "exercises",
+        "a2"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate"
+      ],
+      "goals": [
+        "exam-preparation",
+        "grammar-practice"
+      ],
+      "thumbnailAsset": null,
+      "thumbnailSourceUrl": null,
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình minh họa dự phòng nội bộ."
+    },
+    {
+      "id": "test-english-b1-grammar",
+      "status": "approved",
+      "approvedOn": "2026-10-17",
+      "type": "article",
+      "title": "B1 Grammar — luyện ngữ pháp theo trình độ",
+      "publisher": "Test-English",
+      "url": "https://test-english.com/grammar-points/b1/",
+      "description": "Bài học và bài tập ngữ pháp B1, phù hợp để nâng dần độ khó sau khi nắm chắc kiến thức cơ bản.",
+      "topics": [
+        "grammar",
+        "exercises",
+        "b1"
+      ],
+      "levels": [
+        "intermediate"
+      ],
+      "goals": [
+        "exam-preparation",
+        "grammar-practice"
+      ],
+      "thumbnailAsset": null,
+      "thumbnailSourceUrl": null,
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình minh họa dự phòng nội bộ."
+    },
+    {
+      "id": "cambridge-dictionary-pronunciation",
+      "status": "approved",
+      "approvedOn": "2026-10-17",
+      "type": "article",
+      "title": "Cambridge Dictionary — phát âm Anh–Anh và Anh–Mỹ",
+      "publisher": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/pronunciation/",
+      "description": "Tra phiên âm và nghe mẫu phát âm giọng Anh–Anh hoặc Anh–Mỹ cho từ tiếng Anh.",
+      "topics": [
+        "pronunciation",
+        "vocabulary",
+        "listening"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate"
+      ],
+      "goals": [
+        "pronunciation-practice",
+        "vocabulary-building"
+      ],
+      "thumbnailAsset": null,
+      "thumbnailSourceUrl": null,
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình minh họa dự phòng nội bộ."
+    }
+  ]
+}
