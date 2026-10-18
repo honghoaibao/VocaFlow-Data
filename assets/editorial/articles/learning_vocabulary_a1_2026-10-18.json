@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "id": "learning-vocabulary-a1",
+  "title": "Học từ vựng sao cho nhớ lâu hơn?",
+  "subtitle": "Một nhịp học nhỏ, đều đặn và có ngữ cảnh thường bền hơn việc học dồn.",
+  "author": "Ban biên tập VocaFlow",
+  "publishDate": "2026-10-18",
+  "readingMinutes": 4,
+  "topics": [
+    "vocabulary",
+    "study-habits",
+    "beginner",
+    "reading"
+  ],
+  "coverImage": "assets/brand/vocaflow_icon.svg",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Học từ mới không chỉ là ghi nhớ cách viết. Một từ sẽ dễ ở lại lâu hơn khi anh "
+        },
+        {
+          "text": "hiểu nghĩa",
+          "bold": true,
+          "color": "#387BFF"
+        },
+        {
+          "text": ", thấy nó trong một câu và tự dùng lại trong tình huống phù hợp."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Học ít hơn, nhưng dùng từ nhiều hơn"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Thay vì cố nhồi thật nhiều từ trong một buổi, hãy chọn một lượng vừa sức. Ví dụ, mỗi ngày học "
+        },
+        {
+          "text": "5–10 từ",
+          "bold": true,
+          "italic": true,
+          "color": "#7857FF"
+        },
+        {
+          "text": " rồi quay lại ôn chúng vào những ngày tiếp theo."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "spans": [
+        {
+          "text": "Mẹo nhỏ: ",
+          "bold": true
+        },
+        {
+          "text": "một từ mới nên đi cùng nghĩa tiếng Việt, một câu ví dụ và ít nhất một lần tự nhớ lại mà không nhìn đáp án."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "source": "assets/brand/vocaflow_wordmark.svg",
+      "alt": "VocaFlow wordmark",
+      "caption": "Học từ vựng theo nhịp đều đặn cùng VocaFlow."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Gắn từ mới với đời sống"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Từ "
+        },
+        {
+          "text": "habit",
+          "bold": true,
+          "italic": true,
+          "fontFamily": "serif",
+          "color": "#6046CA"
+        },
+        {
+          "text": " có nghĩa là “thói quen”. Hãy nối nó với điều anh thực sự làm: "
+        },
+        {
+          "text": "Reading every day is a good habit.",
+          "italic": true,
+          "fontFamily": "serif"
+        },
+        {
+          "text": " Khi từ nằm trong một câu có ý nghĩa, anh sẽ dễ nhớ cách dùng hơn là học một danh sách rời rạc."
+        }
+      ]
+    },
+    {
+      "type": "numberedList",
+      "items": [
+        {
+          "spans": [
+            {
+              "text": "Đọc từ và nghĩa một lần, chậm rãi."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Che phần nghĩa rồi thử tự nhớ lại."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Nói hoặc viết một câu ngắn có dùng từ đó."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "spans": [
+        {
+          "text": "Đều đặn không có nghĩa là hoàn hảo mỗi ngày; điều quan trọng là quay lại học tiếp.",
+          "italic": true,
+          "fontFamily": "serif",
+          "color": "#6046CA"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Ôn tập theo khoảng cách"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Hãy xem lại từ sau một khoảng thời gian, không chỉ ngay sau khi vừa học. Khi anh chủ động tự nhớ lại, bộ não phải làm việc nhiều hơn một chút — và đó chính là điều khiến việc ôn tập có ích."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "violet",
+      "spans": [
+        {
+          "text": "Bắt đầu thật nhỏ: ",
+          "bold": true
+        },
+        {
+          "text": "chọn một thời điểm cố định trong ngày và giữ nhịp học phù hợp với lịch sinh hoạt của anh."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Trong VocaFlow, anh có thể tiếp tục bằng bộ từ "
+        },
+        {
+          "text": "Daily Routines — A1",
+          "bold": true,
+          "color": "#387BFF"
+        },
+        {
+          "text": " ở tab Từ vựng. Bài viết và bộ từ được quản lý riêng trong repo nên có thể bổ sung mà không phải viết lại giao diện."
+        }
+      ]
+    }
+  ]
+}
