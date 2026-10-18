@@ -37,8 +37,9 @@ assets/
 1. Thêm tệp JSON mới vào đúng thư mục.
 2. Kiểm tra JSON hợp lệ, schema, trạng thái xuất bản và ngày.
 3. Thêm đường dẫn vào manifest tương ứng.
-4. Commit lên `main`.
-5. Trong VocaFlow, mở **Khám phá** và dùng biểu tượng cập nhật nội dung để tải dữ liệu mới. Nếu không có mạng hoặc nguồn không khả dụng, app giữ dữ liệu được đóng gói sẵn.
+4. Chạy `python3 tool/validate_content.py` hoặc để GitHub Actions tự kiểm tra trước khi gộp.
+5. Commit lên `main`.
+6. Trong VocaFlow, mở **Khám phá** và dùng biểu tượng cập nhật nội dung để tải dữ liệu mới. Nếu không có mạng hoặc nguồn không khả dụng, app giữ dữ liệu được đóng gói sẵn.
 
 ## Lưu ý
 
