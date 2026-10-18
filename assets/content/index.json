@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "schemaDescription": "Repository-published content manifest for vocabulary packs and original VocaFlow articles.",
+  "vocabularyPacks": [
+    {
+      "path": "assets/vocabulary/packs/daily_routines_a1_2026-10-18.json",
+      "publishDate": "2026-10-18"
+    }
+  ],
+  "editorialArticles": [
+    {
+      "path": "assets/editorial/articles/learning_vocabulary_a1_2026-10-18.json",
+      "publishDate": "2026-10-18"
+    }
+  ]
+}
