@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "id": "daily-routines-a1",
+  "topic": "Daily Routines",
+  "level": "A1",
+  "publishDate": "2026-10-18",
+  "title": "Daily Routines — A1",
+  "description": "Từ vựng nền tảng về thói quen và sinh hoạt hằng ngày.",
+  "words": [
+    {
+      "id": "habit",
+      "word": "habit",
+      "meaning": "thói quen",
+      "example": "Reading every day is a good habit.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈhæbɪt/"
+    },
+    {
+      "id": "improve",
+      "word": "improve",
+      "meaning": "cải thiện; tiến bộ",
+      "example": "I want to improve my English.",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪmˈpruːv/"
+    },
+    {
+      "id": "usually",
+      "word": "usually",
+      "meaning": "thường; thường lệ",
+      "example": "She usually gets up at six.",
+      "partOfSpeech": "adverb",
+      "pronunciation": "/ˈjuːʒuəli/"
+    },
+    {
+      "id": "confident",
+      "word": "confident",
+      "meaning": "tự tin",
+      "example": "He feels confident before the test.",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈkɒnfɪdənt/"
+    },
+    {
+      "id": "schedule",
+      "word": "schedule",
+      "meaning": "lịch trình",
+      "example": "I follow my study schedule.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈʃedjuːl/"
+    },
+    {
+      "id": "prepare",
+      "word": "prepare",
+      "meaning": "chuẩn bị",
+      "example": "I prepare my books every evening.",
+      "partOfSpeech": "verb",
+      "pronunciation": "/prɪˈpeə/"
+    },
+    {
+      "id": "regular",
+      "word": "regular",
+      "meaning": "đều đặn; thường xuyên",
+      "example": "Regular practice helps me remember words.",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈreɡjələ/"
+    },
+    {
+      "id": "review",
+      "word": "review",
+      "meaning": "ôn tập; xem lại",
+      "example": "I review new words before bed.",
+      "partOfSpeech": "verb",
+      "pronunciation": "/rɪˈvjuː/"
+    },
+    {
+      "id": "break",
+      "word": "break",
+      "meaning": "giờ nghỉ; nghỉ giải lao",
+      "example": "I take a short break after studying.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/breɪk/"
+    },
+    {
+      "id": "goal",
+      "word": "goal",
+      "meaning": "mục tiêu",
+      "example": "My goal is to learn ten words today.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ɡəʊl/"
+    }
+  ]
+}
