@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "catalogs": [
+    {
+      "path": "assets/discovery/catalog/approved/links-approved-2026-10-17.json",
+      "approvedDate": "2026-10-17"
+    }
+  ]
+}
