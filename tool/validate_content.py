@@ -83,10 +83,21 @@ def validate_vocabulary_and_articles() -> None:
             if word_id in seen_word_ids:
                 fail(f"Duplicate word id across packs: {word_id}")
             seen_word_ids.add(word_id)
-            if not isinstance(word.get("word"), str) or not word["word"].strip():
-                fail(f"{path}: word {word_id} is missing its word")
-            if not isinstance(word.get("meaning"), str) or not word["meaning"].strip():
-                fail(f"{path}: word {word_id} is missing its meaning")
+            for field, limit in (
+                ("word", 100),
+                ("meaning", 500),
+                ("example", 1000),
+                ("partOfSpeech", 80),
+                ("pronunciation", 100),
+            ):
+                field_value = word.get(field)
+                if not isinstance(field_value, str) or not field_value.strip():
+                    fail(f"{path}: word {word_id} is missing {field}")
+                if len(field_value.strip()) > limit:
+                    fail(f"{path}: word {word_id} has an overlong {field}")
+            if any("\\x00" in word[field] for field in ("word", "meaning", "example", "partOfSpeech", "pronunciation")):
+                fail(f"{path}: word {word_id} contains a null character")
+
 
     seen_article_ids: set[str] = set()
     for entry in manifest.get("editorialArticles", []):
@@ -99,8 +110,41 @@ def validate_vocabulary_and_articles() -> None:
         article = read_json(path)
         if article.get("schemaVersion") != 1 or article.get("status") != "published":
             fail(f"{path}: only schemaVersion 1 and published articles are allowed")
-        if article.get("publishDate") != publish_date or not article.get("title"):
+        if article.get("publishDate") != publish_date or not isinstance(article.get("title"), str) or not article["title"].strip():
             fail(f"{path}: publishDate and title must be valid")
+        for field, limit in (("title", 180), ("subtitle", 400), ("author", 100)):
+            value = article.get(field)
+            if not isinstance(value, str) or not value.strip() or len(value.strip()) > limit:
+                fail(f"{path}: {field} must be non-empty and at most {limit} characters")
+        if not isinstance(article.get("readingMinutes"), int) or not 1 <= article["readingMinutes"] <= 90:
+            fail(f"{path}: readingMinutes must be an integer from 1 to 90")
+        topics = article.get("topics")
+        if not isinstance(topics, list) or not topics or any(not isinstance(item, str) or not item.strip() for item in topics):
+            fail(f"{path}: topics must be a non-empty list of non-empty strings")
+        blocks = article.get("blocks")
+        if not isinstance(blocks, list) or not blocks or len(blocks) > 150:
+            fail(f"{path}: blocks must be a non-empty list with at most 150 blocks")
+        supported_block_types = {"paragraph", "heading", "quote", "callout", "image", "video", "bulletList", "numberedList", "divider"}
+        text_block_types = {"paragraph", "heading", "quote", "callout"}
+        for block_index, block in enumerate(blocks, start=1):
+            if not isinstance(block, dict) or block.get("type") not in supported_block_types:
+                fail(f"{path}: block {block_index} has an unsupported type")
+            block_type = block["type"]
+            spans = block.get("spans", [])
+            if block_type in text_block_types:
+                text_parts = [span.get("text", "") for span in spans if isinstance(span, dict)]
+                if not (isinstance(block.get("text"), str) and block["text"].strip()) and not any(isinstance(part, str) and part.strip() for part in text_parts):
+                    fail(f"{path}: text block {block_index} has no readable content")
+            if block_type in {"bulletList", "numberedList"}:
+                items = block.get("items")
+                if not isinstance(items, list) or not items:
+                    fail(f"{path}: list block {block_index} must have items")
+            if block_type == "image":
+                source = block.get("source", block.get("url", ""))
+                if not isinstance(source, str) or not source.startswith("https://"):
+                    fail(f"{path}: image block {block_index} must use an HTTPS source")
+            if block_type == "video" and not re.fullmatch(r"[A-Za-z0-9_-]{11}", str(block.get("videoId", ""))):
+                fail(f"{path}: video block {block_index} has an invalid videoId")
         article_id = article.get("id")
         if not isinstance(article_id, str) or not re.fullmatch(r"[a-z0-9-]+", article_id):
             fail(f"{path}: invalid article id {article_id!r}")
@@ -141,17 +185,28 @@ def validate_discovery_catalogs() -> None:
                 fail(f"{path}: item {item_id} is not approved for this catalog date")
             if item.get("type") not in {"article", "video"}:
                 fail(f"{path}: item {item_id} has an unsupported type")
+            for field, limit in (("title", 180), ("publisher", 120), ("description", 800)):
+                value = item.get(field)
+                if not isinstance(value, str) or not value.strip() or len(value.strip()) > limit:
+                    fail(f"{path}: item {item_id} has invalid {field}")
+            for field in ("topics", "levels", "goals"):
+                values = item.get(field)
+                if not isinstance(values, list) or not values or any(not isinstance(v, str) or not v.strip() for v in values):
+                    fail(f"{path}: item {item_id} must have a non-empty {field} list")
             url = item.get("url")
             parsed = urlparse(url if isinstance(url, str) else "")
             if parsed.scheme != "https" or not parsed.hostname or parsed.username or parsed.password:
                 fail(f"{path}: item {item_id} must use a safe HTTPS URL")
             thumbnail = item.get("thumbnailAsset")
-            if thumbnail is not None and (
-                not isinstance(thumbnail, str) or
-                not thumbnail.startswith("assets/discovery/thumbnails/") or
-                ".." in Path(thumbnail).parts or "\\" in thumbnail
-            ):
-                fail(f"{path}: item {item_id} has an unsafe thumbnailAsset")
+            if thumbnail is not None:
+                if (
+                    not isinstance(thumbnail, str) or
+                    not thumbnail.startswith("assets/discovery/thumbnails/") or
+                    ".." in Path(thumbnail).parts or "\\" in thumbnail
+                ):
+                    fail(f"{path}: item {item_id} has an unsafe thumbnailAsset")
+                if not (ROOT / thumbnail).is_file():
+                    fail(f"{path}: item {item_id} references a missing thumbnailAsset")
 
 
 def main() -> None:
