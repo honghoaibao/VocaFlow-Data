@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "id": "active-recall-spacing-vocabulary-a1",
+  "title": "Muốn nhớ từ vựng lâu hơn: học, tự nhớ lại, rồi ôn đúng lúc",
+  "subtitle": "Một quy trình ngắn dành cho người học A1–A2 và học sinh đang ôn tiếng Anh.",
+  "author": "Ban biên tập VocaFlow",
+  "publishDate": "2026-10-18",
+  "readingMinutes": 5,
+  "topics": [
+    "vocabulary",
+    "study-skills",
+    "beginner",
+    "exam-preparation"
+  ],
+  "coverImage": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Có bao giờ bạn đọc đi đọc lại một danh sách từ và thấy mình nhớ rất rõ, nhưng hôm sau lại không gọi được nghĩa của chúng? Điều đó khá bình thường. Nhìn thấy đáp án tạo cảm giác quen thuộc; còn tự nhớ ra đáp án là một kỹ năng khác. Muốn từ vựng dùng được khi đọc, nghe hoặc làm bài, hãy kết hợp ba việc: hiểu từ, chủ động nhớ lại và gặp lại từ sau một khoảng thời gian."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "spans": [
+        {
+          "text": "Mục tiêu của bài viết: ",
+          "bold": true
+        },
+        {
+          "text": "không học thật nhiều trong một buổi, mà tạo được một vòng học có thể lặp lại mỗi ngày."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Đừng chỉ nhìn — hãy tự nhớ lại"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Sau khi đọc nghĩa của một từ, hãy che phần tiếng Việt và thử nói hoặc viết nghĩa của nó. Sau đó, đổi chiều: nhìn nghĩa tiếng Việt và nhớ lại từ tiếng Anh. Nếu chưa nhớ được, mở đáp án, đọc lại rồi thử lần nữa. Sai ở bước này không có nghĩa là bạn học kém; nó cho biết từ nào cần được gặp lại."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Ví dụ với từ "
+        },
+        {
+          "text": "borrow",
+          "bold": true,
+          "color": "#387BFF"
+        },
+        {
+          "text": " (mượn): thay vì chỉ đọc “borrow = mượn”, hãy tự hoàn thành câu "
+        },
+        {
+          "text": "Can I ___ your dictionary?",
+          "italic": true,
+          "fontFamily": "serif"
+        },
+        {
+          "text": " rồi kiểm tra đáp án. Khi đã nhớ từ, đọc cả câu để học luôn cách dùng."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Ôn cách quãng thay vì dồn hết vào một tối"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Hãy để từ mới xuất hiện lại sau những khoảng nghỉ. Một lịch khởi đầu dễ thực hiện có thể là: cuối buổi học, ngày hôm sau, khoảng ba ngày sau và một tuần sau. Đây là lịch gợi ý để bắt đầu, không phải công thức bắt buộc: nếu bạn quên nhiều, hãy ôn sớm hơn; nếu nhớ chắc, có thể giãn khoảng cách."
+        }
+      ]
+    },
+    {
+      "type": "numberedList",
+      "items": [
+        {
+          "spans": [
+            {
+              "text": "Lần 1 — ngay sau khi học: tự kiểm tra nghĩa và cách dùng."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Lần 2 — ngày hôm sau: thử nhớ lại trước khi xem đáp án."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Lần 3 — sau vài ngày: đặt từ vào một câu mới."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Lần 4 — sau khoảng một tuần: kiểm tra nhanh những từ còn dễ nhầm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Học từ trong một cụm hoặc câu"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Một từ đứng riêng thường cho bạn ít thông tin. Cụm từ và câu ví dụ cho thấy từ đó thường đi với từ nào, dùng trong tình huống nào và có vị trí ra sao trong câu."
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "spans": [
+        {
+          "text": "I revise grammar before the test.",
+          "italic": true,
+          "fontFamily": "serif",
+          "color": "#6046CA"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Trong câu trên, "
+        },
+        {
+          "text": "revise",
+          "bold": true,
+          "color": "#387BFF"
+        },
+        {
+          "text": " nghĩa là “ôn tập”. Bạn cũng có thể học cụm "
+        },
+        {
+          "text": "revise grammar",
+          "italic": true
+        },
+        {
+          "text": " và tự đổi phần sau: revise vocabulary, revise for an exam. Hãy ưu tiên ví dụ ngắn, đúng ngữ pháp và gần với cuộc sống của mình."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Một phiên học 10 phút"
+    },
+    {
+      "type": "bulletList",
+      "items": [
+        {
+          "spans": [
+            {
+              "text": "2 phút: xem nghĩa, loại từ và cách phát âm của 5–8 từ mới."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "3 phút: che nghĩa và tự nhớ lại từng từ."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "3 phút: đọc câu ví dụ, sau đó tự tạo một câu tương tự."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "2 phút: đánh dấu từ chưa nhớ để đưa vào lượt ôn tiếp theo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Dùng lỗi sai để chọn nội dung ôn"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Không cần ôn tất cả từ với thời lượng như nhau. Nếu nhầm nghĩa, hãy kiểm tra nghĩa và ví dụ. Nếu biết nghĩa nhưng không nhớ cách viết, hãy viết từ ra giấy rồi tự kiểm tra. Nếu hiểu từng từ nhưng chưa hiểu câu, hãy đọc lại cả cụm và chú ý ngữ cảnh. Mỗi lỗi nên dẫn đến một hành động cụ thể."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "violet",
+      "spans": [
+        {
+          "text": "Một nguyên tắc hữu ích: ",
+          "bold": true
+        },
+        {
+          "text": "mỗi lần ôn, hãy thử tự trả lời trước khi xem gợi ý. Khi quên, xem lại đáp án rồi thử nhớ lần nữa."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "6. Bắt đầu từ hôm nay"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Chọn một chủ đề gần gũi như School Life hoặc Daily Routines, học một nhóm nhỏ và hẹn sẵn thời điểm ôn lại vào ngày mai. Đừng đặt mục tiêu phải nhớ hoàn hảo ngay lần đầu. Hãy theo dõi số từ có thể dùng đúng trong câu và quay lại các từ còn khó."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "VocaFlow được xây dựng để việc học diễn ra theo từng bước nhỏ: gặp từ mới, luyện chủ động nhớ lại và quan sát tiến bộ qua những lần ôn tập. Hãy bắt đầu bằng một phiên ngắn, rồi để sự đều đặn làm phần việc còn lại."
+        }
+      ]
+    }
+  ]
+}
