@@ -1,0 +1,308 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "id": "15-minute-english-plan-a2",
+  "title": "Kế hoạch tiếng Anh 15 phút: học, dùng và ôn lại",
+  "subtitle": "Một nhịp học nhỏ, có mục tiêu rõ ràng và đủ chỗ để luyện lại kiến thức.",
+  "author": "Ban biên tập VocaFlow",
+  "publishDate": "2026-10-19",
+  "readingMinutes": 6,
+  "topics": [
+    "study-skills",
+    "daily-routine",
+    "vocabulary",
+    "a2"
+  ],
+  "coverImage": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Khi lịch học dày, một kế hoạch tiếng Anh quá dài dễ bị bỏ dở. Thay vì chờ tới khi có cả giờ rảnh, hãy bắt đầu bằng một phiên 15 phút có ba việc rõ ràng: khởi động bằng kiến thức cũ, luyện một mục tiêu mới và kết thúc bằng lượt tự kiểm tra. Đây không phải mẹo bảo đảm tiến bộ nhanh; đó là cách làm cho việc học đủ nhỏ để có thể lặp lại và đủ cụ thể để bạn nhận ra bước tiếp theo."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "spans": [
+        {
+          "text": "Mục tiêu bài viết: ",
+          "bold": true
+        },
+        {
+          "text": "thiết kế một phiên học ngắn, chọn nội dung vừa sức và ghi lại điều cần xem lại mà không phải lên kế hoạch cầu kỳ."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Dành hai phút để gọi lại kiến thức cũ"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Trước khi mở ghi chú, chọn ba đến năm từ hoặc một quy tắc đã học. Che nghĩa tiếng Việt và thử nói nghĩa, phát âm hoặc đặt câu. Nếu không nhớ một từ, đánh dấu lại rồi tiếp tục thay vì dừng cả phiên học. Lượt tự nhớ lại cho bạn thông tin về điều đã vững và điều cần ôn thêm."
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "spans": [
+        {
+          "text": "Word: borrow. Example: Can I borrow your pencil?",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Sau khi tự trả lời, mở đáp án để kiểm tra. Nếu câu ví dụ vẫn khó, rút gọn nó thành một câu bạn có thể hiểu và tự nói. Mục đích là làm cho bộ từ cũ sống lại trong trí nhớ, không phải lặp lại toàn bộ bài học từ đầu."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Chọn một mục tiêu mới duy nhất"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Hãy chọn mục tiêu hẹp: học năm từ về trường học, phân biệt hiện tại đơn với hiện tại tiếp diễn, hoặc nghe một đoạn hội thoại ngắn và ghi lại ba cụm từ. Tránh đặt mục tiêu mơ hồ như “giỏi tiếng Anh hơn” cho một phiên 15 phút; mục tiêu cụ thể giúp bạn biết đã hoàn thành hay chưa."
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "items": [
+        {
+          "spans": [
+            {
+              "text": "Từ vựng: chọn một chủ đề và ưu tiên cụm từ có thể dùng trong câu."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Ngữ pháp: luyện một điểm nhỏ qua vài câu có chủ ngữ và ngữ cảnh rõ."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Nghe: nghe một đoạn ngắn, nắm ý chính rồi kiểm tra vài từ nổi bật."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Đọc: đọc một đoạn để tìm ý chính và một chi tiết có bằng chứng."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Phân chia thời gian còn lại"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Dành khoảng tám phút cho mục tiêu mới. Đọc hoặc nghe ví dụ trước, sau đó thử tự tạo một câu. Với từ vựng, ghi từ, nghĩa ngắn, phát âm và một ví dụ tự nhiên; với ngữ pháp, viết cả câu đúng lẫn một câu dễ nhầm để nhận ra điểm khác biệt. Không cần chép thật nhiều nếu bạn chưa kịp kiểm tra điều vừa ghi."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Nếu bài tập mất quá lâu, hãy giảm số câu hoặc số từ. Kế hoạch tốt không phải kế hoạch có nhiều đầu việc nhất; đó là kế hoạch vừa sức và để lại thời gian cho phản hồi. Một câu bạn hiểu vì sao đúng thường hữu ích hơn nhiều câu làm xong nhưng không được xem lại."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Kết thúc bằng ba phút tự kiểm tra"
+    },
+    {
+      "type": "numberedList",
+      "items": [
+        {
+          "spans": [
+            {
+              "text": "Che ghi chú và nói lại ý chính hoặc giải nghĩa ba từ."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Tự viết một câu mới có dùng kiến thức vừa học."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Mở tài liệu để sửa lỗi và ghi một dấu nhắc cho buổi sau."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Hãy viết ngắn gọn điều đã làm được và điều còn vướng. Ví dụ: “Nhớ được bốn từ về lớp học; còn nhầm borrow và lend; lần sau viết hai câu đối chiếu.” Một ghi chú như vậy cho bạn điểm bắt đầu rõ ràng vào ngày kế tiếp."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Ôn lại linh hoạt, không theo lịch cứng"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Bạn có thể bắt đầu bằng cách xem lại nội dung vào ngày hôm sau, vài ngày sau và cuối tuần. Hãy điều chỉnh khoảng cách theo kết quả của mình: nội dung dễ có thể chờ lâu hơn; nội dung khó nên được thử lại sớm hơn. Những khoảng thời gian này là gợi ý để bắt đầu, không phải công thức bắt buộc cho mọi người."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Nếu chỉ nhận ra từ khi nhìn thấy mà chưa tự nhớ ra được, hãy tạo thêm một lượt luyện ngắn. Nếu đã có thể nhớ và dùng từ trong một câu mới, chuyển sang nội dung khác rồi quay lại sau. Đừng xem việc quên là điểm trừ; hãy dùng nó để quyết định điều cần luyện."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "6. Điều chỉnh khi kế hoạch không chạy như dự định"
+    },
+    {
+      "type": "bulletList",
+      "items": [
+        {
+          "spans": [
+            {
+              "text": "Quá mệt: ôn hai từ cũ và dừng ở đó; giữ nhịp nhẹ nhàng."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Không hiểu bài: đổi sang ví dụ đơn giản hơn hoặc nguồn học có giải thích."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Hay bị gián đoạn: chuẩn bị sẵn tài liệu và giảm thông báo khi phù hợp."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Có thêm thời gian: chỉ mở rộng khi mục tiêu 15 phút đã hoàn thành, không cần kéo dài mọi phiên."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "violet",
+      "spans": [
+        {
+          "text": "Quy tắc nhỏ: ",
+          "bold": true
+        },
+        {
+          "text": "mỗi phiên học nên kết thúc bằng một sản phẩm nhìn thấy được—một câu tự viết, vài từ tự nhớ lại hoặc một câu hỏi cần giải đáp."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "7. Mẫu kế hoạch bạn có thể dùng ngay"
+    },
+    {
+      "type": "numberedList",
+      "items": [
+        {
+          "spans": [
+            {
+              "text": "Phút 0–2: tự kiểm tra ba từ cũ mà không nhìn nghĩa."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Phút 2–10: học một nhóm từ hoặc một điểm ngữ pháp nhỏ bằng ví dụ."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Phút 10–13: tự nói hoặc viết hai câu mới."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Phút 13–15: kiểm tra, sửa một lỗi và chọn nội dung để ôn tiếp."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Bạn không cần dùng đúng số phút ở mọi ngày. Hôm bận, một phiên ngắn hơn vẫn có ích; hôm rảnh, bạn có thể luyện thêm. Hãy ghi lại kết quả thực tế rồi điều chỉnh khối lượng và khoảng ôn sao cho phù hợp với chương trình học của mình."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Bắt đầu từ phiên học tiếp theo bằng một mục tiêu nhỏ và đo được. Học một ít, tự nhớ lại, sử dụng kiến thức trong ngữ cảnh, rồi quyết định cần xem lại điều gì. Sau một thời gian, chính những ghi chú và ví dụ của bạn sẽ giúp việc học có phương hướng hơn."
+        }
+      ]
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&w=1100&q=82",
+  "imageAlt": "Ảnh minh họa cho bài Kế hoạch tiếng Anh 15 phút: học, dùng và ôn lại",
+  "imageCredit": "Unsplash"
+}
