@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "approvalDate": "2026-10-19",
+  "items": [
+    {
+      "id": "video-voa-who-are-you",
+      "status": "approved",
+      "approvedOn": "2026-10-19",
+      "type": "video",
+      "title": "VOA Learning English — Lesson 1: Who Are You?",
+      "publisher": "VOA Learning English",
+      "url": "https://www.youtube.com/watch?v=iQ06VFmBGC4",
+      "description": "Video hội thoại tiếng Anh cơ bản của VOA Learning English, phù hợp để luyện nghe câu chào hỏi và giới thiệu bản thân.",
+      "topics": [
+        "listening",
+        "speaking",
+        "beginner"
+      ],
+      "levels": [
+        "beginner"
+      ],
+      "goals": [
+        "listening-practice",
+        "pronunciation-practice"
+      ],
+      "thumbnailAsset": null,
+      "thumbnailSourceUrl": null,
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow."
+    },
+    {
+      "id": "video-bbc-english-in-a-minute-boxset",
+      "status": "approved",
+      "approvedOn": "2026-10-19",
+      "type": "video",
+      "title": "BBC Learning English — English in a Minute: Vocabulary Box Set",
+      "publisher": "BBC Learning English",
+      "url": "https://www.youtube.com/watch?v=bRnGm3y0IFU",
+      "description": "Tổng hợp các cụm từ tiếng Anh ngắn gọn, phù hợp để mở rộng vốn từ và nghe cách diễn đạt tự nhiên.",
+      "topics": [
+        "vocabulary",
+        "listening",
+        "phrases"
+      ],
+      "levels": [
+        "intermediate"
+      ],
+      "goals": [
+        "vocabulary-building",
+        "listening-practice"
+      ],
+      "thumbnailAsset": null,
+      "thumbnailSourceUrl": null,
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow."
+    },
+    {
+      "id": "article-bc-present-simple",
+      "status": "approved",
+      "approvedOn": "2026-10-19",
+      "type": "article",
+      "title": "Present simple — cách dùng và bài luyện tập",
+      "publisher": "British Council LearnEnglish",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple",
+      "description": "Giải thích cách dùng hiện tại đơn, dạng động từ theo chủ ngữ và bài tập kiểm tra kiến thức.",
+      "topics": [
+        "grammar",
+        "present-simple",
+        "a1",
+        "a2"
+      ],
+      "levels": [
+        "beginner"
+      ],
+      "goals": [
+        "grammar-practice",
+        "exam-preparation"
+      ],
+      "thumbnailAsset": null,
+      "thumbnailSourceUrl": null,
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow."
+    },
+    {
+      "id": "article-bc-a1-listening",
+      "status": "approved",
+      "approvedOn": "2026-10-19",
+      "type": "article",
+      "title": "A1 Listening — luyện nghe theo tình huống",
+      "publisher": "British Council LearnEnglish",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/listening/a1",
+      "description": "Các bài nghe trình độ A1 với hội thoại quen thuộc, phần chuẩn bị và hoạt động kiểm tra mức độ hiểu.",
+      "topics": [
+        "listening",
+        "a1",
+        "daily-life"
+      ],
+      "levels": [
+        "beginner"
+      ],
+      "goals": [
+        "listening-practice",
+        "comprehension"
+      ],
+      "thumbnailAsset": null,
+      "thumbnailSourceUrl": null,
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow."
+    },
+    {
+      "id": "article-bc-past-continuous-past-simple",
+      "status": "approved",
+      "approvedOn": "2026-10-19",
+      "type": "article",
+      "title": "Past continuous and past simple — hai thì trong ngữ cảnh",
+      "publisher": "British Council LearnEnglish",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/past-continuous-past-simple",
+      "description": "Bài giải thích cách kết hợp quá khứ tiếp diễn và quá khứ đơn, kèm ví dụ và bài tập.",
+      "topics": [
+        "grammar",
+        "past-tenses",
+        "a2"
+      ],
+      "levels": [
+        "beginner",
+        "intermediate"
+      ],
+      "goals": [
+        "grammar-practice",
+        "exam-preparation"
+      ],
+      "thumbnailAsset": null,
+      "thumbnailSourceUrl": null,
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow."
+    }
+  ]
+}
