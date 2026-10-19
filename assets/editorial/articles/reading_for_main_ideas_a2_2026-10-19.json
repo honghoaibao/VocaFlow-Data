@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "id": "reading-for-main-ideas-a2",
+  "title": "Đọc hiểu tiếng Anh: tìm ý chính trước, chi tiết sau",
+  "subtitle": "Một quy trình đơn giản giúp bạn đọc có mục tiêu mà không phải dịch từng từ.",
+  "author": "Ban biên tập VocaFlow",
+  "publishDate": "2026-10-19",
+  "readingMinutes": 5,
+  "topics": [
+    "reading",
+    "study-skills",
+    "a2",
+    "exam-preparation"
+  ],
+  "coverImage": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Khi gặp một đoạn tiếng Anh có nhiều từ lạ, người học thường dừng lại để tra từng từ. Cách đó đôi khi cần thiết, nhưng nếu làm ngay từ câu đầu tiên, bạn dễ mất mạch nội dung. Hãy đọc theo từng lượt: nắm ý chính, tìm thông tin liên quan đến câu hỏi rồi mới kiểm tra từ chưa rõ."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "spans": [
+        {
+          "text": "Mục tiêu của bài: ",
+          "bold": true
+        },
+        {
+          "text": "biết dùng ba lượt đọc khác nhau và xác định thông tin trong đoạn văn mà không cần dịch toàn bộ."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Lượt đầu: nắm chủ đề"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Đọc tiêu đề, câu đầu và những từ được lặp lại. Chưa cần tra mọi từ mới. Hãy tự hỏi: đoạn văn chủ yếu nói về ai, điều gì hoặc vấn đề nào? Câu trả lời ban đầu có thể chưa hoàn hảo; mục tiêu là dựng một bức tranh tổng quát."
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "spans": [
+        {
+          "text": "Linh takes the bus to school. She listens to an English podcast during the journey and writes down one useful phrase each day.",
+          "italic": true,
+          "fontFamily": "serif"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Đoạn ví dụ chủ yếu nói về cách Linh tận dụng thời gian đi học để luyện tiếng Anh. Từ bus, podcast và phrase giúp xác định chủ đề; chưa cần dịch từng từ để hiểu ý chung."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Lượt hai: đọc câu hỏi trước khi tìm chi tiết"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Nếu bài có câu hỏi, hãy xác định từ khóa trong câu hỏi rồi quay lại đoạn văn. Từ khóa có thể được diễn đạt bằng một cách khác, vì vậy đừng chỉ tìm đúng một từ giống hệt. Chú ý tên riêng, thời gian, con số, hành động và từ đồng nghĩa."
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "items": [
+        {
+          "spans": [
+            {
+              "text": "Câu hỏi “How does Linh travel to school?” yêu cầu tìm phương tiện đi lại."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Câu hỏi “What does she practise?” yêu cầu tìm hoạt động học tập, không phải địa điểm."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Sau khi tìm thấy câu có thông tin, đọc thêm một câu xung quanh để kiểm tra ngữ cảnh."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Lượt ba: xử lý từ chưa biết"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Hãy xem từ đó có thật sự cần cho câu hỏi hay không. Nếu không ảnh hưởng đến ý chính, bạn có thể tiếp tục đọc. Nếu nó quan trọng, hãy dùng các từ xung quanh, loại từ và cấu trúc câu để đoán nghĩa trước khi tra từ điển."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "violet",
+      "spans": [
+        {
+          "text": "Mẹo nhỏ: ",
+          "bold": true
+        },
+        {
+          "text": "đừng đoán chỉ từ một chữ cái quen thuộc. Hãy kiểm tra xem nghĩa mình đoán có phù hợp với toàn câu hay không."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Thực hành với một mục tiêu rõ ràng"
+    },
+    {
+      "type": "numberedList",
+      "items": [
+        {
+          "spans": [
+            {
+              "text": "Đọc đoạn văn một lần để nêu chủ đề bằng một câu tiếng Việt."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Đọc câu hỏi và gạch chân một hoặc hai từ khóa quan trọng."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Tìm câu chứa bằng chứng, rồi dùng thông tin trong câu đó để trả lời."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Cuối cùng, kiểm tra xem câu trả lời có đúng trọng tâm và được đoạn văn hỗ trợ hay không."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Nếu hai đáp án có vẻ hợp lý, hãy quay lại bằng chứng trong bài. Đừng chọn chỉ vì một đáp án chứa từ giống trong câu hỏi; điều quyết định là nghĩa của cả câu và thông tin mà đoạn văn thực sự cung cấp."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Đọc hiểu là kỹ năng có thể luyện từng bước. Bắt đầu bằng đoạn ngắn, đặt một mục tiêu cho mỗi lượt đọc và ghi lại lý do chọn đáp án. Khi đã quen, hãy tăng dần độ dài hoặc độ khó của văn bản."
+        }
+      ]
+    }
+  ]
+}
