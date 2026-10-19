@@ -6,7 +6,7 @@
   "subtitle": "Một quy trình đơn giản giúp bạn đọc có mục tiêu mà không phải dịch từng từ.",
   "author": "Ban biên tập VocaFlow",
   "publishDate": "2026-10-19",
-  "readingMinutes": 5,
+  "readingMinutes": 6,
   "topics": [
     "reading",
     "study-skills",
@@ -188,9 +188,174 @@
           "text": "Đọc hiểu là kỹ năng có thể luyện từng bước. Bắt đầu bằng đoạn ngắn, đặt một mục tiêu cho mỗi lượt đọc và ghi lại lý do chọn đáp án. Khi đã quen, hãy tăng dần độ dài hoặc độ khó của văn bản."
         }
       ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Nhận biết từ nối và quan hệ ý"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Các từ nối cho biết người viết đang bổ sung, đối lập, giải thích nguyên nhân hay nêu kết quả. Chẳng hạn, however thường giới thiệu một ý tương phản; because nêu lý do; so có thể dẫn tới kết quả; for example đưa ra minh họa. Để hiểu mạch đoạn văn, hãy hỏi mỗi từ nối đang liên kết hai ý nào chứ đừng chỉ dịch riêng từ đó."
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "spans": [
+        {
+          "text": "Mia wanted to study outside. However, it began to rain, so she went to the library.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Câu đầu cho biết kế hoạch; however báo hiệu thay đổi; so nối tình huống thời tiết với quyết định mới. Nhìn mối quan hệ giữa các câu giúp bạn theo kịp ý chung ngay cả khi có vài từ không quen."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "6. Phân biệt ý chính và chi tiết hỗ trợ"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Ý chính thường khái quát nhiều câu, trong khi chi tiết hỗ trợ giải thích, chứng minh hoặc đưa ví dụ. Một con số, tên người hoặc hoạt động cụ thể có thể trả lời câu hỏi chi tiết nhưng chưa chắc là chủ đề của cả đoạn. Khi ghi ý chính, thử viết một câu bao quát và bỏ bớt thông tin quá cụ thể."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "7. Đoán nghĩa bằng ngữ cảnh một cách có kiểm tra"
+    },
+    {
+      "type": "bulletList",
+      "items": [
+        {
+          "spans": [
+            {
+              "text": "Xác định từ chưa biết là danh từ, động từ, tính từ hay trạng từ dựa vào vị trí và cấu trúc."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Đọc từ đứng trước và sau nó; tìm từ nối, ví dụ hoặc lời giải thích."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Đưa nghĩa dự đoán trở lại câu và kiểm tra xem câu có hợp lý không."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Nếu từ đó là chìa khóa của bài, tra từ điển đáng tin cậy sau khi đã thử suy luận."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "8. Bài luyện với bằng chứng"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Đọc đoạn ngắn: “Tom wanted to remember new expressions. He wrote one phrase on a card, used it in a sentence and reviewed the card the next morning. After a week, he selected the phrases he still found difficult.” Ý chính là Tom xây dựng một cách ôn cụm từ; các thẻ, câu ví dụ và buổi ôn sáng hôm sau là chi tiết hỗ trợ."
+        }
+      ]
+    },
+    {
+      "type": "numberedList",
+      "items": [
+        {
+          "spans": [
+            {
+              "text": "Hỏi: What was Tom trying to do? Viết câu trả lời bằng một cụm từ ngắn."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Hỏi: What did he do the next morning? Tìm câu có bằng chứng."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Hỏi: Which phrases did he select after a week? Đọc lại câu cuối và tránh đoán vượt quá thông tin được nêu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Một câu trả lời tốt không chỉ đúng mà còn có thể chỉ ra đoạn văn hỗ trợ nó. Khi luyện tập, hãy khoanh hoặc ghi lại vài từ trong câu chứa bằng chứng. Điều đó giúp bạn phân biệt thông tin có trong bài với suy luận cá nhân."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "9. Tự đánh giá chiến lược đọc"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Sau mỗi đoạn, ghi lại câu hỏi nào dễ, câu nào khiến bạn quay lại nhiều lần và lý do. Có thể bạn đã chọn đáp án dựa trên một từ trùng lặp nhưng bỏ qua ý của cả câu; hoặc bạn đã dành quá lâu cho một từ không quan trọng. Lần đọc tiếp theo, đặt mục tiêu nhỏ để sửa đúng thói quen ấy."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "violet",
+      "spans": [
+        {
+          "text": "Nhớ rằng: ",
+          "bold": true
+        },
+        {
+          "text": "Đọc nhanh không đồng nghĩa với bỏ qua mọi từ mới. Hãy điều chỉnh số lượt đọc theo nhiệm vụ: đọc lướt để nắm ý, đọc tìm kiếm khi cần dữ kiện, và đọc kỹ khi phải hiểu lập luận hoặc chi tiết quan trọng."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Bắt đầu với một đoạn ngắn có chủ đề quen thuộc, nêu ý chính bằng một câu, tìm bằng chứng cho hai chi tiết rồi kiểm tra một hoặc hai từ quan trọng. Khi quy trình này trở nên tự nhiên, hãy tăng dần độ dài và độ khó của văn bản thay vì cố dịch tất cả mọi câu."
+        }
+      ]
     }
   ],
-  "imageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=1100&q=82",
-  "imageAlt": "Ảnh minh họa bài viết: Đọc hiểu tiếng Anh: tìm ý chính trước, chi tiết sau",
+  "imageUrl": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1100&q=82",
+  "imageAlt": "Ảnh minh họa cho bài đọc hiểu tiếng Anh",
   "imageCredit": "Unsplash"
 }
