@@ -25,7 +25,10 @@
       ],
       "thumbnailAsset": null,
       "thumbnailSourceUrl": null,
-      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow."
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow.",
+      "imageUrl": "https://img.youtube.com/vi/iQ06VFmBGC4/hqdefault.jpg",
+      "imageAlt": "Ảnh minh họa nguồn học: VOA Learning English — Lesson 1: Who Are You?",
+      "imageCredit": "YouTube thumbnail"
     },
     {
       "id": "video-bbc-english-in-a-minute-boxset",
@@ -50,7 +53,10 @@
       ],
       "thumbnailAsset": null,
       "thumbnailSourceUrl": null,
-      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow."
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow.",
+      "imageUrl": "https://img.youtube.com/vi/bRnGm3y0IFU/hqdefault.jpg",
+      "imageAlt": "Ảnh minh họa nguồn học: BBC Learning English — English in a Minute: Vocabulary Box Set",
+      "imageCredit": "YouTube thumbnail"
     },
     {
       "id": "article-bc-present-simple",
@@ -76,7 +82,10 @@
       ],
       "thumbnailAsset": null,
       "thumbnailSourceUrl": null,
-      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow."
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow.",
+      "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa nguồn học: Present simple — cách dùng và bài luyện tập",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "article-bc-a1-listening",
@@ -101,7 +110,10 @@
       ],
       "thumbnailAsset": null,
       "thumbnailSourceUrl": null,
-      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow."
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow.",
+      "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa nguồn học: A1 Listening — luyện nghe theo tình huống",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "article-bc-past-continuous-past-simple",
@@ -127,7 +139,10 @@
       ],
       "thumbnailAsset": null,
       "thumbnailSourceUrl": null,
-      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow."
+      "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow.",
+      "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa nguồn học: Past continuous and past simple — hai thì trong ngữ cảnh",
+      "imageCredit": "Unsplash"
     }
   ]
 }
