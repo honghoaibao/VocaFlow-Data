@@ -6,9 +6,9 @@ Repository này chỉ lưu **dữ liệu JSON đã xuất bản**: gói từ v�
 
 ## Nội dung đã xuất bản
 
-- 3 bộ từ vựng: Daily Routines (A1), School Life (A1), Learning & Exam Skills (A2).
-- 5 liên kết học tập mới được duyệt ngày 2026-10-18, bên cạnh 8 liên kết trong đợt trước.
-- Bài viết gốc mới: “Muốn nhớ từ vựng lâu hơn: học, tự nhớ lại, rồi ôn đúng lúc”.
+- 5 bộ từ vựng: Daily Routines (A1), School Life (A1), Learning & Exam Skills (A2), Technology & Digital Life (A2), Environment & Climate (B1).
+- 5 liên kết được duyệt ngày 2026-10-18 và 5 liên kết bổ sung ngày 2026-10-19 (2 video YouTube và 3 bài học/bài viết), bên cạnh 8 liên kết của đợt đầu; tổng cộng 18 liên kết.
+- 4 bài viết gốc do VocaFlow biên soạn, gồm hai bài xuất bản mới ngày 2026-10-19 về thì hiện tại đơn và chiến lược đọc hiểu.
 - Chuẩn biên tập: [docs/editorial-style-guide.md](docs/editorial-style-guide.md). Tài liệu này học hỏi nguyên tắc trình bày tổng quát từ nguồn học uy tín; bài viết và ví dụ vẫn phải do VocaFlow tự viết.
 
 ## Cấu trúc
