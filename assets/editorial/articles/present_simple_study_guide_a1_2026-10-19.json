@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "id": "present-simple-study-guide-a1",
+  "title": "Hiện tại đơn: nhận diện thói quen và sự thật",
+  "subtitle": "Cách nhận ra dấu hiệu, chọn dạng động từ và tránh những lỗi thường gặp ở trình độ A1–A2.",
+  "author": "Ban biên tập VocaFlow",
+  "publishDate": "2026-10-19",
+  "readingMinutes": 4,
+  "topics": [
+    "grammar",
+    "present-simple",
+    "beginner",
+    "exam-preparation"
+  ],
+  "coverImage": "",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Thì hiện tại đơn thường xuất hiện khi ta nói về thói quen, lịch trình hoặc sự thật nói chung. Trong bài đọc và bài tập, điều quan trọng không chỉ là nhận ra từ chỉ tần suất, mà còn phải xem chủ ngữ và dạng động từ trong cả câu."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "spans": [
+        {
+          "text": "Mục tiêu: ",
+          "bold": true
+        },
+        {
+          "text": "nhận diện cách dùng phổ biến của hiện tại đơn và kiểm tra câu khẳng định, phủ định, câu hỏi."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Khi nào dùng hiện tại đơn?"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Dùng thì này cho việc lặp lại, thói quen và những điều thường đúng. Các cụm như every day, usually, often và on Mondays có thể là dấu hiệu hữu ích, nhưng ngữ cảnh của câu vẫn là căn cứ chính."
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "spans": [
+        {
+          "text": "Mina usually walks to school, but she takes the bus when it rains.",
+          "italic": true,
+          "fontFamily": "serif"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Câu trên nói về thói quen của Mina. Động từ walks có thêm -s vì chủ ngữ là she; takes cũng theo quy tắc tương tự. Mệnh đề when it rains nói về tình huống có tính khái quát."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Kiểm tra chủ ngữ trước khi chia động từ"
+    },
+    {
+      "type": "bulletList",
+      "items": [
+        {
+          "spans": [
+            {
+              "text": "I, you, we, they: dùng động từ nguyên mẫu trong câu khẳng định. Ví dụ: They study English after dinner."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "He, she, it: thường thêm -s hoặc -es. Ví dụ: He watches a short video every evening."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Động từ tận cùng bằng phụ âm + y thường đổi y thành -ies: study → studies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Phủ định và câu hỏi"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Với động từ thường, dùng do not (don't) hoặc does not (doesn't) để phủ định. Trong câu hỏi, đưa do hoặc does lên trước chủ ngữ. Khi đã có does hoặc doesn't, động từ chính trở về dạng nguyên mẫu."
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "spans": [
+        {
+          "text": "She doesn't study late. / Does she study every evening?",
+          "italic": true,
+          "fontFamily": "serif",
+          "color": "#6046CA"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "violet",
+      "spans": [
+        {
+          "text": "Lỗi cần tránh: ",
+          "bold": true
+        },
+        {
+          "text": "không viết “She doesn't studies” hoặc “Does he likes...?”. Từ does đã mang dấu hiệu ngữ pháp của ngôi thứ ba số ít."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Tự kiểm tra trong một phút"
+    },
+    {
+      "type": "numberedList",
+      "items": [
+        {
+          "spans": [
+            {
+              "text": "Đọc câu: “My brother ___ (play) football on Sundays.”"
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Xác định chủ ngữ my brother tương đương với he."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Chọn plays: “My brother plays football on Sundays.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Thử áp dụng cùng quy trình khi làm bài: đọc toàn câu, xác định ý nghĩa, tìm chủ ngữ rồi mới chọn dạng động từ. Nếu trả lời sai, hãy xem lại đúng bước khiến mình nhầm thay vì học thuộc cả câu một cách máy móc."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Gợi ý học tiếp: luyện vài câu ngắn với always, usually, sometimes và never; sau đó chuyển sang câu phủ định và câu hỏi với do/does. Một lượt luyện tập ngắn, có kiểm tra lại, hữu ích hơn việc làm thật nhiều câu nhưng không xem nguyên nhân sai."
+        }
+      ]
+    }
+  ]
+}
