@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "id": "technology-digital-life-a2",
+  "topic": "Technology & Digital Life",
+  "level": "A2",
+  "publishDate": "2026-10-19",
+  "title": "Technology & Digital Life — A2",
+  "description": "Từ vựng hữu ích về thiết bị số, quyền riêng tư và thói quen trực tuyến.",
+  "words": [
+    {
+      "id": "device",
+      "word": "device",
+      "meaning": "thiết bị",
+      "example": "I use a small device to listen to English recordings.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/dɪˈvaɪs/"
+    },
+    {
+      "id": "screen-time",
+      "word": "screen time",
+      "meaning": "thời gian sử dụng màn hình",
+      "example": "I take short breaks to manage my screen time.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈskriːn taɪm/"
+    },
+    {
+      "id": "privacy",
+      "word": "privacy",
+      "meaning": "quyền riêng tư; sự riêng tư",
+      "example": "Never share private information with strangers online.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈprɪvəsi/"
+    },
+    {
+      "id": "password",
+      "word": "password",
+      "meaning": "mật khẩu",
+      "example": "Choose a strong password and keep it private.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈpɑːswɜːd/"
+    },
+    {
+      "id": "download",
+      "word": "download",
+      "meaning": "tải xuống",
+      "example": "You can download the audio before your journey.",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˌdaʊnˈləʊd/"
+    },
+    {
+      "id": "upload",
+      "word": "upload",
+      "meaning": "tải lên",
+      "example": "Please upload your homework before the deadline.",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˌʌpˈləʊd/"
+    },
+    {
+      "id": "reliable",
+      "word": "reliable",
+      "meaning": "đáng tin cậy",
+      "example": "Use a reliable source when you check information.",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/rɪˈlaɪəbl/"
+    },
+    {
+      "id": "search-engine",
+      "word": "search engine",
+      "meaning": "công cụ tìm kiếm",
+      "example": "A search engine helps us find information online.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈsɜːtʃ ˌendʒɪn/"
+    },
+    {
+      "id": "notification",
+      "word": "notification",
+      "meaning": "thông báo",
+      "example": "I turn off unnecessary notifications while studying.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˌnəʊtɪfɪˈkeɪʃən/"
+    },
+    {
+      "id": "update",
+      "word": "update",
+      "meaning": "bản cập nhật; cập nhật",
+      "example": "The app needs an update to fix a small problem.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˌʌpˈdeɪt/"
+    }
+  ]
+}
