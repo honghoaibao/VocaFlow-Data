@@ -14,7 +14,10 @@
       "meaning": "thói quen",
       "example": "Reading every day is a good habit.",
       "partOfSpeech": "noun",
-      "pronunciation": "/ˈhæbɪt/"
+      "pronunciation": "/ˈhæbɪt/",
+      "imageUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ habit: thói quen",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "improve",
@@ -22,7 +25,10 @@
       "meaning": "cải thiện; tiến bộ",
       "example": "I want to improve my English.",
       "partOfSpeech": "verb",
-      "pronunciation": "/ɪmˈpruːv/"
+      "pronunciation": "/ɪmˈpruːv/",
+      "imageUrl": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ improve: cải thiện; tiến bộ",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "usually",
@@ -30,7 +36,10 @@
       "meaning": "thường; thường lệ",
       "example": "She usually gets up at six.",
       "partOfSpeech": "adverb",
-      "pronunciation": "/ˈjuːʒuəli/"
+      "pronunciation": "/ˈjuːʒuəli/",
+      "imageUrl": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ usually: thường; thường lệ",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "confident",
@@ -38,7 +47,10 @@
       "meaning": "tự tin",
       "example": "He feels confident before the test.",
       "partOfSpeech": "adjective",
-      "pronunciation": "/ˈkɒnfɪdənt/"
+      "pronunciation": "/ˈkɒnfɪdənt/",
+      "imageUrl": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ confident: tự tin",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "schedule",
@@ -46,7 +58,10 @@
       "meaning": "lịch trình",
       "example": "I follow my study schedule.",
       "partOfSpeech": "noun",
-      "pronunciation": "/ˈʃedjuːl/"
+      "pronunciation": "/ˈʃedjuːl/",
+      "imageUrl": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ schedule: lịch trình",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "prepare",
@@ -54,7 +69,10 @@
       "meaning": "chuẩn bị",
       "example": "I prepare my books every evening.",
       "partOfSpeech": "verb",
-      "pronunciation": "/prɪˈpeə/"
+      "pronunciation": "/prɪˈpeə/",
+      "imageUrl": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ prepare: chuẩn bị",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "regular",
@@ -62,7 +80,10 @@
       "meaning": "đều đặn; thường xuyên",
       "example": "Regular practice helps me remember words.",
       "partOfSpeech": "adjective",
-      "pronunciation": "/ˈreɡjələ/"
+      "pronunciation": "/ˈreɡjələ/",
+      "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ regular: đều đặn; thường xuyên",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "review",
@@ -70,7 +91,10 @@
       "meaning": "ôn tập; xem lại",
       "example": "I review new words before bed.",
       "partOfSpeech": "verb",
-      "pronunciation": "/rɪˈvjuː/"
+      "pronunciation": "/rɪˈvjuː/",
+      "imageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ review: ôn tập; xem lại",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "break",
@@ -78,7 +102,10 @@
       "meaning": "giờ nghỉ; nghỉ giải lao",
       "example": "I take a short break after studying.",
       "partOfSpeech": "noun",
-      "pronunciation": "/breɪk/"
+      "pronunciation": "/breɪk/",
+      "imageUrl": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ break: giờ nghỉ; nghỉ giải lao",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "goal",
@@ -86,7 +113,13 @@
       "meaning": "mục tiêu",
       "example": "My goal is to learn ten words today.",
       "partOfSpeech": "noun",
-      "pronunciation": "/ɡəʊl/"
+      "pronunciation": "/ɡəʊl/",
+      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ goal: mục tiêu",
+      "imageCredit": "Unsplash"
     }
-  ]
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1100&q=82",
+  "imageAlt": "Ảnh minh họa chủ đề Daily Routines",
+  "imageCredit": "Unsplash"
 }

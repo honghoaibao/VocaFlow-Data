@@ -14,7 +14,10 @@
       "meaning": "tập trung; sự tập trung",
       "partOfSpeech": "verb/noun",
       "example": "I focus better in a quiet room.",
-      "pronunciation": "/ˈfəʊ.kəs/"
+      "pronunciation": "/ˈfəʊ.kəs/",
+      "imageUrl": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ focus: tập trung; sự tập trung",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "exam-revise",
@@ -22,7 +25,10 @@
       "meaning": "ôn tập",
       "partOfSpeech": "verb",
       "example": "We revise grammar before the test.",
-      "pronunciation": "/rɪˈvaɪz/"
+      "pronunciation": "/rɪˈvaɪz/",
+      "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ revise: ôn tập",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "exam-memorise",
@@ -30,7 +36,10 @@
       "meaning": "ghi nhớ",
       "partOfSpeech": "verb",
       "example": "Try to memorise the phrase, not only the word.",
-      "pronunciation": "/ˈmem.ə.raɪz/"
+      "pronunciation": "/ˈmem.ə.raɪz/",
+      "imageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ memorise: ghi nhớ",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "exam-attempt",
@@ -38,7 +47,10 @@
       "meaning": "cố gắng; lần thử",
       "partOfSpeech": "noun/verb",
       "example": "Read every question before you attempt it.",
-      "pronunciation": "/əˈtempt/"
+      "pronunciation": "/əˈtempt/",
+      "imageUrl": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ attempt: cố gắng; lần thử",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "exam-correct",
@@ -46,7 +58,10 @@
       "meaning": "đúng; sửa lỗi",
       "partOfSpeech": "adjective/verb",
       "example": "Check whether your answer is correct.",
-      "pronunciation": "/kəˈrekt/"
+      "pronunciation": "/kəˈrekt/",
+      "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ correct: đúng; sửa lỗi",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "exam-mistake",
@@ -54,7 +69,10 @@
       "meaning": "lỗi; sự nhầm lẫn",
       "partOfSpeech": "noun",
       "example": "I learn from each mistake I make.",
-      "pronunciation": "/mɪˈsteɪk/"
+      "pronunciation": "/mɪˈsteɪk/",
+      "imageUrl": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ mistake: lỗi; sự nhầm lẫn",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "exam-result",
@@ -62,7 +80,10 @@
       "meaning": "kết quả",
       "partOfSpeech": "noun",
       "example": "She was pleased with her test result.",
-      "pronunciation": "/rɪˈzʌlt/"
+      "pronunciation": "/rɪˈzʌlt/",
+      "imageUrl": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ result: kết quả",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "exam-progress",
@@ -70,7 +91,10 @@
       "meaning": "sự tiến bộ",
       "partOfSpeech": "noun/verb",
       "example": "Small daily steps can lead to real progress.",
-      "pronunciation": "/ˈprəʊ.ɡres/"
+      "pronunciation": "/ˈprəʊ.ɡres/",
+      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ progress: sự tiến bộ",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "exam-instruction",
@@ -78,7 +102,10 @@
       "meaning": "hướng dẫn; chỉ dẫn",
       "partOfSpeech": "noun",
       "example": "Read the instructions carefully.",
-      "pronunciation": "/ɪnˈstrʌk.ʃən/"
+      "pronunciation": "/ɪnˈstrʌk.ʃən/",
+      "imageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ instruction: hướng dẫn; chỉ dẫn",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "exam-option",
@@ -86,7 +113,10 @@
       "meaning": "lựa chọn; phương án",
       "partOfSpeech": "noun",
       "example": "Choose the best option for each question.",
-      "pronunciation": "/ˈɒp.ʃən/"
+      "pronunciation": "/ˈɒp.ʃən/",
+      "imageUrl": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ option: lựa chọn; phương án",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "exam-passage",
@@ -94,7 +124,10 @@
       "meaning": "đoạn văn",
       "partOfSpeech": "noun",
       "example": "Read the passage once for the main idea.",
-      "pronunciation": "/ˈpæs.ɪdʒ/"
+      "pronunciation": "/ˈpæs.ɪdʒ/",
+      "imageUrl": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ passage: đoạn văn",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "exam-evidence",
@@ -102,7 +135,10 @@
       "meaning": "bằng chứng",
       "partOfSpeech": "noun",
       "example": "Find evidence in the text for your answer.",
-      "pronunciation": "/ˈev.ɪ.dəns/"
+      "pronunciation": "/ˈev.ɪ.dəns/",
+      "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ evidence: bằng chứng",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "exam-score",
@@ -110,7 +146,10 @@
       "meaning": "điểm số",
       "partOfSpeech": "noun/verb",
       "example": "Your score shows which skills need more practice.",
-      "pronunciation": "/skɔːr/"
+      "pronunciation": "/skɔːr/",
+      "imageUrl": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ score: điểm số",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "exam-deadline",
@@ -118,7 +157,10 @@
       "meaning": "hạn chót",
       "partOfSpeech": "noun",
       "example": "I set a deadline for finishing my revision.",
-      "pronunciation": "/ˈded.laɪn/"
+      "pronunciation": "/ˈded.laɪn/",
+      "imageUrl": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ deadline: hạn chót",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "exam-strategy",
@@ -126,7 +168,10 @@
       "meaning": "chiến lược; cách làm",
       "partOfSpeech": "noun",
       "example": "A clear strategy helps me manage exam time.",
-      "pronunciation": "/ˈstræt.ə.dʒi/"
+      "pronunciation": "/ˈstræt.ə.dʒi/",
+      "imageUrl": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ strategy: chiến lược; cách làm",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "exam-manage-time",
@@ -134,7 +179,13 @@
       "meaning": "quản lý thời gian",
       "partOfSpeech": "verb phrase",
       "example": "Plan each section to manage your time well.",
-      "pronunciation": "/ˈmæn.ɪdʒ taɪm/"
+      "pronunciation": "/ˈmæn.ɪdʒ taɪm/",
+      "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ manage time: quản lý thời gian",
+      "imageCredit": "Unsplash"
     }
-  ]
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=1100&q=82",
+  "imageAlt": "Ảnh minh họa chủ đề Learning & Exam Skills",
+  "imageCredit": "Unsplash"
 }

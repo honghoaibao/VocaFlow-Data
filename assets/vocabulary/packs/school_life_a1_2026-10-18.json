@@ -14,7 +14,10 @@
       "meaning": "cặp sách",
       "partOfSpeech": "noun",
       "example": "My schoolbag is next to the desk.",
-      "pronunciation": "/ˈskuːl.bæɡ/"
+      "pronunciation": "/ˈskuːl.bæɡ/",
+      "imageUrl": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ schoolbag: cặp sách",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "classroom",
@@ -22,7 +25,10 @@
       "meaning": "phòng học",
       "partOfSpeech": "noun",
       "example": "Our classroom is bright and clean.",
-      "pronunciation": "/ˈklɑːs.ruːm/"
+      "pronunciation": "/ˈklɑːs.ruːm/",
+      "imageUrl": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ classroom: phòng học",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "classmate",
@@ -30,7 +36,10 @@
       "meaning": "bạn cùng lớp",
       "partOfSpeech": "noun",
       "example": "My classmate helps me with English.",
-      "pronunciation": "/ˈklɑːs.meɪt/"
+      "pronunciation": "/ˈklɑːs.meɪt/",
+      "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ classmate: bạn cùng lớp",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "timetable",
@@ -38,7 +47,10 @@
       "meaning": "thời khóa biểu",
       "partOfSpeech": "noun",
       "example": "I check my timetable every Sunday.",
-      "pronunciation": "/ˈtaɪm.teɪ.bəl/"
+      "pronunciation": "/ˈtaɪm.teɪ.bəl/",
+      "imageUrl": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ timetable: thời khóa biểu",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "lesson",
@@ -46,7 +58,10 @@
       "meaning": "bài học; tiết học",
       "partOfSpeech": "noun",
       "example": "Our English lesson starts at eight.",
-      "pronunciation": "/ˈles.ən/"
+      "pronunciation": "/ˈles.ən/",
+      "imageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ lesson: bài học; tiết học",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "school-subject",
@@ -54,7 +69,10 @@
       "meaning": "môn học",
       "partOfSpeech": "noun",
       "example": "Science is my favourite subject.",
-      "pronunciation": "/ˈsʌb.dʒekt/"
+      "pronunciation": "/ˈsʌb.dʒekt/",
+      "imageUrl": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ subject: môn học",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "homework-task",
@@ -62,7 +80,10 @@
       "meaning": "bài tập về nhà",
       "partOfSpeech": "noun",
       "example": "I finish my homework before dinner.",
-      "pronunciation": "/ˈhəʊm.wɜːk/"
+      "pronunciation": "/ˈhəʊm.wɜːk/",
+      "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ homework: bài tập về nhà",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "notebook",
@@ -70,7 +91,10 @@
       "meaning": "vở ghi chép",
       "partOfSpeech": "noun",
       "example": "She writes new words in her notebook.",
-      "pronunciation": "/ˈnəʊt.bʊk/"
+      "pronunciation": "/ˈnəʊt.bʊk/",
+      "imageUrl": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ notebook: vở ghi chép",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "pencil-case",
@@ -78,7 +102,10 @@
       "meaning": "hộp bút",
       "partOfSpeech": "noun",
       "example": "There are two pens in my pencil case.",
-      "pronunciation": "/ˈpen.səl keɪs/"
+      "pronunciation": "/ˈpen.səl keɪs/",
+      "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ pencil case: hộp bút",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "school-library",
@@ -86,7 +113,10 @@
       "meaning": "thư viện",
       "partOfSpeech": "noun",
       "example": "We borrow books from the library.",
-      "pronunciation": "/ˈlaɪ.brər.i/"
+      "pronunciation": "/ˈlaɪ.brər.i/",
+      "imageUrl": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ library: thư viện",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "borrow-book",
@@ -94,7 +124,10 @@
       "meaning": "mượn",
       "partOfSpeech": "verb",
       "example": "Can I borrow your dictionary?",
-      "pronunciation": "/ˈbɒr.əʊ/"
+      "pronunciation": "/ˈbɒr.əʊ/",
+      "imageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ borrow: mượn",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "explain-answer",
@@ -102,7 +135,10 @@
       "meaning": "giải thích",
       "partOfSpeech": "verb",
       "example": "The teacher explains the new words.",
-      "pronunciation": "/ɪkˈspleɪn/"
+      "pronunciation": "/ɪkˈspleɪn/",
+      "imageUrl": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ explain: giải thích",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "ask-question",
@@ -110,7 +146,10 @@
       "meaning": "câu hỏi",
       "partOfSpeech": "noun",
       "example": "Please ask a question if you need help.",
-      "pronunciation": "/ˈkwes.tʃən/"
+      "pronunciation": "/ˈkwes.tʃən/",
+      "imageUrl": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ question: câu hỏi",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "give-answer",
@@ -118,7 +157,10 @@
       "meaning": "câu trả lời; trả lời",
       "partOfSpeech": "noun/verb",
       "example": "I know the answer to this question.",
-      "pronunciation": "/ˈɑːn.sər/"
+      "pronunciation": "/ˈɑːn.sər/",
+      "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ answer: câu trả lời; trả lời",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "school-project",
@@ -126,7 +168,10 @@
       "meaning": "dự án; bài tập lớn",
       "partOfSpeech": "noun",
       "example": "Our group is working on a science project.",
-      "pronunciation": "/ˈprɒdʒ.ekt/"
+      "pronunciation": "/ˈprɒdʒ.ekt/",
+      "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ project: dự án; bài tập lớn",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "school-uniform",
@@ -134,7 +179,13 @@
       "meaning": "đồng phục",
       "partOfSpeech": "noun",
       "example": "We wear our school uniform on weekdays.",
-      "pronunciation": "/ˈjuː.nɪ.fɔːm/"
+      "pronunciation": "/ˈjuː.nɪ.fɔːm/",
+      "imageUrl": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ uniform: đồng phục",
+      "imageCredit": "Unsplash"
     }
-  ]
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1100&q=82",
+  "imageAlt": "Ảnh minh họa chủ đề School Life",
+  "imageCredit": "Unsplash"
 }

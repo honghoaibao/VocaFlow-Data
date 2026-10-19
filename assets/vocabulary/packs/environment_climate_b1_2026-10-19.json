@@ -14,7 +14,10 @@
       "meaning": "môi trường",
       "example": "We should protect the environment for future generations.",
       "partOfSpeech": "noun",
-      "pronunciation": "/ɪnˈvaɪrənmənt/"
+      "pronunciation": "/ɪnˈvaɪrənmənt/",
+      "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ environment: môi trường",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "climate-change",
@@ -22,7 +25,10 @@
       "meaning": "biến đổi khí hậu",
       "example": "Climate change can affect weather patterns around the world.",
       "partOfSpeech": "noun",
-      "pronunciation": "/ˈklaɪmət tʃeɪndʒ/"
+      "pronunciation": "/ˈklaɪmət tʃeɪndʒ/",
+      "imageUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ climate change: biến đổi khí hậu",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "emission",
@@ -30,7 +36,10 @@
       "meaning": "sự phát thải; lượng khí thải",
       "example": "Cycling to school can help reduce carbon emissions.",
       "partOfSpeech": "noun",
-      "pronunciation": "/ɪˈmɪʃən/"
+      "pronunciation": "/ɪˈmɪʃən/",
+      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ emission: sự phát thải; lượng khí thải",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "renewable-energy",
@@ -38,7 +47,10 @@
       "meaning": "năng lượng tái tạo",
       "example": "Solar power is a form of renewable energy.",
       "partOfSpeech": "noun",
-      "pronunciation": "/rɪˌnjuːəbl ˈenədʒi/"
+      "pronunciation": "/rɪˌnjuːəbl ˈenədʒi/",
+      "imageUrl": "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ renewable energy: năng lượng tái tạo",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "biodiversity",
@@ -46,7 +58,10 @@
       "meaning": "đa dạng sinh học",
       "example": "Healthy forests support biodiversity.",
       "partOfSpeech": "noun",
-      "pronunciation": "/ˌbaɪəʊdaɪˈvɜːsəti/"
+      "pronunciation": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+      "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ biodiversity: đa dạng sinh học",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "habitat",
@@ -54,7 +69,10 @@
       "meaning": "môi trường sống; nơi cư trú tự nhiên",
       "example": "Plastic waste can damage the habitat of sea animals.",
       "partOfSpeech": "noun",
-      "pronunciation": "/ˈhæbɪtæt/"
+      "pronunciation": "/ˈhæbɪtæt/",
+      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ habitat: môi trường sống; nơi cư trú tự nhiên",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "pollution",
@@ -62,7 +80,10 @@
       "meaning": "sự ô nhiễm",
       "example": "Air pollution is a serious problem in many large cities.",
       "partOfSpeech": "noun",
-      "pronunciation": "/pəˈluːʃən/"
+      "pronunciation": "/pəˈluːʃən/",
+      "imageUrl": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ pollution: sự ô nhiễm",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "sustainable",
@@ -70,7 +91,10 @@
       "meaning": "bền vững",
       "example": "The school is looking for more sustainable ways to use energy.",
       "partOfSpeech": "adjective",
-      "pronunciation": "/səˈsteɪnəbl/"
+      "pronunciation": "/səˈsteɪnəbl/",
+      "imageUrl": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ sustainable: bền vững",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "recycle",
@@ -78,7 +102,10 @@
       "meaning": "tái chế",
       "example": "Our class collects paper and bottles to recycle them.",
       "partOfSpeech": "verb",
-      "pronunciation": "/ˌriːˈsaɪkl/"
+      "pronunciation": "/ˌriːˈsaɪkl/",
+      "imageUrl": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ recycle: tái chế",
+      "imageCredit": "Unsplash"
     },
     {
       "id": "conserve",
@@ -86,7 +113,13 @@
       "meaning": "bảo tồn; tiết kiệm",
       "example": "Turning off unused lights helps conserve electricity.",
       "partOfSpeech": "verb",
-      "pronunciation": "/kənˈsɜːv/"
+      "pronunciation": "/kənˈsɜːv/",
+      "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Minh họa cho từ conserve: bảo tồn; tiết kiệm",
+      "imageCredit": "Unsplash"
     }
-  ]
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=1100&q=82",
+  "imageAlt": "Ảnh minh họa chủ đề Environment & Climate",
+  "imageCredit": "Unsplash"
 }
