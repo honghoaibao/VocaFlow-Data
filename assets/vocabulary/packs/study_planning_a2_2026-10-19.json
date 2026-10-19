@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "id": "study-planning-a2",
+  "topic": "Study Planning & Focus",
+  "level": "A2",
+  "publishDate": "2026-10-19",
+  "title": "Study Planning & Focus — A2",
+  "description": "Từ vựng thực tế để lên kế hoạch học, tập trung và nhìn lại tiến độ.",
+  "words": [
+    {
+      "id": "study-prioritize",
+      "word": "prioritize",
+      "meaning": "ưu tiên",
+      "partOfSpeech": "verb",
+      "pronunciation": "/praɪˈɒrətaɪz/",
+      "example": "I prioritize the most difficult task first.",
+      "imageUrl": "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa cho từ prioritize: ưu tiên",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "study-allocate",
+      "word": "allocate",
+      "meaning": "phân bổ; dành riêng",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈæləkeɪt/",
+      "example": "I allocate fifteen minutes to vocabulary practice.",
+      "imageUrl": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa cho từ allocate: phân bổ; dành riêng",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "study-distraction",
+      "word": "distraction",
+      "meaning": "sự xao nhãng",
+      "partOfSpeech": "noun",
+      "pronunciation": "/dɪˈstrækʃən/",
+      "example": "I put my phone away to avoid distraction.",
+      "imageUrl": "https://images.unsplash.com/photo-1497436072909-60f36b2d72a6?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa cho từ distraction: sự xao nhãng",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "study-achievable",
+      "word": "achievable",
+      "meaning": "có thể đạt được",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/əˈtʃiːvəbl/",
+      "example": "Ten new words a week is an achievable goal for me.",
+      "imageUrl": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa cho từ achievable: có thể đạt được",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "study-productive",
+      "word": "productive",
+      "meaning": "hiệu quả; tạo ra kết quả",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/prəˈdʌktɪv/",
+      "example": "A short, focused session can be productive.",
+      "imageUrl": "https://images.unsplash.com/photo-1483794344563-d27a8d18014e?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa cho từ productive: hiệu quả; tạo ra kết quả",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "study-break-down",
+      "word": "break down",
+      "meaning": "chia nhỏ (nhiệm vụ)",
+      "partOfSpeech": "phrasal verb",
+      "pronunciation": "/breɪk daʊn/",
+      "example": "Break down a large assignment into smaller steps.",
+      "imageUrl": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa cho từ break down: chia nhỏ (nhiệm vụ)",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "study-checklist",
+      "word": "checklist",
+      "meaning": "danh sách việc cần làm",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈtʃeklɪst/",
+      "example": "I use a checklist to keep track of each step.",
+      "imageUrl": "https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa cho từ checklist: danh sách việc cần làm",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "study-flexible",
+      "word": "flexible",
+      "meaning": "linh hoạt",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈfleksəbl/",
+      "example": "My study plan is flexible when school gets busy.",
+      "imageUrl": "https://images.unsplash.com/photo-1518621736915-f3b1c41bfd00?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa cho từ flexible: linh hoạt",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "study-reflect",
+      "word": "reflect",
+      "meaning": "nhìn lại; suy ngẫm",
+      "partOfSpeech": "verb",
+      "pronunciation": "/rɪˈflekt/",
+      "example": "After practice, I reflect on what was difficult.",
+      "imageUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa cho từ reflect: nhìn lại; suy ngẫm",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "study-estimate",
+      "word": "estimate",
+      "meaning": "ước tính",
+      "partOfSpeech": "verb/noun",
+      "pronunciation": "/ˈestɪmeɪt/",
+      "example": "Estimate how long each task will take.",
+      "imageUrl": "https://images.unsplash.com/photo-1543269865-cbf427effbad?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa cho từ estimate: ước tính",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "study-postpone",
+      "word": "postpone",
+      "meaning": "hoãn lại",
+      "partOfSpeech": "verb",
+      "pronunciation": "/pəʊstˈpəʊn/",
+      "example": "Try not to postpone a five-minute review.",
+      "imageUrl": "https://images.unsplash.com/photo-1584697964358-3e14ca57658b?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa cho từ postpone: hoãn lại",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "study-milestone",
+      "word": "milestone",
+      "meaning": "cột mốc",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈmaɪlstəʊn/",
+      "example": "Finishing your first book is an important milestone.",
+      "imageUrl": "https://images.unsplash.com/photo-1529070538774-1843cb3265df?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa cho từ milestone: cột mốc",
+      "imageCredit": "Unsplash"
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1100&q=82",
+  "imageAlt": "Ảnh chủ đề lập kế hoạch học và sách",
+  "imageCredit": "Unsplash"
+}
