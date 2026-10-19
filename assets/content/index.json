@@ -25,6 +25,10 @@
     {
       "path": "assets/vocabulary/packs/study_planning_a2_2026-10-19.json",
       "publishDate": "2026-10-19"
+    },
+    {
+      "path": "assets/vocabulary/packs/everyday_communication_a2_2026-10-20.json",
+      "publishDate": "2026-10-20"
     }
   ],
   "editorialArticles": [
@@ -47,6 +51,10 @@
     {
       "path": "assets/editorial/articles/15_minute_english_plan_a2_2026-10-19.json",
       "publishDate": "2026-10-19"
+    },
+    {
+      "path": "assets/editorial/articles/sustainable_english_study_system_b1_2026-10-20.json",
+      "publishDate": "2026-10-20"
     }
   ]
 }
