@@ -52,6 +52,19 @@ def valid_date(value: object) -> bool:
         return False
 
 
+def validate_image_fields(entry: dict, context: str) -> None:
+    image_url = entry.get("imageUrl")
+    parsed = urlparse(image_url if isinstance(image_url, str) else "")
+    if parsed.scheme != "https" or not parsed.hostname or parsed.username or parsed.password:
+        fail(f"{context}: imageUrl must be an absolute HTTPS URL")
+    alt = entry.get("imageAlt")
+    if not isinstance(alt, str) or not alt.strip() or len(alt.strip()) > 300:
+        fail(f"{context}: imageAlt must be a non-empty description of at most 300 characters")
+    credit = entry.get("imageCredit")
+    if not isinstance(credit, str) or not credit.strip() or len(credit.strip()) > 120:
+        fail(f"{context}: imageCredit must identify the image source")
+
+
 def validate_vocabulary_and_articles() -> None:
     manifest_path = "assets/content/index.json"
     manifest = read_json(manifest_path)
@@ -71,6 +84,7 @@ def validate_vocabulary_and_articles() -> None:
             fail(f"{path}: only schemaVersion 1 and published packs are allowed")
         if pack.get("publishDate") != publish_date or not pack.get("topic") or not pack.get("level"):
             fail(f"{path}: publishDate, topic, and level must be valid")
+        validate_image_fields(pack, path)
         words = pack.get("words")
         if not isinstance(words, list) or not words:
             fail(f"{path}: words must be a non-empty list")
@@ -80,6 +94,7 @@ def validate_vocabulary_and_articles() -> None:
             word_id = word.get("id")
             if not isinstance(word_id, str) or not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", word_id):
                 fail(f"{path}: invalid word id {word_id!r}")
+            validate_image_fields(word, f"{path}: word {word_id}")
             if word_id in seen_word_ids:
                 fail(f"Duplicate word id across packs: {word_id}")
             seen_word_ids.add(word_id)
@@ -110,6 +125,7 @@ def validate_vocabulary_and_articles() -> None:
         article = read_json(path)
         if article.get("schemaVersion") != 1 or article.get("status") != "published":
             fail(f"{path}: only schemaVersion 1 and published articles are allowed")
+        validate_image_fields(article, path)
         if article.get("publishDate") != publish_date or not isinstance(article.get("title"), str) or not article["title"].strip():
             fail(f"{path}: publishDate and title must be valid")
         for field, limit in (("title", 180), ("subtitle", 400), ("author", 100)):
@@ -140,6 +156,8 @@ def validate_vocabulary_and_articles() -> None:
                 if not isinstance(items, list) or not items:
                     fail(f"{path}: list block {block_index} must have items")
             if block_type == "image":
+                if block.get("imageUrl"):
+                    validate_image_fields(block, f"{path}: image block {block_index}")
                 source = block.get("source", block.get("url", ""))
                 is_https = isinstance(source, str) and source.startswith("https://")
                 is_safe_asset = (
@@ -197,6 +215,7 @@ def validate_discovery_catalogs() -> None:
                 value = item.get(field)
                 if not isinstance(value, str) or not value.strip() or len(value.strip()) > limit:
                     fail(f"{path}: item {item_id} has invalid {field}")
+            validate_image_fields(item, f"{path}: item {item_id}")
             for field in ("topics", "levels", "goals"):
                 values = item.get(field)
                 if not isinstance(values, list) or not values or any(not isinstance(v, str) or not v.strip() for v in values):

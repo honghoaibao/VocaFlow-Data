@@ -9,6 +9,8 @@ Repository này chỉ lưu **dữ liệu JSON đã xuất bản**: gói từ v�
 - 5 bộ từ vựng: Daily Routines (A1), School Life (A1), Learning & Exam Skills (A2), Technology & Digital Life (A2), Environment & Climate (B1).
 - 5 liên kết được duyệt ngày 2026-10-18 và 5 liên kết bổ sung ngày 2026-10-19 (2 video YouTube và 3 bài học/bài viết), bên cạnh 8 liên kết của đợt đầu; tổng cộng 18 liên kết.
 - 4 bài viết gốc do VocaFlow biên soạn, gồm hai bài xuất bản mới ngày 2026-10-19 về thì hiện tại đơn và chiến lược đọc hiểu.
+- Metadata ảnh: mỗi bộ từ, từng từ, bài viết và nguồn học đều có `imageUrl` (HTTPS), `imageAlt` và `imageCredit`. Video sử dụng thumbnail YouTube; ảnh chủ đề sử dụng ảnh Unsplash.
+- Ứng dụng Android đọc các URL này để hiển thị ảnh và dùng bộ nhớ đệm ảnh của thiết bị. Khi ngoại tuyến, ảnh đã tải trước đó có thể tiếp tục hiển thị; dữ liệu JSON có bộ nhớ đệm riêng.
 - Chuẩn biên tập: [docs/editorial-style-guide.md](docs/editorial-style-guide.md). Tài liệu này học hỏi nguyên tắc trình bày tổng quát từ nguồn học uy tín; bài viết và ví dụ vẫn phải do VocaFlow tự viết.
 
 ## Cấu trúc
@@ -42,11 +44,11 @@ assets/
 ## Cập nhật nội dung
 
 1. Thêm tệp JSON mới vào đúng thư mục.
-2. Kiểm tra JSON hợp lệ, schema, trạng thái xuất bản và ngày.
-3. Thêm đường dẫn vào manifest tương ứng.
-4. Chạy `python3 tool/validate_content.py` hoặc để GitHub Actions tự kiểm tra trước khi gộp.
-5. Commit lên `main`.
-6. Trong VocaFlow, mở **Khám phá** và dùng biểu tượng cập nhật nội dung để tải dữ liệu mới. Nếu không có mạng hoặc nguồn không khả dụng, app giữ dữ liệu được đóng gói sẵn.
+2. Thêm `imageUrl`, `imageAlt` và `imageCredit` cho từng mục có ảnh.
+3. Kiểm tra JSON, schema, trạng thái xuất bản, ngày và metadata ảnh.
+4. Thêm đường dẫn vào manifest tương ứng.
+5. Chạy `python3 tool/validate_content.py` hoặc để GitHub Actions tự kiểm tra trước khi gộp.
+6. Commit lên `main`; VocaFlow sẽ tự tải nội dung khi mở app và cũng có nút cập nhật thủ công trong Hồ sơ & cài đặt. Nếu không có mạng hoặc nguồn không khả dụng, app giữ dữ liệu được đóng gói sẵn.
 
 ## Lưu ý
 
