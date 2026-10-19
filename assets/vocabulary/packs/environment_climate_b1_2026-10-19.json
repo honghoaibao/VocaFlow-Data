@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "id": "environment-climate-b1",
+  "topic": "Environment & Climate",
+  "level": "B1",
+  "publishDate": "2026-10-19",
+  "title": "Environment & Climate — B1",
+  "description": "Từ vựng về môi trường, biến đổi khí hậu và các lựa chọn sống bền vững.",
+  "words": [
+    {
+      "id": "environment",
+      "word": "environment",
+      "meaning": "môi trường",
+      "example": "We should protect the environment for future generations.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ɪnˈvaɪrənmənt/"
+    },
+    {
+      "id": "climate-change",
+      "word": "climate change",
+      "meaning": "biến đổi khí hậu",
+      "example": "Climate change can affect weather patterns around the world.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈklaɪmət tʃeɪndʒ/"
+    },
+    {
+      "id": "emission",
+      "word": "emission",
+      "meaning": "sự phát thải; lượng khí thải",
+      "example": "Cycling to school can help reduce carbon emissions.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ɪˈmɪʃən/"
+    },
+    {
+      "id": "renewable-energy",
+      "word": "renewable energy",
+      "meaning": "năng lượng tái tạo",
+      "example": "Solar power is a form of renewable energy.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/rɪˌnjuːəbl ˈenədʒi/"
+    },
+    {
+      "id": "biodiversity",
+      "word": "biodiversity",
+      "meaning": "đa dạng sinh học",
+      "example": "Healthy forests support biodiversity.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˌbaɪəʊdaɪˈvɜːsəti/"
+    },
+    {
+      "id": "habitat",
+      "word": "habitat",
+      "meaning": "môi trường sống; nơi cư trú tự nhiên",
+      "example": "Plastic waste can damage the habitat of sea animals.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈhæbɪtæt/"
+    },
+    {
+      "id": "pollution",
+      "word": "pollution",
+      "meaning": "sự ô nhiễm",
+      "example": "Air pollution is a serious problem in many large cities.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/pəˈluːʃən/"
+    },
+    {
+      "id": "sustainable",
+      "word": "sustainable",
+      "meaning": "bền vững",
+      "example": "The school is looking for more sustainable ways to use energy.",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/səˈsteɪnəbl/"
+    },
+    {
+      "id": "recycle",
+      "word": "recycle",
+      "meaning": "tái chế",
+      "example": "Our class collects paper and bottles to recycle them.",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˌriːˈsaɪkl/"
+    },
+    {
+      "id": "conserve",
+      "word": "conserve",
+      "meaning": "bảo tồn; tiết kiệm",
+      "example": "Turning off unused lights helps conserve electricity.",
+      "partOfSpeech": "verb",
+      "pronunciation": "/kənˈsɜːv/"
+    }
+  ]
+}
