@@ -6,7 +6,7 @@
   "subtitle": "Một nhịp học nhỏ, đều đặn và có ngữ cảnh thường bền hơn việc học dồn.",
   "author": "Ban biên tập VocaFlow",
   "publishDate": "2026-10-18",
-  "readingMinutes": 4,
+  "readingMinutes": 6,
   "topics": [
     "vocabulary",
     "study-habits",
@@ -187,9 +187,199 @@
           "text": " ở tab Từ vựng. Bài viết và bộ từ được quản lý riêng trong repo nên có thể bổ sung mà không phải viết lại giao diện."
         }
       ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Gắn từ mới vào một tình huống quen thuộc"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Một từ rời rạc thường khó gợi nhớ hơn một từ nằm trong câu có ý nghĩa. Thay vì chỉ ghi “borrow = mượn”, hãy tạo một cảnh nhỏ: “Can I borrow your dictionary?” Bạn có người nói, một đồ vật và một mục đích giao tiếp. Khi cần dùng lại từ borrow, câu hỏi quen thuộc giúp bạn nhớ cả nghĩa lẫn cách dùng."
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "spans": [
+        {
+          "text": "I borrow a book from the library, and I return it on Friday.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Trong ví dụ này, borrow đi với vật được mượn; return diễn tả hành động trả lại. Hai từ xuất hiện trong cùng một tình huống nên có thể được ôn như một cặp hữu ích. Hãy tự tạo câu liên quan đến trường học, gia đình hoặc sở thích của bạn; câu đơn giản nhưng đúng ngữ cảnh thường hữu ích hơn câu dài khó hiểu."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Học cả cụm từ và cách kết hợp"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Tiếng Anh thường dùng các từ theo cụm quen thuộc. Bạn có thể ghi “make a decision”, “take a break”, “pay attention” thay vì chỉ ghi decision, break hoặc attention. Ghi kèm giới từ khi cần, chẳng hạn interested in và good at. Những phần nhỏ này giúp bạn dùng từ trong câu tự nhiên hơn."
+        }
+      ]
+    },
+    {
+      "type": "bulletList",
+      "items": [
+        {
+          "spans": [
+            {
+              "text": "Danh từ + tính từ: a useful idea, a quiet place, a daily routine."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Động từ + danh từ: keep a diary, set a goal, solve a problem."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Động từ + giới từ: listen to music, depend on someone, prepare for a test."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Một lượt học mười phút có cấu trúc"
+    },
+    {
+      "type": "numberedList",
+      "items": [
+        {
+          "spans": [
+            {
+              "text": "Hai phút: xem lại 4–6 từ cũ mà không nhìn nghĩa."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Bốn phút: học 3–5 từ mới, nghe hoặc đọc phát âm và quan sát ví dụ."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Ba phút: che phần nghĩa, tự nói hoặc viết lại từ cùng một câu ngắn."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Một phút: đánh dấu từ còn khó và lên lịch xem lại sau."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Số lượng trên chỉ là điểm bắt đầu, không phải hạn mức bắt buộc. Nếu bạn chưa nhớ được các từ cũ, giảm số từ mới là lựa chọn hợp lý. Mục tiêu là tạo cơ hội tự nhớ lại và sử dụng từ, không phải chạy theo một con số lớn."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Nhận diện lỗi để sửa đúng chỗ"
+    },
+    {
+      "type": "bulletList",
+      "items": [
+        {
+          "spans": [
+            {
+              "text": "Chỉ chép từ và bản dịch mà không tự kiểm tra: hãy che nghĩa và thử nhớ lại."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Đọc phát âm một lần rồi bỏ qua: hãy nghe lại và nói chậm một lượt."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Lưu quá nhiều từ tương tự vào một danh sách: gom chúng theo chủ đề hoặc cách sử dụng."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Chọn ví dụ quá khó: viết lại bằng cấu trúc bạn đã biết để ý nghĩa của từ nổi bật hơn."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "violet",
+      "spans": [
+        {
+          "text": "Gợi ý: ",
+          "bold": true
+        },
+        {
+          "text": "Nếu quên một từ, đừng xem đó là thất bại. Ghi lại điều khiến bạn nhầm—âm đọc, nghĩa, chính tả hay cách kết hợp—rồi chọn một bài tập ngắn đúng với khó khăn ấy."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Kiểm tra xem bạn có thể dùng từ không"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Sau khi nhớ nghĩa, hãy đổi ngữ cảnh. Nếu vừa học usually, hãy nói một câu về thói quen của bản thân; nếu vừa học borrow, hãy hỏi mượn một vật; nếu học improve, hãy nói điều bạn muốn cải thiện. Khi có thể tự tạo câu mới và hiểu vì sao câu ấy đúng, bạn đã tiến xa hơn việc chỉ nhận ra bản dịch."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Cuối buổi, chọn một từ và dùng nó trong tin nhắn, ghi chú hoặc câu nói thật. Ngày hôm sau, thử nhớ lại mà chưa mở danh sách. Nếu từ chưa xuất hiện trong trí nhớ, quay lại ví dụ và thử thêm lần nữa. Học từ vựng là quá trình sử dụng lặp lại theo thời gian; hãy để mỗi lượt học kết thúc bằng một hành động cụ thể."
+        }
+      ]
     }
   ],
-  "imageUrl": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1100&q=82",
-  "imageAlt": "Ảnh minh họa bài viết: Học từ vựng sao cho nhớ lâu hơn?",
+  "imageUrl": "https://images.unsplash.com/photo-1508780709619-79562169bc64?auto=format&fit=crop&w=1100&q=82",
+  "imageAlt": "Ảnh minh họa cho bài học phương pháp học từ vựng",
   "imageCredit": "Unsplash"
 }
