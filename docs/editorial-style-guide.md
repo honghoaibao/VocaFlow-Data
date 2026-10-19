@@ -79,3 +79,12 @@ Before publishing, review duplicate words/IDs across packs, misleading translati
 - [ ] The content is original and avoids reproducing a publisher's text.
 - [ ] Title, date, author, reading time, topic metadata, block schema and assets are valid.
 - [ ] A second pass checks typos, duplicate IDs, missing fields and the in-app reading experience.
+
+
+## 9. Long-form article quality gate (VocaFlow)
+
+- A first-party in-app article requested as a substantial guide should contain 200–2,000 words. Aim for roughly 600–1,000 words when the topic supports it; do not pad a narrow topic merely to increase length.
+- If an older article feels skeletal, improve it with clearer explanations, original worked examples, common-error guidance, and a self-check rather than simply changing its title.
+- Add at least one practical exercise and include enough context for the learner to check the answer. Keep answers close to the exercise or explain how to verify them.
+- Give each article an appropriate cover image with relevant imageAlt and accurate imageCredit. Do not use a third-party video thumbnail without permission.
+- Count text from the blocks actually rendered by the app. Update readingMinutes conservatively after editing.

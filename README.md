@@ -6,10 +6,10 @@ Repository này chỉ lưu **dữ liệu JSON đã xuất bản**: gói từ v�
 
 ## Nội dung đã xuất bản
 
-- 5 bộ từ vựng: Daily Routines (A1), School Life (A1), Learning & Exam Skills (A2), Technology & Digital Life (A2), Environment & Climate (B1).
-- 5 liên kết được duyệt ngày 2026-10-18 và 5 liên kết bổ sung ngày 2026-10-19 (2 video YouTube và 3 bài học/bài viết), bên cạnh 8 liên kết của đợt đầu; tổng cộng 18 liên kết.
-- 4 bài viết gốc do VocaFlow biên soạn, gồm hai bài xuất bản mới ngày 2026-10-19 về thì hiện tại đơn và chiến lược đọc hiểu.
-- Metadata ảnh: mỗi bộ từ, từng từ, bài viết và nguồn học đều có `imageUrl` (HTTPS), `imageAlt` và `imageCredit`. Video sử dụng thumbnail YouTube; ảnh chủ đề sử dụng ảnh Unsplash.
+- 6 bộ từ vựng: Daily Routines (A1), School Life (A1), Learning & Exam Skills (A2), Technology & Digital Life (A2), Environment & Climate (B1), Study Planning & Focus (A2).
+- 20 liên kết đã duyệt, gồm tài liệu học và video. Đợt 2026-10-19 bổ sung video BBC Learning English về trí nhớ và trang từ vựng A1–A2 của British Council.
+- 5 bài viết gốc do VocaFlow biên soạn. Các bài học từ vựng, hiện tại đơn và đọc hiểu đã được mở rộng thêm ví dụ, lỗi thường gặp và phần tự luyện; bài mới hướng dẫn lập phiên học tiếng Anh 15 phút.
+- Metadata ảnh: mỗi bộ từ, từng từ, bài viết và nguồn học đều có `imageUrl` (HTTPS), `imageAlt` và `imageCredit`. 30 ảnh từ/cụm từ trùng nguồn đã được đổi sang ảnh khác; nội dung mới cũng có ảnh riêng. Nguồn ảnh dùng Unsplash, không sao chép thumbnail video bên thứ ba.
 - Ứng dụng Android đọc các URL này để hiển thị ảnh và dùng bộ nhớ đệm ảnh của thiết bị. Khi ngoại tuyến, ảnh đã tải trước đó có thể tiếp tục hiển thị; dữ liệu JSON có bộ nhớ đệm riêng.
 - Chuẩn biên tập: [docs/editorial-style-guide.md](docs/editorial-style-guide.md). Tài liệu này học hỏi nguyên tắc trình bày tổng quát từ nguồn học uy tín; bài viết và ví dụ vẫn phải do VocaFlow tự viết.
 
@@ -44,7 +44,7 @@ assets/
 ## Cập nhật nội dung
 
 1. Thêm tệp JSON mới vào đúng thư mục.
-2. Thêm `imageUrl`, `imageAlt` và `imageCredit` cho từng mục có ảnh.
+2. Thêm `imageUrl`, `imageAlt` và `imageCredit` cho từng mục có ảnh. Tránh dùng chung một ảnh minh họa cho nhiều từ nếu có thể chọn ảnh liên quan hơn.
 3. Kiểm tra JSON, schema, trạng thái xuất bản, ngày và metadata ảnh.
 4. Thêm đường dẫn vào manifest tương ứng.
 5. Chạy `python3 tool/validate_content.py` hoặc để GitHub Actions tự kiểm tra trước khi gộp.

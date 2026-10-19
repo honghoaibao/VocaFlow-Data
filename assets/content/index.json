@@ -21,6 +21,10 @@
     {
       "path": "assets/vocabulary/packs/technology_digital_life_a2_2026-10-19.json",
       "publishDate": "2026-10-19"
+    },
+    {
+      "path": "assets/vocabulary/packs/study_planning_a2_2026-10-19.json",
+      "publishDate": "2026-10-19"
     }
   ],
   "editorialArticles": [
@@ -38,6 +42,10 @@
     },
     {
       "path": "assets/editorial/articles/reading_for_main_ideas_a2_2026-10-19.json",
+      "publishDate": "2026-10-19"
+    },
+    {
+      "path": "assets/editorial/articles/15_minute_english_plan_a2_2026-10-19.json",
       "publishDate": "2026-10-19"
     }
   ]

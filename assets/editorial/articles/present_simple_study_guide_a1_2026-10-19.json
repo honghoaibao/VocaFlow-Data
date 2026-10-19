@@ -6,7 +6,7 @@
   "subtitle": "Cách nhận ra dấu hiệu, chọn dạng động từ và tránh những lỗi thường gặp ở trình độ A1–A2.",
   "author": "Ban biên tập VocaFlow",
   "publishDate": "2026-10-19",
-  "readingMinutes": 4,
+  "readingMinutes": 6,
   "topics": [
     "grammar",
     "present-simple",
@@ -184,9 +184,145 @@
           "text": "Gợi ý học tiếp: luyện vài câu ngắn với always, usually, sometimes và never; sau đó chuyển sang câu phủ định và câu hỏi với do/does. Một lượt luyện tập ngắn, có kiểm tra lại, hữu ích hơn việc làm thật nhiều câu nhưng không xem nguyên nhân sai."
         }
       ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Trạng từ tần suất đứng ở đâu?"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Các trạng từ always, usually, often, sometimes và never thường đứng trước động từ thường: “I usually read after dinner.” Với động từ be, trạng từ thường đứng sau be: “She is often busy on Mondays.” Vị trí này giúp câu rõ ràng mà không phải thay đổi cấu trúc chính."
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "spans": [
+        {
+          "text": "They often study together. / He is sometimes late.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "6. Phân biệt thói quen với hành động đang diễn ra"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Nếu muốn nói điều lặp lại hoặc đúng nói chung, hiện tại đơn thường phù hợp: “Mina walks to school.” Nếu hành động đang xảy ra vào thời điểm nói, hiện tại tiếp diễn thường thích hợp hơn: “Mina is walking to school now.” Từ chỉ thời gian như every day, on Mondays, usually, now và at the moment có thể gợi ý, nhưng hãy đọc cả ngữ cảnh trước khi chọn thì."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "7. Ba lỗi thường gặp"
+    },
+    {
+      "type": "bulletList",
+      "items": [
+        {
+          "spans": [
+            {
+              "text": "Quên -s/-es với he, she hoặc it: viết “My sister studies”, không phải “My sister study”."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Giữ -s sau does/doesn't: viết “Does he play?” và “He doesn't play”."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Dùng sai vị trí trạng từ: “I usually walk”, nhưng “I am usually ready”."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "8. Bài tự kiểm tra ngắn"
+    },
+    {
+      "type": "numberedList",
+      "items": [
+        {
+          "spans": [
+            {
+              "text": "My friends ___ (watch) a short video every evening."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Lan ___ (not like) studying in a noisy room."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "___ your teacher ___ (give) homework on Fridays?"
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "We ___ (be) usually ready before eight."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Đáp án: watch; doesn't like; Does ... give; are. Hãy kiểm tra từng câu bằng cách tìm chủ ngữ, xác định động từ và xem câu là khẳng định, phủ định hay câu hỏi. Nếu sai, hãy sửa đúng bước trước khi làm thêm câu mới."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "spans": [
+        {
+          "text": "Cách ôn lại: ",
+          "bold": true
+        },
+        {
+          "text": "Tự viết bốn câu về lịch sinh hoạt của bạn: hai câu khẳng định, một câu phủ định và một câu hỏi. Dùng ít nhất hai trạng từ tần suất rồi đọc lại xem động từ đã khớp với chủ ngữ chưa."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Bạn không cần học toàn bộ quy tắc cùng một lúc. Bắt đầu bằng thói quen thường ngày, kiểm tra chủ ngữ và luyện một dạng câu; khi cách làm trở nên quen thuộc, chuyển sang câu hỏi và phủ định. Các ví dụ do chính bạn tạo ra sẽ giúp bạn nhận ra ngữ pháp trong những tình huống thực tế."
+        }
+      ]
     }
   ],
-  "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1100&q=82",
-  "imageAlt": "Ảnh minh họa bài viết: Hiện tại đơn: nhận diện thói quen và sự thật",
+  "imageUrl": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1100&q=82",
+  "imageAlt": "Ảnh minh họa cho bài hướng dẫn thì hiện tại đơn",
   "imageCredit": "Unsplash"
 }
