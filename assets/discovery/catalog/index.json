@@ -8,6 +8,10 @@
     {
       "path": "assets/discovery/catalog/approved/links-approved-2026-10-18.json",
       "approvedDate": "2026-10-18"
+    },
+    {
+      "path": "assets/discovery/catalog/approved/links-approved-2026-10-19.json",
+      "approvedDate": "2026-10-19"
     }
   ]
 }
