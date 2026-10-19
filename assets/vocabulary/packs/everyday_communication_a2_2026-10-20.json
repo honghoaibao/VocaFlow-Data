@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "id": "everyday-communication-a2",
+  "topic": "Everyday Communication & Problem Solving",
+  "level": "A2",
+  "publishDate": "2026-10-20",
+  "title": "Everyday Communication & Problem Solving — A2",
+  "description": "Từ vựng thực hành để hỏi lại, trao đổi ý kiến, tìm giải pháp và nói về sự tiến bộ.",
+  "words": [
+    {
+      "id": "comm-clarify",
+      "word": "clarify",
+      "meaning": "làm rõ; giải thích cho rõ",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˈklærɪfaɪ/",
+      "example": "Could you clarify the last point, please?",
+      "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"clarify\": Bàn tay ghi chú để làm rõ một ý.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "comm-explain",
+      "word": "explain",
+      "meaning": "giải thích",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪkˈspleɪn/",
+      "example": "Can you explain why this answer is correct?",
+      "imageUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"explain\": Người học trao đổi và giải thích bài.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "comm-suggest",
+      "word": "suggest",
+      "meaning": "đề xuất; gợi ý",
+      "partOfSpeech": "verb",
+      "pronunciation": "/səˈdʒest/",
+      "example": "I suggest reviewing these words after dinner.",
+      "imageUrl": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"suggest\": Nhóm học sinh cùng đề xuất ý tưởng.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "comm-agree",
+      "word": "agree",
+      "meaning": "đồng ý",
+      "partOfSpeech": "verb",
+      "pronunciation": "/əˈɡriː/",
+      "example": "I agree with your plan because it is realistic.",
+      "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"agree\": Nhóm người cùng làm việc và thống nhất.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "comm-disagree",
+      "word": "disagree",
+      "meaning": "không đồng ý",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ˌdɪsəˈɡriː/",
+      "example": "I understand your idea, but I disagree with this part.",
+      "imageUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"disagree\": Cuộc thảo luận trong không gian làm việc.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "comm-solution",
+      "word": "solution",
+      "meaning": "giải pháp",
+      "partOfSpeech": "noun",
+      "pronunciation": "/səˈluːʃən/",
+      "example": "We found a simple solution to the problem.",
+      "imageUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"solution\": Mọi người cùng tìm giải pháp trên máy tính.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "comm-issue",
+      "word": "issue",
+      "meaning": "vấn đề",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈɪʃuː/",
+      "example": "There is one issue we need to discuss first.",
+      "imageUrl": "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"issue\": Bàn làm việc với tài liệu cần xem xét.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "comm-improve",
+      "word": "improve",
+      "meaning": "cải thiện; tiến bộ",
+      "partOfSpeech": "verb",
+      "pronunciation": "/ɪmˈpruːv/",
+      "example": "I practise a little every day to improve my speaking.",
+      "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"improve\": Sổ tay và bút trong một phiên học.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "comm-prepare",
+      "word": "prepare",
+      "meaning": "chuẩn bị",
+      "partOfSpeech": "verb",
+      "pronunciation": "/prɪˈpeə/",
+      "example": "We prepare three questions before the discussion.",
+      "imageUrl": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"prepare\": Sổ ghi chép dùng để chuẩn bị buổi học.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "comm-confidence",
+      "word": "confidence",
+      "meaning": "sự tự tin",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈkɒnfɪdəns/",
+      "example": "Regular practice gives me more confidence when I speak.",
+      "imageUrl": "https://images.unsplash.com/photo-1491841550275-ad7854e35ca6?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"confidence\": Người học tự tin trình bày ý tưởng.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "comm-mistake",
+      "word": "mistake",
+      "meaning": "lỗi; sai sót",
+      "partOfSpeech": "noun",
+      "pronunciation": "/mɪˈsteɪk/",
+      "example": "I made a mistake, checked it, and tried again.",
+      "imageUrl": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"mistake\": Người học kiểm tra lại bài trên màn hình.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "comm-progress",
+      "word": "progress",
+      "meaning": "sự tiến bộ; tiến triển",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈprəʊɡres/",
+      "example": "A short weekly review helps me notice my progress.",
+      "imageUrl": "https://images.unsplash.com/photo-1432888622747-4eb9a8efeb07?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"progress\": Kế hoạch học tập và ghi chú tiến độ.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "comm-discuss",
+      "word": "discuss",
+      "meaning": "thảo luận",
+      "partOfSpeech": "verb",
+      "pronunciation": "/dɪˈskʌs/",
+      "example": "Let's discuss the options before we choose one.",
+      "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"discuss\": Nhóm cộng tác cùng trao đổi.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "comm-respond",
+      "word": "respond",
+      "meaning": "trả lời; phản hồi",
+      "partOfSpeech": "verb",
+      "pronunciation": "/rɪˈspɒnd/",
+      "example": "Take a moment to respond clearly to the question.",
+      "imageUrl": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"respond\": Tài liệu và sổ ghi chú trong buổi trao đổi.",
+      "imageCredit": "Unsplash"
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1100&q=82",
+  "imageAlt": "Nhóm người cùng trao đổi ý tưởng và giải quyết vấn đề.",
+  "imageCredit": "Unsplash"
+}
