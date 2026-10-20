@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "id": "travel-getting-around-a2",
+  "topic": "Travel & Getting Around",
+  "level": "A2",
+  "publishDate": "2026-10-20",
+  "title": "Travel & Getting Around — A2",
+  "description": "Từ vựng thiết thực để hỏi đường, đi phương tiện công cộng và chuẩn bị một chuyến đi.",
+  "imageUrl": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1100&q=82",
+  "imageAlt": "Khung cảnh du lịch gợi cảm hứng cho bộ từ vựng về phương tiện và hành trình.",
+  "imageCredit": "Unsplash",
+  "words": [
+    {
+      "id": "travel-airport",
+      "word": "airport",
+      "meaning": "sân bay",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈeəpɔːt/",
+      "example": "We arrived at the airport two hours before our flight.",
+      "imageUrl": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"airport\": Nhà ga sân bay và máy bay chuẩn bị cho chuyến đi.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-luggage",
+      "word": "luggage",
+      "meaning": "hành lý",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈlʌɡɪdʒ/",
+      "example": "Please keep your luggage beside you on the train.",
+      "imageUrl": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"luggage\": Hành lý được chuẩn bị cho một chuyến đi.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-passport",
+      "word": "passport",
+      "meaning": "hộ chiếu",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈpɑːspɔːt/",
+      "example": "Remember to put your passport in a safe place.",
+      "imageUrl": "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"passport\": Du khách chuẩn bị giấy tờ trước chuyến đi.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-ticket",
+      "word": "ticket",
+      "meaning": "vé",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈtɪkɪt/",
+      "example": "I bought a train ticket online yesterday.",
+      "imageUrl": "https://images.unsplash.com/photo-1504150558240-0ef9c390c4bf?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"ticket\": Vật dụng và giấy tờ cần thiết khi đi du lịch.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-platform",
+      "word": "platform",
+      "meaning": "sân ga",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈplætfɔːm/",
+      "example": "The train leaves from platform three.",
+      "imageUrl": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"platform\": Nhà ga và lối đi dành cho hành khách.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-timetable",
+      "word": "timetable",
+      "meaning": "lịch chạy xe/tàu",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈtaɪmteɪbəl/",
+      "example": "Check the timetable before you leave home.",
+      "imageUrl": "https://images.unsplash.com/photo-1524666041070-8c876b3e39fe?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"timetable\": Bản đồ giúp lên kế hoạch cho hành trình.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-boarding-pass",
+      "word": "boarding pass",
+      "meaning": "thẻ lên máy bay",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈbɔːdɪŋ pɑːs/",
+      "example": "Show your boarding pass at the gate.",
+      "imageUrl": "https://images.unsplash.com/photo-1515861461225-1488dfdaf0a8?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"boarding pass\": Chuẩn bị để lên chuyến bay.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-journey",
+      "word": "journey",
+      "meaning": "hành trình",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈdʒɜːni/",
+      "example": "The journey by bus takes about three hours.",
+      "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"journey\": Con đường dài mở ra một chuyến đi.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-map",
+      "word": "map",
+      "meaning": "bản đồ",
+      "partOfSpeech": "noun",
+      "pronunciation": "/mæp/",
+      "example": "We used a map to find the museum.",
+      "imageUrl": "https://images.unsplash.com/photo-1494783367193-149034c05e8f?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"map\": Cảnh quan dùng làm điểm đến trong chuyến đi.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-bicycle",
+      "word": "bicycle",
+      "meaning": "xe đạp",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈbaɪsɪkəl/",
+      "example": "You can rent a bicycle near the station.",
+      "imageUrl": "https://images.unsplash.com/photo-1507035895480-2b3156c31fc8?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"bicycle\": Một chiếc xe đạp dành cho việc di chuyển.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-passenger",
+      "word": "passenger",
+      "meaning": "hành khách",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈpæsɪndʒə/",
+      "example": "Every passenger must wear a seat belt.",
+      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"passenger\": Du khách ngắm cảnh trong chuyến đi.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-fare",
+      "word": "fare",
+      "meaning": "tiền vé",
+      "partOfSpeech": "noun",
+      "pronunciation": "/feə/",
+      "example": "The bus fare is cheaper if you buy a daily pass.",
+      "imageUrl": "https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"fare\": Phương tiện giao thông công cộng trong hành trình.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-route",
+      "word": "route",
+      "meaning": "tuyến đường",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ruːt/",
+      "example": "This route is faster because it avoids the city centre.",
+      "imageUrl": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"route\": Đường phố và các hướng di chuyển trong thành phố.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-arrive",
+      "word": "arrive",
+      "meaning": "đến nơi",
+      "partOfSpeech": "verb",
+      "pronunciation": "/əˈraɪv/",
+      "example": "Our train will arrive at six in the evening.",
+      "imageUrl": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ \"arrive\": Phong cảnh ở một điểm đến trong hành trình.",
+      "imageCredit": "Unsplash"
+    }
+  ]
+}

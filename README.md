@@ -6,10 +6,10 @@ Repository này chỉ lưu **dữ liệu JSON đã xuất bản**: gói từ v�
 
 ## Nội dung đã xuất bản
 
-- 7 bộ từ vựng: Daily Routines (A1), School Life (A1), Learning & Exam Skills (A2), Technology & Digital Life (A2), Environment & Climate (B1), Study Planning & Focus (A2), Everyday Communication & Problem Solving (A2).
+- 8 bộ từ vựng: Daily Routines (A1), School Life (A1), Learning & Exam Skills (A2), Technology & Digital Life (A2), Environment & Climate (B1), Study Planning & Focus (A2), Everyday Communication & Problem Solving (A2), Travel & Getting Around (A2).
 - 20 liên kết đã duyệt, gồm tài liệu học và video. Đợt 2026-10-19 bổ sung video BBC Learning English về trí nhớ và trang từ vựng A1–A2 của British Council.
-- 6 bài viết gốc do VocaFlow biên soạn. Nội dung gồm học từ vựng, hiện tại đơn, đọc hiểu, kế hoạch học 15 phút và bài hướng dẫn dài về xây dựng hệ thống học tiếng Anh bền vững (đăng ngày 2026-10-20), có ví dụ, bài tự luyện và 3 ảnh minh họa trong bài.
-- Metadata ảnh: mỗi bộ từ, từng từ, bài viết và nguồn học đều có `imageUrl` (HTTPS), `imageAlt` và `imageCredit`. Bộ từ Giao tiếp hằng ngày A2 mới có 14 mục từ, mỗi mục có ảnh URL riêng; 30 ảnh từ/cụm từ trùng nguồn đã được đổi sang ảnh khác; nội dung mới cũng có ảnh riêng. Nguồn ảnh dùng Unsplash, không sao chép thumbnail video bên thứ ba.
+- 7 bài viết gốc do VocaFlow biên soạn, bao gồm hướng dẫn học từ vựng, hiện tại đơn, đọc hiểu, kế hoạch học và hệ thống học bền vững. Bài mới “Câu điều kiện loại 0, 1, 2 và 3” giải thích công thức, ngữ cảnh, lỗi thường gặp và ví dụ ôn thi.
+- Metadata ảnh: các bộ từ, từng từ, bài viết và tài nguyên học có `imageUrl` (HTTPS), `imageAlt` và `imageCredit`. Đợt này đã thay 20 ảnh minh họa từ bị trùng, thêm 14 ảnh cho bộ Travel & Getting Around A2 và bổ sung ảnh bìa bài ngữ pháp. Nguồn ảnh được ghi credit theo schema; ảnh và quyền sử dụng cần tiếp tục được rà soát trước mỗi lần phát hành. Không sao chép thumbnail video bên thứ ba.
 - Ứng dụng Android đọc các URL này để hiển thị ảnh và dùng bộ nhớ đệm ảnh của thiết bị. Khi ngoại tuyến, ảnh đã tải trước đó có thể tiếp tục hiển thị; dữ liệu JSON có bộ nhớ đệm riêng.
 - Chuẩn biên tập: [docs/editorial-style-guide.md](docs/editorial-style-guide.md). Tài liệu này học hỏi nguyên tắc trình bày tổng quát từ nguồn học uy tín; bài viết và ví dụ vẫn phải do VocaFlow tự viết.
 

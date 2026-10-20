@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "id": "conditional-sentences-guide-b1",
+  "title": "Câu điều kiện loại 0, 1, 2 và 3: cách dùng và phân biệt",
+  "subtitle": "Nắm công thức, nhận diện ngữ cảnh và tránh những lỗi thường gặp khi làm bài tập tiếng Anh.",
+  "author": "Ban biên tập VocaFlow",
+  "publishDate": "2026-10-20",
+  "readingMinutes": 5,
+  "topics": [
+    "grammar",
+    "conditional-sentences",
+    "exam-preparation",
+    "b1"
+  ],
+  "coverImage": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=1100&q=82",
+  "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=1100&q=82",
+  "imageAlt": "Sách học và ghi chú trên bàn, gợi chủ đề ôn tập ngữ pháp tiếng Anh.",
+  "imageCredit": "Unsplash",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Câu điều kiện diễn tả mối quan hệ giữa một điều kiện và kết quả của nó. Trong tiếng Anh, bốn dạng phổ biến là loại 0, 1, 2 và 3. Muốn chọn đúng, trước hết hãy xác định người nói đang nói về sự thật chung, khả năng tương lai, tình huống giả định ở hiện tại hay điều đã không xảy ra trong quá khứ."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "spans": [
+        {
+          "text": "Mẹo ghi nhớ: ",
+          "bold": true
+        },
+        {
+          "text": "loại 0 nói về sự thật; loại 1 nói về khả năng có thật; loại 2 nói về điều giả định hiện tại/tương lai; loại 3 nhìn lại một quá khứ khác với thực tế."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Câu điều kiện loại 0 — sự thật chung"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Công thức: If + hiện tại đơn, hiện tại đơn. Dùng loại 0 khi kết quả thường đúng mỗi khi điều kiện xảy ra, chẳng hạn quy luật khoa học hoặc thói quen có tính quy luật. Ví dụ: “If you heat ice, it melts.” — Nếu làm nóng băng, nó tan chảy. Hai mệnh đề đều dùng hiện tại đơn vì câu mô tả sự thật chung, không phải một dự đoán cho riêng ngày mai."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Câu điều kiện loại 1 — khả năng trong tương lai"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Công thức cơ bản: If + hiện tại đơn, will + động từ nguyên mẫu. Dùng khi điều kiện có thể xảy ra và kết quả được dự đoán trong tương lai. Ví dụ: “If I finish my homework early, I will watch a film.” — Nếu làm xong bài tập sớm, tôi sẽ xem phim. Sau if, không dùng will trong mẫu cơ bản này. Có thể dùng can, may hoặc mệnh lệnh ở mệnh đề kết quả khi ý nghĩa phù hợp."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Câu điều kiện loại 2 — giả định hiện tại hoặc tương lai"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Công thức: If + quá khứ đơn, would + động từ nguyên mẫu. Dạng quá khứ ở đây thường không nói về thời gian quá khứ; nó đánh dấu tình huống xa thực tế hoặc khó xảy ra. Ví dụ: “If I had more free time, I would learn Spanish.” — Nếu có nhiều thời gian rảnh hơn, tôi sẽ học tiếng Tây Ban Nha. Với động từ be, “If I were you” là cách diễn đạt thường dùng trong lời khuyên trang trọng hoặc quen thuộc."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Câu điều kiện loại 3 — giả định trái với quá khứ"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Công thức: If + quá khứ hoàn thành (had + V3), would have + V3. Dùng để nói về một điều đã không xảy ra và kết quả tưởng tượng của nó. Ví dụ: “If she had left earlier, she would have caught the bus.” — Nếu cô ấy rời đi sớm hơn, cô ấy đã bắt kịp xe buýt. Thực tế được ngầm hiểu là cô ấy không rời đi đủ sớm và đã lỡ xe."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Phân biệt nhanh và tránh lỗi"
+    },
+    {
+      "type": "bulletList",
+      "items": [
+        {
+          "spans": [
+            {
+              "text": "Loại 0: hiện tại đơn + hiện tại đơn; loại 1: hiện tại đơn ở mệnh đề if + will ở mệnh đề kết quả."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Loại 2: quá khứ đơn + would V; loại 3: had + V3 + would have + V3."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Tránh viết “If it will rain, I will stay home” trong mẫu loại 1 cơ bản. Viết: “If it rains, I will stay home.”"
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Không trộn “had” với V2 trong loại 3: viết “If they had studied, they would have passed”, không phải “If they had studied, they would passed.”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Khi làm bài, gạch chân từ chỉ thời gian nếu có, xác định điều kiện có thật hay giả định, rồi kiểm tra dạng động từ ở cả hai mệnh đề. Dấu phẩy thường được dùng khi mệnh đề if đứng đầu câu; khi mệnh đề kết quả đứng trước, thường không cần dấu phẩy. Học theo ý nghĩa trước, sau đó mới đối chiếu công thức sẽ giúp tránh chọn thì chỉ dựa vào một từ đơn lẻ."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Tự kiểm tra: “If he had more time, he ___ (read) more books.” Đây là tình huống giả định ở hiện tại, vì vậy dùng would read. Hãy tự tạo thêm một ví dụ cho mỗi loại và giải thích vì sao mình chọn cấu trúc đó."
+        }
+      ]
+    }
+  ]
+}
