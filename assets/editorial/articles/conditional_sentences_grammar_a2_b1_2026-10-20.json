@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "id": "conditional-sentences-grammar-a2-b1",
+  "title": "Câu điều kiện loại 0, 1, 2 và 3",
+  "subtitle": "Phân biệt ý nghĩa, công thức và cách dùng bốn dạng câu điều kiện thường gặp trong bài thi tiếng Anh.",
+  "author": "Ban biên tập VocaFlow",
+  "publishDate": "2026-10-20",
+  "readingMinutes": 5,
+  "topics": [
+    "grammar",
+    "conditional-sentences",
+    "exam-preparation",
+    "a2",
+    "b1"
+  ],
+  "coverImage": "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&w=1100&q=82",
+  "imageUrl": "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&w=1100&q=82",
+  "imageAlt": "Sổ ghi chép và dụng cụ học tập cho bài học ngữ pháp",
+  "imageCredit": "Unsplash",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Câu điều kiện diễn tả mối quan hệ giữa một điều kiện và kết quả của nó. Trong tiếng Anh, câu thường có mệnh đề if và mệnh đề chính. Để chọn đúng dạng, hãy xác định người nói đang nói về sự thật nói chung, khả năng có thể xảy ra, tình huống giả định ở hiện tại hay điều đã không xảy ra trong quá khứ."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Câu điều kiện loại 0 — sự thật và quy luật"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Công thức: If + hiện tại đơn, hiện tại đơn. Dùng loại 0 khi kết quả luôn đúng hoặc thường xảy ra mỗi khi điều kiện được đáp ứng. Ví dụ: “If you heat ice, it melts.” Nghĩa là: Nếu bạn làm nóng nước đá, nó tan chảy. Đây là một sự thật khoa học, không phải dự đoán về một lần cụ thể."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Câu điều kiện loại 1 — khả năng có thật trong tương lai"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Công thức phổ biến: If + hiện tại đơn, will + động từ nguyên mẫu. Dùng loại 1 khi điều kiện có khả năng xảy ra và kết quả dự kiến thuộc tương lai. Ví dụ: “If it rains tomorrow, we will stay at home.” — Nếu ngày mai trời mưa, chúng tôi sẽ ở nhà. Lưu ý: sau if, thông thường không dùng will để diễn tả tương lai trong cấu trúc cơ bản này."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Câu điều kiện loại 2 — giả định trái hoặc xa thực tế hiện tại"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Công thức: If + quá khứ đơn, would + động từ nguyên mẫu. Dạng này nói về tình huống tưởng tượng hoặc khó có khả năng xảy ra ở hiện tại hay tương lai. Ví dụ: “If I had more free time, I would learn another language.” — Nếu có nhiều thời gian rảnh hơn, tôi sẽ học thêm một ngôn ngữ. Quá khứ đơn ở đây không nhất thiết nói về quá khứ; nó đánh dấu tính giả định."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Câu điều kiện loại 3 — điều đã không xảy ra trong quá khứ"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Công thức: If + quá khứ hoàn thành, would have + quá khứ phân từ (V3). Dùng loại 3 để tưởng tượng một kết quả khác cho sự việc đã qua. Ví dụ: “If she had left earlier, she would have caught the bus.” — Nếu cô ấy rời đi sớm hơn, cô ấy đã bắt kịp xe buýt. Câu ngụ ý rằng cô ấy đã không rời đi đủ sớm và đã lỡ xe."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Cách phân biệt nhanh"
+    },
+    {
+      "type": "bulletList",
+      "items": [
+        {
+          "spans": [
+            {
+              "text": "Loại 0: sự thật hoặc quy luật — hiện tại đơn + hiện tại đơn."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Loại 1: khả năng thực tế trong tương lai — hiện tại đơn + will + V."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Loại 2: giả định hiện tại/tương lai — quá khứ đơn + would + V."
+            }
+          ]
+        },
+        {
+          "spans": [
+            {
+              "text": "Loại 3: giả định khác với quá khứ — quá khứ hoàn thành + would have + V3."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "spans": [
+        {
+          "text": "Mẹo làm bài: ",
+          "bold": true
+        },
+        {
+          "text": "đọc nghĩa của cả câu trước, xác định mốc thời gian và mức độ thực tế, rồi mới kiểm tra công thức. Đừng chọn chỉ vì nhìn thấy từ if."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "6. Những lỗi thường gặp"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Lỗi phổ biến là dùng will ngay sau if trong câu điều kiện loại 1 cơ bản: tránh “If it will rain, we will stay home”; viết “If it rains, we will stay home”. Với loại 2, không dùng would ở cả hai mệnh đề trong công thức chuẩn: “If I knew the answer, I would tell you.” Với loại 3, cần phân biệt had + V3 ở mệnh đề if và would have + V3 ở mệnh đề chính. Hãy chú ý cả động từ bất quy tắc, chẳng hạn go — went — gone."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Dấu phẩy thường được dùng khi mệnh đề if đứng đầu câu: “If I finish early, I will call you.” Nếu mệnh đề chính đứng trước, thường không cần dấu phẩy: “I will call you if I finish early.” Hai vị trí này không làm thay đổi ý nghĩa cơ bản."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "7. Luyện tập có chủ đích"
+    },
+    {
+      "type": "paragraph",
+      "spans": [
+        {
+          "text": "Hãy tự phân loại câu trước khi nhìn đáp án: “If water reaches 100°C, it boils”; “If I study tonight, I will feel more prepared”; “If I lived near the sea, I would swim every day”; “If they had checked the time, they would not have missed the train.” Sau đó giải thích vì sao mỗi câu dùng dạng đó. Việc nêu được lý do giúp bạn vận dụng cấu trúc linh hoạt hơn là chỉ học thuộc công thức."
+        }
+      ]
+    }
+  ]
+}
