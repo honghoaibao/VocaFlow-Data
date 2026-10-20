@@ -29,6 +29,10 @@
     {
       "path": "assets/vocabulary/packs/everyday_communication_a2_2026-10-20.json",
       "publishDate": "2026-10-20"
+    },
+    {
+      "path": "assets/vocabulary/packs/travel_getting_around_a2_2026-10-20.json",
+      "publishDate": "2026-10-20"
     }
   ],
   "editorialArticles": [
@@ -54,6 +58,10 @@
     },
     {
       "path": "assets/editorial/articles/sustainable_english_study_system_b1_2026-10-20.json",
+      "publishDate": "2026-10-20"
+    },
+    {
+      "path": "assets/editorial/articles/conditional_sentences_grammar_a2_b1_2026-10-20.json",
       "publishDate": "2026-10-20"
     }
   ]
