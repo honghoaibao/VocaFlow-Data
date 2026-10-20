@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "id": "conditional-sentences-zero-one-two-three-a2",
+  "title": "Câu điều kiện loại 0, 1, 2 và 3: Phân biệt và dùng đúng",
+  "subtitle": "Nắm công thức, ý nghĩa và những lỗi dễ gặp khi làm bài ngữ pháp tiếng Anh.",
+  "author": "VocaFlow Editorial",
+  "publishDate": "2026-10-20",
+  "readingMinutes": 5,
+  "topics": [
+    "Ngữ pháp",
+    "Câu điều kiện",
+    "Ôn thi"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Câu điều kiện diễn tả mối quan hệ giữa điều kiện và kết quả. Khi chọn loại câu, hãy xác định đó là sự thật, khả năng tương lai, giả định hiện tại hay việc đã không xảy ra."
+    },
+    {
+      "type": "heading",
+      "text": "1. Loại 0 — sự thật và quy luật"
+    },
+    {
+      "type": "paragraph",
+      "text": "Công thức: If + hiện tại đơn, hiện tại đơn. Dùng cho sự thật hoặc kết quả thường xuyên. Ví dụ: “If you heat ice, it melts.” (Nếu làm nóng nước đá, nó tan chảy.)"
+    },
+    {
+      "type": "heading",
+      "text": "2. Loại 1 — khả năng trong tương lai"
+    },
+    {
+      "type": "paragraph",
+      "text": "Công thức: If + hiện tại đơn, will + V. Dùng khi điều kiện có thể xảy ra và dẫn đến kết quả trong tương lai. Ví dụ: “If I finish my homework early, I will watch a film.” (Nếu làm xong bài sớm, tôi sẽ xem phim.) Trong dạng cơ bản, viết “If it rains”, không phải “If it will rain”."
+    },
+    {
+      "type": "heading",
+      "text": "3. Loại 2 — giả định hiện tại hoặc tương lai"
+    },
+    {
+      "type": "paragraph",
+      "text": "Công thức: If + quá khứ đơn, would + V. Dùng cho tình huống tưởng tượng hoặc không đúng với thực tế hiện tại. Ví dụ: “If I had more free time, I would learn another language.” (Nếu có nhiều thời gian rảnh hơn, tôi sẽ học thêm ngôn ngữ.) Dạng quá khứ tạo khoảng cách với thực tế, không nhất thiết nói về quá khứ. “If I were you, I would ask the teacher” là mẫu lời khuyên quen thuộc."
+    },
+    {
+      "type": "heading",
+      "text": "4. Loại 3 — giả định khác đi trong quá khứ"
+    },
+    {
+      "type": "paragraph",
+      "text": "Công thức: If + quá khứ hoàn thành, would have + V3. Dùng khi một việc đã không xảy ra và ta tưởng tượng kết quả khác. Ví dụ: “If she had left earlier, she would have caught the bus.” (Nếu cô ấy rời đi sớm hơn, cô ấy đã bắt kịp xe buýt.) Thực tế cô ấy không đi sớm nên đã lỡ xe."
+    },
+    {
+      "type": "heading",
+      "text": "5. Phân biệt nhanh"
+    },
+    {
+      "type": "bulletList",
+      "items": [
+        "Loại 0: quy luật — hiện tại đơn + hiện tại đơn.",
+        "Loại 1: khả năng thật — hiện tại đơn + will + V.",
+        "Loại 2: giả định hiện tại/tương lai — quá khứ đơn + would + V.",
+        "Loại 3: điều trái với quá khứ — quá khứ hoàn thành + would have + V3."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "6. Lỗi thường gặp"
+    },
+    {
+      "type": "paragraph",
+      "text": "Đừng đặt will ngay sau if trong loại 1 cơ bản. Tránh viết “If I would have time”; đúng là “If I had time, I would help”. Đừng nhầm loại 2 với loại 3: điều đã qua thường cần “had + V3” sau if và “would have + V3” ở mệnh đề chính. Kiểm tra động từ bất quy tắc như go — went — gone và write — wrote — written."
+    },
+    {
+      "type": "callout",
+      "text": "Mẹo làm bài: xác định thời gian và mức độ thực tế của điều kiện trước, rồi mới chọn công thức."
+    },
+    {
+      "type": "paragraph",
+      "text": "Để ghi nhớ, hãy tự đặt một câu cho mỗi loại về thời tiết, lịch học hoặc một quyết định cũ. Hiểu quan hệ giữa điều kiện và kết quả sẽ hữu ích hơn việc chỉ học thuộc công thức."
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1598300056393-4aac492f4344?auto=format&fit=crop&w=1600&q=82",
+  "imageAlt": "Ảnh sách và ghi chú trong không gian học tập, dùng làm ảnh bìa cho bài ngữ pháp.",
+  "imageCredit": "Unsplash"
+}

@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "id": "travel-getting-around-a2",
+  "topic": "Travel & Getting Around",
+  "level": "A2",
+  "publishDate": "2026-10-20",
+  "title": "Travel & Getting Around — A2",
+  "description": "Từ vựng thiết thực để đi lại, hỏi đường, đặt chỗ và xử lý những tình huống thường gặp khi du lịch.",
+  "words": [
+    {
+      "id": "travel-destination",
+      "word": "destination",
+      "meaning": "điểm đến",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˌdestɪˈneɪʃən/",
+      "example": "Da Nang is our next destination.",
+      "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ vựng “destination” (điểm đến) trong chủ đề du lịch và đi lại.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-journey",
+      "word": "journey",
+      "meaning": "hành trình; chuyến đi",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈdʒɜːni/",
+      "example": "The train journey takes about two hours.",
+      "imageUrl": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ vựng “journey” (hành trình; chuyến đi) trong chủ đề du lịch và đi lại.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-passenger",
+      "word": "passenger",
+      "meaning": "hành khách",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈpæsɪndʒə(r)/",
+      "example": "Every passenger needs a valid ticket.",
+      "imageUrl": "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ vựng “passenger” (hành khách) trong chủ đề du lịch và đi lại.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-platform",
+      "word": "platform",
+      "meaning": "sân ga",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈplætfɔːm/",
+      "example": "Our train leaves from platform four.",
+      "imageUrl": "https://images.unsplash.com/photo-1494783367193-149034c05e8f?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ vựng “platform” (sân ga) trong chủ đề du lịch và đi lại.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-ticket",
+      "word": "ticket",
+      "meaning": "vé",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈtɪkɪt/",
+      "example": "I bought a return ticket online.",
+      "imageUrl": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ vựng “ticket” (vé) trong chủ đề du lịch và đi lại.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-luggage",
+      "word": "luggage",
+      "meaning": "hành lý",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈlʌɡɪdʒ/",
+      "example": "Please keep your luggage with you.",
+      "imageUrl": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ vựng “luggage” (hành lý) trong chủ đề du lịch và đi lại.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-suitcase",
+      "word": "suitcase",
+      "meaning": "va-li",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈsuːtkeɪs/",
+      "example": "My suitcase is too heavy to carry.",
+      "imageUrl": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ vựng “suitcase” (va-li) trong chủ đề du lịch và đi lại.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-departure",
+      "word": "departure",
+      "meaning": "sự khởi hành; giờ khởi hành",
+      "partOfSpeech": "noun",
+      "pronunciation": "/dɪˈpɑːtʃə(r)/",
+      "example": "The departure time is printed on your ticket.",
+      "imageUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ vựng “departure” (sự khởi hành; giờ khởi hành) trong chủ đề du lịch và đi lại.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-arrival",
+      "word": "arrival",
+      "meaning": "sự đến nơi; giờ đến",
+      "partOfSpeech": "noun",
+      "pronunciation": "/əˈraɪvəl/",
+      "example": "Our arrival time is 8:30 in the morning.",
+      "imageUrl": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ vựng “arrival” (sự đến nơi; giờ đến) trong chủ đề du lịch và đi lại.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-timetable",
+      "word": "timetable",
+      "meaning": "thời gian biểu; lịch chạy",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈtaɪmteɪbəl/",
+      "example": "Check the timetable before you leave home.",
+      "imageUrl": "https://images.unsplash.com/photo-1504609773096-104ff2c73ba4?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ vựng “timetable” (thời gian biểu; lịch chạy) trong chủ đề du lịch và đi lại.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-route",
+      "word": "route",
+      "meaning": "tuyến đường; lộ trình",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ruːt/",
+      "example": "This route is faster during the day.",
+      "imageUrl": "https://images.unsplash.com/photo-1494515843206-f3117d3f51b7?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ vựng “route” (tuyến đường; lộ trình) trong chủ đề du lịch và đi lại.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-transfer",
+      "word": "transfer",
+      "meaning": "chuyển tuyến; đổi phương tiện",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈtrænsfɜː(r)/",
+      "example": "You need one transfer to reach the airport.",
+      "imageUrl": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ vựng “transfer” (chuyển tuyến; đổi phương tiện) trong chủ đề du lịch và đi lại.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-reservation",
+      "word": "reservation",
+      "meaning": "việc đặt chỗ trước",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˌrezəˈveɪʃən/",
+      "example": "I made a reservation at a small hotel.",
+      "imageUrl": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ vựng “reservation” (việc đặt chỗ trước) trong chủ đề du lịch và đi lại.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-accommodation",
+      "word": "accommodation",
+      "meaning": "chỗ ở; nơi lưu trú",
+      "partOfSpeech": "noun",
+      "pronunciation": "/əˌkɒməˈdeɪʃən/",
+      "example": "The accommodation is close to the beach.",
+      "imageUrl": "https://images.unsplash.com/photo-1540202404-a2f29016b523?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ vựng “accommodation” (chỗ ở; nơi lưu trú) trong chủ đề du lịch và đi lại.",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-entrance",
+      "word": "entrance",
+      "meaning": "lối vào",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈentrəns/",
+      "example": "Meet me at the main entrance.",
+      "imageUrl": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa từ vựng “entrance” (lối vào) trong chủ đề du lịch và đi lại.",
+      "imageCredit": "Unsplash"
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=82",
+  "imageAlt": "Phong cảnh rộng mở gợi cảm hứng cho một hành trình và điểm đến mới.",
+  "imageCredit": "Unsplash"
+}
