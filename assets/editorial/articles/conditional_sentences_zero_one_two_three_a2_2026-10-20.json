@@ -15,7 +15,7 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Câu điều kiện diễn tả mối quan hệ giữa một điều kiện và kết quả. Câu thường gồm mệnh đề if (nêu điều kiện) và mệnh đề chính (nêu kết quả). Để chọn đúng loại, hãy xác định câu nói về quy luật, khả năng tương lai, giả định hiện tại hay một việc đã không xảy ra trong quá khứ."
+      "text": "Câu điều kiện diễn tả mối quan hệ giữa điều kiện và kết quả. Khi chọn loại câu, hãy xác định đó là sự thật, khả năng tương lai, giả định hiện tại hay việc đã không xảy ra."
     },
     {
       "type": "heading",
@@ -23,7 +23,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Công thức: If + hiện tại đơn, hiện tại đơn. Dùng loại 0 cho sự thật hoặc kết quả thường xảy ra. Ví dụ: “If you heat ice, it melts.” (Nếu làm nóng nước đá, nó tan chảy.) Cả hai mệnh đề dùng hiện tại đơn vì câu diễn tả một quy luật chung, không phải dự đoán riêng cho ngày mai."
+      "text": "Công thức: If + hiện tại đơn, hiện tại đơn. Dùng cho sự thật hoặc kết quả thường xuyên. Ví dụ: “If you heat ice, it melts.” (Nếu làm nóng nước đá, nó tan chảy.)"
     },
     {
       "type": "heading",
@@ -31,7 +31,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Công thức: If + hiện tại đơn, will + động từ nguyên mẫu. Dùng khi điều kiện có khả năng xảy ra và kết quả có thể xuất hiện trong tương lai. Ví dụ: “If I finish my homework early, I will watch a film.” (Nếu làm xong bài sớm, tôi sẽ xem phim.) Dù nói về tương lai, mệnh đề if thường không dùng will: hãy viết “If it rains”, không phải “If it will rain” trong dạng cơ bản này."
+      "text": "Công thức: If + hiện tại đơn, will + V. Dùng khi điều kiện có thể xảy ra và dẫn đến kết quả trong tương lai. Ví dụ: “If I finish my homework early, I will watch a film.” (Nếu làm xong bài sớm, tôi sẽ xem phim.) Trong dạng cơ bản, viết “If it rains”, không phải “If it will rain”."
     },
     {
       "type": "heading",
@@ -39,7 +39,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Công thức: If + quá khứ đơn, would + động từ nguyên mẫu. Dùng khi tưởng tượng một tình huống không đúng với thực tế hiện tại hoặc khó xảy ra. Ví dụ: “If I had more free time, I would learn another language.” (Nếu có nhiều thời gian rảnh hơn, tôi sẽ học thêm ngôn ngữ.) Dạng quá khứ ở đây tạo khoảng cách với thực tế, không nhất thiết nói về thời gian đã qua. “If I were you, I would ask the teacher” là mẫu lời khuyên quen thuộc."
+      "text": "Công thức: If + quá khứ đơn, would + V. Dùng cho tình huống tưởng tượng hoặc không đúng với thực tế hiện tại. Ví dụ: “If I had more free time, I would learn another language.” (Nếu có nhiều thời gian rảnh hơn, tôi sẽ học thêm ngôn ngữ.) Dạng quá khứ tạo khoảng cách với thực tế, không nhất thiết nói về quá khứ. “If I were you, I would ask the teacher” là mẫu lời khuyên quen thuộc."
     },
     {
       "type": "heading",
@@ -47,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Công thức: If + quá khứ hoàn thành, would have + V3. Dùng khi một việc đã không xảy ra và người nói tưởng tượng kết quả khác. Ví dụ: “If she had left earlier, she would have caught the bus.” (Nếu cô ấy rời đi sớm hơn, cô ấy đã bắt kịp xe buýt.) Thực tế là cô ấy không đi sớm nên đã lỡ xe. Loại 3 thường diễn tả tiếc nuối hoặc nhìn lại một quyết định."
+      "text": "Công thức: If + quá khứ hoàn thành, would have + V3. Dùng khi một việc đã không xảy ra và ta tưởng tượng kết quả khác. Ví dụ: “If she had left earlier, she would have caught the bus.” (Nếu cô ấy rời đi sớm hơn, cô ấy đã bắt kịp xe buýt.) Thực tế cô ấy không đi sớm nên đã lỡ xe."
     },
     {
       "type": "heading",
@@ -57,9 +57,9 @@
       "type": "bulletList",
       "items": [
         "Loại 0: quy luật — hiện tại đơn + hiện tại đơn.",
-        "Loại 1: khả năng thật trong tương lai — hiện tại đơn + will + V.",
+        "Loại 1: khả năng thật — hiện tại đơn + will + V.",
         "Loại 2: giả định hiện tại/tương lai — quá khứ đơn + would + V.",
-        "Loại 3: giả định trái với quá khứ — quá khứ hoàn thành + would have + V3."
+        "Loại 3: điều trái với quá khứ — quá khứ hoàn thành + would have + V3."
       ]
     },
     {
@@ -68,15 +68,15 @@
     },
     {
       "type": "paragraph",
-      "text": "Đừng đặt will ngay sau if trong câu điều kiện loại 1 cơ bản. Tránh dùng would ở cả hai mệnh đề loại 2: viết “If I had time, I would help”, không viết “If I would have time”. Cũng đừng nhầm loại 2 với loại 3: khi sự việc đã thuộc về quá khứ và không thể thay đổi, thường cần “had + V3” sau if và “would have + V3” ở mệnh đề chính. Kiểm tra thêm động từ bất quy tắc, chẳng hạn go — went — gone và write — wrote — written."
+      "text": "Đừng đặt will ngay sau if trong loại 1 cơ bản. Tránh viết “If I would have time”; đúng là “If I had time, I would help”. Đừng nhầm loại 2 với loại 3: điều đã qua thường cần “had + V3” sau if và “would have + V3” ở mệnh đề chính. Kiểm tra động từ bất quy tắc như go — went — gone và write — wrote — written."
     },
     {
       "type": "callout",
-      "text": "Mẹo làm bài: gạch chân dấu hiệu thời gian, xác định tình huống rồi mới chọn công thức. Hỏi bản thân: đây là quy luật, khả năng tương lai, giả định hiện tại hay điều trái với quá khứ?"
+      "text": "Mẹo làm bài: xác định thời gian và mức độ thực tế của điều kiện trước, rồi mới chọn công thức."
     },
     {
       "type": "paragraph",
-      "text": "Để ghi nhớ, hãy tự đặt một câu cho từng loại bằng tình huống gần gũi như thời tiết, kế hoạch học hoặc một quyết định cũ. Khi hiểu mối quan hệ giữa điều kiện và kết quả, em sẽ chọn cấu trúc linh hoạt hơn thay vì chỉ học thuộc công thức."
+      "text": "Để ghi nhớ, hãy tự đặt một câu cho mỗi loại về thời tiết, lịch học hoặc một quyết định cũ. Hiểu quan hệ giữa điều kiện và kết quả sẽ hữu ích hơn việc chỉ học thuộc công thức."
     }
   ],
   "imageUrl": "https://images.unsplash.com/photo-1598300056393-4aac492f4344?auto=format&fit=crop&w=1600&q=82",
