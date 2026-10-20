@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "status": "published",
+  "id": "travel-getting-around-a2",
+  "topic": "Travel & Getting Around",
+  "level": "A2",
+  "publishDate": "2026-10-20",
+  "title": "Travel & Getting Around — A2",
+  "description": "Từ vựng thực tế để hỏi đường, sử dụng phương tiện và xử lý những tình huống thường gặp khi đi du lịch.",
+  "words": [
+    {
+      "id": "travel-ticket",
+      "word": "ticket",
+      "meaning": "vé",
+      "example": "I bought a train ticket online.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈtɪkɪt/",
+      "imageUrl": "https://images.unsplash.com/photo-1473448912268-202fb7862d1f?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Vé và kế hoạch di chuyển khi đi du lịch",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-platform",
+      "word": "platform",
+      "meaning": "sân ga",
+      "example": "Our train leaves from platform three.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈplætfɔːm/",
+      "imageUrl": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Sân ga đường sắt nơi hành khách chờ tàu",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-luggage",
+      "word": "luggage",
+      "meaning": "hành lý",
+      "example": "Please keep your luggage with you.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈlʌɡɪdʒ/",
+      "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Va li và hành lý chuẩn bị cho chuyến đi",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-map",
+      "word": "map",
+      "meaning": "bản đồ",
+      "example": "Let's check the map before we leave.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/mæp/",
+      "imageUrl": "https://images.unsplash.com/photo-1524666041070-9a8763f9c9c6?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Bản đồ dùng để tìm đường đến điểm cần đến",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-journey",
+      "word": "journey",
+      "meaning": "chuyến đi; hành trình",
+      "example": "The journey takes about two hours.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˈdʒɜːni/",
+      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Phong cảnh trên một hành trình du lịch",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-reservation",
+      "word": "reservation",
+      "meaning": "sự đặt chỗ",
+      "example": "I have a hotel reservation for Friday.",
+      "partOfSpeech": "noun",
+      "pronunciation": "/ˌrezəˈveɪʃn/",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Phòng khách sạn đã được đặt trước",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-depart",
+      "word": "depart",
+      "meaning": "khởi hành",
+      "example": "The bus will depart at half past eight.",
+      "partOfSpeech": "verb",
+      "pronunciation": "/dɪˈpɑːt/",
+      "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Xe khách chuẩn bị khởi hành",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-arrive",
+      "word": "arrive",
+      "meaning": "đến nơi",
+      "example": "We arrive in Da Nang in the evening.",
+      "partOfSpeech": "verb",
+      "pronunciation": "/əˈraɪv/",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Điểm đến trong một chuyến du lịch",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-transfer",
+      "word": "transfer",
+      "meaning": "chuyển tuyến; đổi phương tiện",
+      "example": "You need to transfer to the blue line.",
+      "partOfSpeech": "verb",
+      "pronunciation": "/trænsˈfɜː/",
+      "imageUrl": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Hành khách chuyển sang phương tiện khác",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-nearby",
+      "word": "nearby",
+      "meaning": "gần đây; ở gần",
+      "example": "Is there a pharmacy nearby?",
+      "partOfSpeech": "adverb/adjective",
+      "pronunciation": "/ˌnɪəˈbaɪ/",
+      "imageUrl": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Khu phố và địa điểm gần vị trí hiện tại",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-straight",
+      "word": "straight",
+      "meaning": "thẳng",
+      "example": "Go straight and turn left at the bank.",
+      "partOfSpeech": "adverb",
+      "pronunciation": "/streɪt/",
+      "imageUrl": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Con đường thẳng trong thành phố",
+      "imageCredit": "Unsplash"
+    },
+    {
+      "id": "travel-crowded",
+      "word": "crowded",
+      "meaning": "đông đúc",
+      "example": "The station is crowded during rush hour.",
+      "partOfSpeech": "adjective",
+      "pronunciation": "/ˈkraʊdɪd/",
+      "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Không gian công cộng đông người vào giờ cao điểm",
+      "imageCredit": "Unsplash"
+    }
+  ],
+  "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1100&q=82",
+  "imageAlt": "Phong cảnh du lịch mở ra một hành trình mới",
+  "imageCredit": "Unsplash"
+}
