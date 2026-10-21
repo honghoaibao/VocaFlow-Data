@@ -28,9 +28,9 @@
       "thumbnailAsset": null,
       "thumbnailSourceUrl": null,
       "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình minh họa dự phòng nội bộ.",
-      "imageUrl": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa nguồn học: LearnEnglish Teens — luyện đọc, nghe và từ vựng",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/discovery/learnenglish-teens.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho nguồn học: LearnEnglish Teens — luyện đọc, nghe và từ vựng.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "learnenglish-teens-exams",
@@ -57,9 +57,9 @@
       "thumbnailAsset": null,
       "thumbnailSourceUrl": null,
       "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình minh họa dự phòng nội bộ.",
-      "imageUrl": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa nguồn học: Exam practice — kỹ năng làm bài tiếng Anh",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/discovery/learnenglish-teens-exams.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho nguồn học: Exam practice — kỹ năng làm bài tiếng Anh.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "news-in-levels",
@@ -87,9 +87,9 @@
       "thumbnailAsset": null,
       "thumbnailSourceUrl": null,
       "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình minh họa dự phòng nội bộ.",
-      "imageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa nguồn học: News in Levels — đọc tin theo ba cấp độ",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/discovery/news-in-levels.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho nguồn học: News in Levels — đọc tin theo ba cấp độ.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "voa-lets-learn-english-level-1",
@@ -116,9 +116,9 @@
       "thumbnailAsset": null,
       "thumbnailSourceUrl": null,
       "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình minh họa dự phòng nội bộ.",
-      "imageUrl": "https://images.unsplash.com/photo-1588058365815-c96ac30ee30f?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa nguồn học: Let's Learn English — Level 1",
-      "imageCredit": "YouTube thumbnail"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/discovery/voa-lets-learn-english-level-1.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho nguồn học: Let's Learn English — Level 1.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "learnenglish-teens-grammar",
@@ -145,9 +145,9 @@
       "thumbnailAsset": null,
       "thumbnailSourceUrl": null,
       "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình minh họa dự phòng nội bộ.",
-      "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa nguồn học: Grammar — video bài học và bài tập ngữ pháp A1–B2",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/discovery/learnenglish-teens-grammar.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho nguồn học: Grammar — video bài học và bài tập ngữ pháp A1–B2.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "test-english-a2-grammar",
@@ -174,9 +174,9 @@
       "thumbnailAsset": null,
       "thumbnailSourceUrl": null,
       "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình minh họa dự phòng nội bộ.",
-      "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa nguồn học: A2 Grammar — bài học và bài tập",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/discovery/test-english-a2-grammar.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho nguồn học: A2 Grammar — bài học và bài tập.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "test-english-b1-grammar",
@@ -202,9 +202,9 @@
       "thumbnailAsset": null,
       "thumbnailSourceUrl": null,
       "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình minh họa dự phòng nội bộ.",
-      "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa nguồn học: B1 Grammar — luyện ngữ pháp theo trình độ",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/discovery/test-english-b1-grammar.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho nguồn học: B1 Grammar — luyện ngữ pháp theo trình độ.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "cambridge-dictionary-pronunciation",
@@ -231,9 +231,9 @@
       "thumbnailAsset": null,
       "thumbnailSourceUrl": null,
       "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình minh họa dự phòng nội bộ.",
-      "imageUrl": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa nguồn học: Cambridge Dictionary — phát âm Anh–Anh và Anh–Mỹ",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/discovery/cambridge-dictionary-pronunciation.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho nguồn học: Cambridge Dictionary — phát âm Anh–Anh và Anh–Mỹ.",
+      "imageCredit": "VocaFlow Original Illustration"
     }
   ]
 }
