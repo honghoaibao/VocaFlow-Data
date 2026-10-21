@@ -212,6 +212,14 @@ def validate_unique_learning_images() -> None:
             if isinstance(block, dict) and block.get("type") == "image" and block.get("imageUrl"):
                 register(block.get("imageUrl"), f"{path}: image block {index}")
 
+    # Also reject reusing a thumbnail across any approved discovery source.
+    catalog_index = read_json("assets/discovery/catalog/index.json")
+    for catalog_entry in catalog_index.get("catalogs", []):
+        catalog_path = catalog_entry.get("path", "")
+        catalog = read_json(catalog_path)
+        for item in catalog.get("items", []):
+            register(item.get("imageUrl"), f"{catalog_path}: source {item.get('id', '<unknown>')}")
+
 def validate_discovery_catalogs() -> None:
     index_path = "assets/discovery/catalog/index.json"
     index = read_json(index_path)
