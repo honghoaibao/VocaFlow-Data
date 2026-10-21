@@ -13,7 +13,7 @@
     "a2",
     "exam-preparation"
   ],
-  "coverImage": "",
+  "coverImage": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/articles/reading-for-main-ideas-a2/cover.svg",
   "blocks": [
     {
       "type": "paragraph",
@@ -355,7 +355,7 @@
       ]
     }
   ],
-  "imageUrl": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1100&q=82",
-  "imageAlt": "Ảnh minh họa cho bài đọc hiểu tiếng Anh",
-  "imageCredit": "Unsplash"
+  "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/articles/reading-for-main-ideas-a2/cover.svg",
+  "imageAlt": "Minh họa gốc VocaFlow cho bài viết: Đọc hiểu tiếng Anh: tìm ý chính trước, chi tiết sau.",
+  "imageCredit": "VocaFlow Original Illustration"
 }

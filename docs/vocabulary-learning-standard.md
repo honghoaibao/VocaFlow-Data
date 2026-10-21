@@ -26,11 +26,11 @@ Nếu schema được mở rộng, phải cập nhật validator và tài liệu
 
 ## 3. Tiêu chuẩn ảnh minh họa — không dùng ảnh trùng
 
-- Mỗi bìa bộ từ, mỗi mục từ và mỗi ảnh chèn trong bài viết là một vị trí ảnh riêng. Không tái sử dụng cùng URL Unsplash cho các vị trí khác nhau, kể cả ở hai bộ từ khác nhau.
-- Bìa phải gợi đúng chủ đề chung; ảnh của từng mục phải giúp liên tưởng đến chính từ/cụm từ, không dùng một ảnh bàn học/sổ tay cho hàng loạt từ khác nghĩa.
-- Đối chiếu ảnh thật trước khi xuất bản: ảnh tải được, chủ thể phù hợp với từ, không bị watermark và không phải thumbnail bên thứ ba khi chưa có quyền.
+- Mỗi bìa bộ từ, mục từ, ảnh trong bài viết và thumbnail nguồn học là một vị trí ảnh riêng. Không tái sử dụng cùng URL cho bất kỳ hai vị trí nào trong toàn kho.
+- Ưu tiên SVG gốc VocaFlow có hình tượng khớp trực tiếp với từ/cụm từ. Bìa phải gợi đúng chủ đề; ảnh từng từ phải minh họa đúng nghĩa, không dùng ảnh bàn học/laptop cho nhiều từ không liên quan.
+- Kiểm tra mỗi SVG hiển thị đúng, tương phản đủ tốt và chữ không bị cắt. Nếu giữ thumbnail ngoài, xác nhận đó là ảnh của đúng nguồn/video, tải được và được phép sử dụng.
 - Dùng URL HTTPS ổn định; thêm imageAlt ngắn gọn mô tả chủ thể/ý nghĩa trong ngữ cảnh và imageCredit nêu nguồn. Không để alt rỗng hoặc giữ alt của ảnh cũ sau khi thay ảnh.
-- Kiểm tra trùng URL xuyên suốt các bìa bộ từ, ảnh từng từ, ảnh bìa bài viết và ảnh nằm trong thân bài. Validator sẽ từ chối URL tái sử dụng trong kho học tập.
+- Kiểm tra trùng URL xuyên suốt bìa bộ từ, ảnh từng từ, bìa/ảnh trong bài và thumbnail nguồn học. Validator sẽ từ chối URL tái sử dụng ở bất kỳ nhóm nào.
 - Không nhúng tệp riêng tư, token, thông tin tài khoản hoặc dữ liệu tiến độ cá nhân trong nội dung công khai.
 
 ## 4. Thiết kế một buổi học
@@ -62,7 +62,7 @@ Mỗi buổi nên giới hạn số từ theo thiết kế hiện hành của ap
 1. Đọc soát chính tả, từ loại, nghĩa tiếng Việt, phát âm và ví dụ.
 2. Kiểm tra mỗi ví dụ chứa cách dùng tự nhiên của từ mục tiêu.
 3. Xác minh URL ảnh còn hoạt động, ảnh phù hợp và alt/credit không còn sót từ ảnh trước.
-4. Kiểm tra không có URL ảnh lặp giữa các bộ từ và bài viết gốc.
+4. Kiểm tra không có URL ảnh lặp giữa bộ từ, bài viết và catalog nguồn học.
 5. Cập nhật manifest assets/content/index.json, đảm bảo ngày trong tên file khớp publishDate.
 6. Chạy python3 tool/validate_content.py; sửa mọi lỗi trước khi merge.
 7. Đồng bộ JSON đã duyệt vào app/src/main/assets/assets/ của app để bản offline dùng cùng nội dung.

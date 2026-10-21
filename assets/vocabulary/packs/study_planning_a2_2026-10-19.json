@@ -15,9 +15,9 @@
       "partOfSpeech": "verb",
       "pronunciation": "/praɪˈɒrətaɪz/",
       "example": "I prioritize the most difficult task first.",
-      "imageUrl": "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa cho từ prioritize: ưu tiên",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/study-planning-a2/study-prioritize.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"prioritize\" — ưu tiên.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "study-allocate",
@@ -26,9 +26,9 @@
       "partOfSpeech": "verb",
       "pronunciation": "/ˈæləkeɪt/",
       "example": "I allocate fifteen minutes to vocabulary practice.",
-      "imageUrl": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa cho từ allocate: phân bổ; dành riêng",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/study-planning-a2/study-allocate.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"allocate\" — phân bổ; dành riêng.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "study-distraction",
@@ -37,9 +37,9 @@
       "partOfSpeech": "noun",
       "pronunciation": "/dɪˈstrækʃən/",
       "example": "I put my phone away to avoid distraction.",
-      "imageUrl": "https://images.unsplash.com/photo-1497436072909-60f36b2d72a6?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa cho từ distraction: sự xao nhãng",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/study-planning-a2/study-distraction.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"distraction\" — sự xao nhãng.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "study-achievable",
@@ -48,9 +48,9 @@
       "partOfSpeech": "adjective",
       "pronunciation": "/əˈtʃiːvəbl/",
       "example": "Ten new words a week is an achievable goal for me.",
-      "imageUrl": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa cho từ achievable: có thể đạt được",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/study-planning-a2/study-achievable.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"achievable\" — có thể đạt được.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "study-productive",
@@ -59,9 +59,9 @@
       "partOfSpeech": "adjective",
       "pronunciation": "/prəˈdʌktɪv/",
       "example": "A short, focused session can be productive.",
-      "imageUrl": "https://images.unsplash.com/photo-1483794344563-d27a8d18014e?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa cho từ productive: hiệu quả; tạo ra kết quả",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/study-planning-a2/study-productive.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"productive\" — hiệu quả; tạo ra kết quả.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "study-break-down",
@@ -70,9 +70,9 @@
       "partOfSpeech": "phrasal verb",
       "pronunciation": "/breɪk daʊn/",
       "example": "Break down a large assignment into smaller steps.",
-      "imageUrl": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa cho từ break down: chia nhỏ (nhiệm vụ)",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/study-planning-a2/study-break-down.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"break down\" — chia nhỏ (nhiệm vụ).",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "study-checklist",
@@ -81,9 +81,9 @@
       "partOfSpeech": "noun",
       "pronunciation": "/ˈtʃeklɪst/",
       "example": "I use a checklist to keep track of each step.",
-      "imageUrl": "https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa cho từ checklist: danh sách việc cần làm",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/study-planning-a2/study-checklist.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"checklist\" — danh sách việc cần làm.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "study-flexible",
@@ -92,9 +92,9 @@
       "partOfSpeech": "adjective",
       "pronunciation": "/ˈfleksəbl/",
       "example": "My study plan is flexible when school gets busy.",
-      "imageUrl": "https://images.unsplash.com/photo-1518621736915-f3b1c41bfd00?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa cho từ flexible: linh hoạt",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/study-planning-a2/study-flexible.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"flexible\" — linh hoạt.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "study-reflect",
@@ -103,9 +103,9 @@
       "partOfSpeech": "verb",
       "pronunciation": "/rɪˈflekt/",
       "example": "After practice, I reflect on what was difficult.",
-      "imageUrl": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ \"reflect\": nhìn lại; suy ngẫm.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/study-planning-a2/study-reflect.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"reflect\" — nhìn lại; suy ngẫm.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "study-estimate",
@@ -114,9 +114,9 @@
       "partOfSpeech": "verb/noun",
       "pronunciation": "/ˈestɪmeɪt/",
       "example": "Estimate how long each task will take.",
-      "imageUrl": "https://images.unsplash.com/photo-1543269865-cbf427effbad?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa cho từ estimate: ước tính",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/study-planning-a2/study-estimate.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"estimate\" — ước tính.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "study-postpone",
@@ -125,9 +125,9 @@
       "partOfSpeech": "verb",
       "pronunciation": "/pəʊstˈpəʊn/",
       "example": "Try not to postpone a five-minute review.",
-      "imageUrl": "https://images.unsplash.com/photo-1584697964358-3e14ca57658b?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa cho từ postpone: hoãn lại",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/study-planning-a2/study-postpone.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"postpone\" — hoãn lại.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "study-milestone",
@@ -136,12 +136,12 @@
       "partOfSpeech": "noun",
       "pronunciation": "/ˈmaɪlstəʊn/",
       "example": "Finishing your first book is an important milestone.",
-      "imageUrl": "https://images.unsplash.com/photo-1529070538774-1843cb3265df?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa cho từ milestone: cột mốc",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/study-planning-a2/study-milestone.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"milestone\" — cột mốc.",
+      "imageCredit": "VocaFlow Original Illustration"
     }
   ],
-  "imageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1100&q=82",
-  "imageAlt": "Ảnh chủ đề lập kế hoạch học và sách",
-  "imageCredit": "Unsplash"
+  "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/study-planning-a2/cover.svg",
+  "imageAlt": "Minh họa gốc VocaFlow về lập kế hoạch, ưu tiên công việc và tập trung học.",
+  "imageCredit": "VocaFlow Original Illustration"
 }

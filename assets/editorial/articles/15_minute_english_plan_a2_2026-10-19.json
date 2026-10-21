@@ -13,7 +13,7 @@
     "vocabulary",
     "a2"
   ],
-  "coverImage": "",
+  "coverImage": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/articles/15-minute-english-plan-a2/cover.svg",
   "blocks": [
     {
       "type": "paragraph",
@@ -302,7 +302,7 @@
       ]
     }
   ],
-  "imageUrl": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&w=1100&q=82",
-  "imageAlt": "Ảnh minh họa cho bài Kế hoạch tiếng Anh 15 phút: học, dùng và ôn lại",
-  "imageCredit": "Unsplash"
+  "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/articles/15-minute-english-plan-a2/cover.svg",
+  "imageAlt": "Minh họa gốc VocaFlow cho bài viết: Kế hoạch tiếng Anh 15 phút: học, dùng và ôn lại.",
+  "imageCredit": "VocaFlow Original Illustration"
 }
