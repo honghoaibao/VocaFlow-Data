@@ -15,9 +15,9 @@
       "partOfSpeech": "verb",
       "pronunciation": "/ˈklærɪfaɪ/",
       "example": "Could you clarify the last point, please?",
-      "imageUrl": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ \"clarify\": làm rõ; giải thích cho rõ.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/everyday-communication-a2/comm-clarify.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"clarify\" — làm rõ; giải thích cho rõ.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "comm-explain",
@@ -26,9 +26,9 @@
       "partOfSpeech": "verb",
       "pronunciation": "/ɪkˈspleɪn/",
       "example": "Can you explain why this answer is correct?",
-      "imageUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa từ \"explain\": Người học trao đổi và giải thích bài.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/everyday-communication-a2/comm-explain.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"explain\" — giải thích.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "comm-suggest",
@@ -37,9 +37,9 @@
       "partOfSpeech": "verb",
       "pronunciation": "/səˈdʒest/",
       "example": "I suggest reviewing these words after dinner.",
-      "imageUrl": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa từ \"suggest\": Nhóm học sinh cùng đề xuất ý tưởng.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/everyday-communication-a2/comm-suggest.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"suggest\" — đề xuất; gợi ý.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "comm-agree",
@@ -48,9 +48,9 @@
       "partOfSpeech": "verb",
       "pronunciation": "/əˈɡriː/",
       "example": "I agree with your plan because it is realistic.",
-      "imageUrl": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ \"agree\": đồng ý.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/everyday-communication-a2/comm-agree.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"agree\" — đồng ý.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "comm-disagree",
@@ -59,9 +59,9 @@
       "partOfSpeech": "verb",
       "pronunciation": "/ˌdɪsəˈɡriː/",
       "example": "I understand your idea, but I disagree with this part.",
-      "imageUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa từ \"disagree\": Cuộc thảo luận trong không gian làm việc.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/everyday-communication-a2/comm-disagree.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"disagree\" — không đồng ý.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "comm-solution",
@@ -70,9 +70,9 @@
       "partOfSpeech": "noun",
       "pronunciation": "/səˈluːʃən/",
       "example": "We found a simple solution to the problem.",
-      "imageUrl": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ \"solution\": giải pháp.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/everyday-communication-a2/comm-solution.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"solution\" — giải pháp.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "comm-issue",
@@ -81,9 +81,9 @@
       "partOfSpeech": "noun",
       "pronunciation": "/ˈɪʃuː/",
       "example": "There is one issue we need to discuss first.",
-      "imageUrl": "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa từ \"issue\": Bàn làm việc với tài liệu cần xem xét.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/everyday-communication-a2/comm-issue.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"issue\" — vấn đề.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "comm-improve",
@@ -92,9 +92,9 @@
       "partOfSpeech": "verb",
       "pronunciation": "/ɪmˈpruːv/",
       "example": "I practise a little every day to improve my speaking.",
-      "imageUrl": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ \"improve\": cải thiện; tiến bộ.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/everyday-communication-a2/comm-improve.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"improve\" — cải thiện; tiến bộ.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "comm-prepare",
@@ -103,9 +103,9 @@
       "partOfSpeech": "verb",
       "pronunciation": "/prɪˈpeə/",
       "example": "We prepare three questions before the discussion.",
-      "imageUrl": "https://images.unsplash.com/photo-1522661067900-ab829854a57f?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ \"prepare\": chuẩn bị.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/everyday-communication-a2/comm-prepare.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"prepare\" — chuẩn bị.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "comm-confidence",
@@ -114,9 +114,9 @@
       "partOfSpeech": "noun",
       "pronunciation": "/ˈkɒnfɪdəns/",
       "example": "Regular practice gives me more confidence when I speak.",
-      "imageUrl": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ \"confidence\": sự tự tin.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/everyday-communication-a2/comm-confidence.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"confidence\" — sự tự tin.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "comm-mistake",
@@ -125,9 +125,9 @@
       "partOfSpeech": "noun",
       "pronunciation": "/mɪˈsteɪk/",
       "example": "I made a mistake, checked it, and tried again.",
-      "imageUrl": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa từ \"mistake\": Người học kiểm tra lại bài trên màn hình.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/everyday-communication-a2/comm-mistake.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"mistake\" — lỗi; sai sót.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "comm-progress",
@@ -136,9 +136,9 @@
       "partOfSpeech": "noun",
       "pronunciation": "/ˈprəʊɡres/",
       "example": "A short weekly review helps me notice my progress.",
-      "imageUrl": "https://images.unsplash.com/photo-1432888622747-4eb9a8efeb07?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa từ \"progress\": Kế hoạch học tập và ghi chú tiến độ.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/everyday-communication-a2/comm-progress.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"progress\" — sự tiến bộ; tiến triển.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "comm-discuss",
@@ -147,9 +147,9 @@
       "partOfSpeech": "verb",
       "pronunciation": "/dɪˈskʌs/",
       "example": "Let's discuss the options before we choose one.",
-      "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa từ \"discuss\": Nhóm cộng tác cùng trao đổi.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/everyday-communication-a2/comm-discuss.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"discuss\" — thảo luận.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "comm-respond",
@@ -158,12 +158,12 @@
       "partOfSpeech": "verb",
       "pronunciation": "/rɪˈspɒnd/",
       "example": "Take a moment to respond clearly to the question.",
-      "imageUrl": "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ \"respond\": trả lời; phản hồi.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/everyday-communication-a2/comm-respond.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"respond\" — trả lời; phản hồi.",
+      "imageCredit": "VocaFlow Original Illustration"
     }
   ],
-  "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1100&q=82",
-  "imageAlt": "Nhóm người cùng trao đổi ý tưởng và giải quyết vấn đề.",
-  "imageCredit": "Unsplash"
+  "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/everyday-communication-a2/cover.svg",
+  "imageAlt": "Minh họa gốc VocaFlow về giao tiếp, trao đổi ý kiến và giải quyết vấn đề.",
+  "imageCredit": "VocaFlow Original Illustration"
 }
