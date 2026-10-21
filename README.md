@@ -9,9 +9,9 @@ Repository này chỉ lưu **dữ liệu JSON đã xuất bản**: gói từ v�
 - 7 bộ từ vựng: Daily Routines (A1), School Life (A1), Learning & Exam Skills (A2), Technology & Digital Life (A2), Environment & Climate (B1), Study Planning & Focus (A2), Everyday Communication & Problem Solving (A2).
 - 20 liên kết đã duyệt, gồm tài liệu học và video. Đợt 2026-10-19 bổ sung video BBC Learning English về trí nhớ và trang từ vựng A1–A2 của British Council.
 - 6 bài viết gốc do VocaFlow biên soạn. Nội dung gồm học từ vựng, hiện tại đơn, đọc hiểu, kế hoạch học 15 phút và bài hướng dẫn dài về xây dựng hệ thống học tiếng Anh bền vững (đăng ngày 2026-10-20), có ví dụ, bài tự luyện và 3 ảnh minh họa trong bài.
-- Metadata ảnh: mỗi bộ từ, từng từ, bài viết và nguồn học đều có `imageUrl` (HTTPS), `imageAlt` và `imageCredit`. Bộ từ Giao tiếp hằng ngày A2 mới có 14 mục từ, mỗi mục có ảnh URL riêng; 30 ảnh từ/cụm từ trùng nguồn đã được đổi sang ảnh khác; nội dung mới cũng có ảnh riêng. Nguồn ảnh dùng Unsplash, không sao chép thumbnail video bên thứ ba.
+- Metadata ảnh: mỗi bộ từ, từng từ, bài viết và nguồn học đều có `imageUrl` (HTTPS), `imageAlt` và `imageCredit`. Ảnh cho bìa, mục từ và ảnh trong bài được rà trùng trên toàn bộ kho học tập; validator từ chối URL ảnh bị dùng lại cho nhiều vị trí. Nguồn ảnh dùng Unsplash; không sao chép thumbnail video bên thứ ba.
 - Ứng dụng Android đọc các URL này để hiển thị ảnh và dùng bộ nhớ đệm ảnh của thiết bị. Khi ngoại tuyến, ảnh đã tải trước đó có thể tiếp tục hiển thị; dữ liệu JSON có bộ nhớ đệm riêng.
-- Chuẩn biên tập: [docs/editorial-style-guide.md](docs/editorial-style-guide.md). Tài liệu này học hỏi nguyên tắc trình bày tổng quát từ nguồn học uy tín; bài viết và ví dụ vẫn phải do VocaFlow tự viết.
+- Chuẩn biên tập: [docs/editorial-style-guide.md](docs/editorial-style-guide.md). Chuẩn bộ từ: [docs/vocabulary-learning-standard.md](docs/vocabulary-learning-standard.md), gồm tiêu chí chọn từ, ảnh không trùng, hoạt động truy hồi và lịch ôn thích ứng. Bài viết và ví dụ vẫn phải do VocaFlow tự viết.
 
 ## Cấu trúc
 
@@ -44,11 +44,11 @@ assets/
 ## Cập nhật nội dung
 
 1. Thêm tệp JSON mới vào đúng thư mục.
-2. Thêm `imageUrl`, `imageAlt` và `imageCredit` cho từng mục có ảnh. Tránh dùng chung một ảnh minh họa cho nhiều từ nếu có thể chọn ảnh liên quan hơn.
+2. Thêm `imageUrl`, `imageAlt` và `imageCredit` cho từng mục có ảnh. Ảnh phải đúng chủ đề và không trùng URL với bất kỳ bìa bộ từ, mục từ hoặc ảnh bài viết nào khác.
 3. Kiểm tra JSON, schema, trạng thái xuất bản, ngày và metadata ảnh.
 4. Thêm đường dẫn vào manifest tương ứng.
 5. Chạy `python3 tool/validate_content.py` hoặc để GitHub Actions tự kiểm tra trước khi gộp.
-6. Commit lên `main`; VocaFlow sẽ tự tải nội dung khi mở app và cũng có nút cập nhật thủ công trong Hồ sơ & cài đặt. Nếu không có mạng hoặc nguồn không khả dụng, app giữ dữ liệu được đóng gói sẵn.
+6. Commit lên `main`; VocaFlow tự tải nội dung đã duyệt khi khởi động và dùng bản JSON đóng gói sẵn khi ngoại tuyến. Sau mỗi thay đổi nội dung, nhớ đồng bộ các JSON đã duyệt sang `app/src/main/assets/assets/` để đảm bảo hai nguồn nhất quán.
 
 ## Lưu ý
 
