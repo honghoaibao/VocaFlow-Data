@@ -179,6 +179,39 @@ def validate_vocabulary_and_articles() -> None:
         seen_article_ids.add(article_id)
 
 
+
+def validate_unique_learning_images() -> None:
+    """Reject reused image URLs in vocabulary packs and original VocaFlow articles."""
+    manifest = read_json("assets/content/index.json")
+    seen_images: dict[str, str] = {}
+
+    def register(url: object, context: str) -> None:
+        if not isinstance(url, str) or not url.strip():
+            fail(f"{context}: imageUrl is required")
+        previous = seen_images.get(url)
+        if previous is not None:
+            fail(
+                f"Duplicate learning image URL: {context} reuses {previous}. "
+                "Use a new, topic-relevant illustration for each learning visual."
+            )
+        seen_images[url] = context
+
+    for entry in manifest.get("vocabularyPacks", []):
+        path = entry["path"]
+        pack = read_json(path)
+        register(pack.get("imageUrl") or pack.get("coverImage"), f"{path}: pack cover")
+        for word in pack.get("words", []):
+            register(word.get("imageUrl"), f"{path}: word {word.get('id', '<unknown>')}")
+
+    for entry in manifest.get("editorialArticles", []):
+        path = entry["path"]
+        article = read_json(path)
+        # imageUrl and coverImage are aliases for the same hero art, not separate image slots.
+        register(article.get("imageUrl") or article.get("coverImage"), f"{path}: article cover")
+        for index, block in enumerate(article.get("blocks", []), start=1):
+            if isinstance(block, dict) and block.get("type") == "image" and block.get("imageUrl"):
+                register(block.get("imageUrl"), f"{path}: image block {index}")
+
 def validate_discovery_catalogs() -> None:
     index_path = "assets/discovery/catalog/index.json"
     index = read_json(index_path)
@@ -238,6 +271,7 @@ def validate_discovery_catalogs() -> None:
 
 def main() -> None:
     validate_vocabulary_and_articles()
+    validate_unique_learning_images()
     validate_discovery_catalogs()
     count = sum(1 for p in (ROOT / "assets").rglob("*.json"))
     print(f"VocaFlow-Data validation passed: {count} JSON files checked.")
