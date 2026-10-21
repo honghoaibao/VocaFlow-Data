@@ -13,7 +13,7 @@
     "beginner",
     "exam-preparation"
   ],
-  "coverImage": "",
+  "coverImage": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/articles/present-simple-study-guide-a1/cover.svg",
   "blocks": [
     {
       "type": "paragraph",
@@ -322,7 +322,7 @@
       ]
     }
   ],
-  "imageUrl": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=1100&q=82",
-  "imageAlt": "Ảnh minh họa cho bài viết: Hiện tại đơn: nhận diện thói quen và sự thật.",
-  "imageCredit": "Unsplash"
+  "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/articles/present-simple-study-guide-a1/cover.svg",
+  "imageAlt": "Minh họa gốc VocaFlow cho bài viết: Hiện tại đơn: nhận diện thói quen và sự thật.",
+  "imageCredit": "VocaFlow Original Illustration"
 }
