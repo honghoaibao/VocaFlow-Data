@@ -25,9 +25,9 @@
       "thumbnailAsset": null,
       "thumbnailSourceUrl": null,
       "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow.",
-      "imageUrl": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa nguồn học: A1–A2 Vocabulary — từ vựng theo chủ đề",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/discovery/resource-bc-vocabulary-a1-a2.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho nguồn học: A1–A2 Vocabulary — từ vựng theo chủ đề.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "resource-teens-a2-reading",
@@ -52,9 +52,9 @@
       "thumbnailAsset": null,
       "thumbnailSourceUrl": null,
       "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow.",
-      "imageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa nguồn học: A2 Reading — bài đọc kèm bài tập",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/discovery/resource-teens-a2-reading.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho nguồn học: A2 Reading — bài đọc kèm bài tập.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "resource-cambridge-learner-activities",
@@ -85,9 +85,9 @@
       "thumbnailAsset": null,
       "thumbnailSourceUrl": null,
       "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow.",
-      "imageUrl": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa nguồn học: Activities for Learners — chọn kỹ năng và thời lượng",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/discovery/resource-cambridge-learner-activities.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho nguồn học: Activities for Learners — chọn kỹ năng và thời lượng.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "resource-bc-grammar-a1-a2",
@@ -112,9 +112,9 @@
       "thumbnailAsset": null,
       "thumbnailSourceUrl": null,
       "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow.",
-      "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa nguồn học: A1–A2 Grammar — giải thích và bài kiểm tra",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/discovery/resource-bc-grammar-a1-a2.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho nguồn học: A1–A2 Grammar — giải thích và bài kiểm tra.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "resource-teens-a2-graded-reading",
@@ -139,9 +139,9 @@
       "thumbnailAsset": null,
       "thumbnailSourceUrl": null,
       "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow.",
-      "imageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa nguồn học: A2 Graded Reading — truyện và bài đọc theo cấp độ",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/discovery/resource-teens-a2-graded-reading.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho nguồn học: A2 Graded Reading — truyện và bài đọc theo cấp độ.",
+      "imageCredit": "VocaFlow Original Illustration"
     }
   ]
 }
