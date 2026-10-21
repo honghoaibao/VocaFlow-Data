@@ -236,9 +236,53 @@ def validate_discovery_catalogs() -> None:
                     fail(f"{path}: item {item_id} references a missing thumbnailAsset")
 
 
+def validate_unique_image_sources() -> None:
+    """Reject repeated image sources across all published content, ignoring crop query parameters."""
+    seen: dict[tuple[str, str], str] = {}
+
+    def register(entry: dict, context: str) -> None:
+        image_url = entry.get("imageUrl") or entry.get("thumbnailUrl")
+        if not isinstance(image_url, str) or not image_url.strip():
+            return
+        parsed = urlparse(image_url)
+        identity = ((parsed.hostname or "").lower(), parsed.path.rstrip("/"))
+        if not identity[0] or not identity[1]:
+            fail(f"{context}: could not identify the image source")
+        previous = seen.get(identity)
+        if previous is not None:
+            fail(
+                f"Duplicate image source in {context}; already used by {previous}. "
+                "Choose a distinct, topic-relevant image source instead of changing crop parameters."
+            )
+        seen[identity] = context
+
+    manifest = read_json("assets/content/index.json")
+    for pack_entry in manifest.get("vocabularyPacks", []):
+        path = pack_entry["path"]
+        pack = read_json(path)
+        register(pack, f"{path}: pack cover")
+        for word in pack.get("words", []):
+            register(word, f"{path}: word {word.get('id', '<unknown>')}")
+
+    for article_entry in manifest.get("editorialArticles", []):
+        path = article_entry["path"]
+        article = read_json(path)
+        register(article, f"{path}: article cover")
+        for index, block in enumerate(article.get("blocks", []), start=1):
+            register(block, f"{path}: block {index}")
+
+    catalog_index = read_json("assets/discovery/catalog/index.json")
+    for catalog_entry in catalog_index.get("catalogs", []):
+        path = catalog_entry["path"]
+        catalog = read_json(path)
+        for item in catalog.get("items", []):
+            register(item, f"{path}: resource {item.get('id', '<unknown>')}")
+
+
 def main() -> None:
     validate_vocabulary_and_articles()
     validate_discovery_catalogs()
+    validate_unique_image_sources()
     count = sum(1 for p in (ROOT / "assets").rglob("*.json"))
     print(f"VocaFlow-Data validation passed: {count} JSON files checked.")
 
