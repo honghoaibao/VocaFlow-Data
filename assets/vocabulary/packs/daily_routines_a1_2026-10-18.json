@@ -15,9 +15,15 @@
       "example": "Reading every day is a good habit.",
       "partOfSpeech": "noun",
       "pronunciation": "/ˈhæbɪt/",
-      "imageUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ habit: thói quen",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa cho từ habit (thói quen) trong sinh hoạt và học tập hằng ngày.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "form a habit",
+        "break a habit"
+      ],
+      "usageNote": "Danh từ đếm được: thường dùng “a habit”; cấu trúc hữu ích là “a habit of + V-ing”.",
+      "commonMistake": "Không bỏ mạo từ trong câu như “Reading is a good habit.”"
     },
     {
       "id": "improve",
@@ -28,7 +34,11 @@
       "pronunciation": "/ɪmˈpruːv/",
       "imageUrl": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa chủ đề \"improve\" — cải thiện; tiến bộ",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "improve your English",
+        "improve your skills"
+      ]
     },
     {
       "id": "usually",
@@ -39,7 +49,13 @@
       "pronunciation": "/ˈjuːʒuəli/",
       "imageUrl": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa chủ đề \"usually\" — thường; thường lệ",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "usually get up",
+        "usually takes the bus"
+      ],
+      "usageNote": "Đặt usually trước động từ thường nhưng sau động từ be: “She usually studies”; “She is usually busy”.",
+      "commonMistake": "Với he/she/it ở hiện tại đơn, động từ theo sau vẫn cần -s/-es."
     },
     {
       "id": "confident",
@@ -50,7 +66,13 @@
       "pronunciation": "/ˈkɒnfɪdənt/",
       "imageUrl": "https://images.unsplash.com/photo-1508780709619-79562169bc64?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa chủ đề \"confident\" — tự tin",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "feel confident",
+        "confident about a test"
+      ],
+      "usageNote": "Thường dùng “confident about/of something” hoặc “confident that + mệnh đề”.",
+      "commonMistake": "Nói “I feel confident”, không dùng “I am confidence”."
     },
     {
       "id": "schedule",
@@ -61,7 +83,11 @@
       "pronunciation": "/ˈʃedjuːl/",
       "imageUrl": "https://images.unsplash.com/photo-1491841550275-ad7854e35ca6?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa chủ đề \"schedule\" — lịch trình",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "follow a schedule",
+        "busy schedule"
+      ]
     },
     {
       "id": "prepare",
@@ -72,7 +98,11 @@
       "pronunciation": "/prɪˈpeə/",
       "imageUrl": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa chủ đề \"prepare\" — chuẩn bị",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "prepare for a test",
+        "prepare your books"
+      ]
     },
     {
       "id": "regular",
@@ -83,7 +113,11 @@
       "pronunciation": "/ˈreɡjələ/",
       "imageUrl": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa chủ đề \"regular\" — đều đặn; thường xuyên",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "regular practice",
+        "regular exercise"
+      ]
     },
     {
       "id": "review",
@@ -94,7 +128,11 @@
       "pronunciation": "/rɪˈvjuː/",
       "imageUrl": "https://images.unsplash.com/photo-1498079022511-d15614cb1d5a?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa chủ đề \"review\" — ôn tập; xem lại",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "review vocabulary",
+        "review your notes"
+      ]
     },
     {
       "id": "break",
@@ -105,7 +143,11 @@
       "pronunciation": "/breɪk/",
       "imageUrl": "https://images.unsplash.com/photo-1511629091441-ee46146481b6?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa chủ đề \"break\" — giờ nghỉ; nghỉ giải lao",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "take a break",
+        "lunch break"
+      ]
     },
     {
       "id": "goal",
@@ -116,7 +158,11 @@
       "pronunciation": "/ɡəʊl/",
       "imageUrl": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa chủ đề \"goal\" — mục tiêu",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "set a goal",
+        "achieve a goal"
+      ]
     }
   ],
   "imageUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1100&q=82",

@@ -15,9 +15,14 @@
       "partOfSpeech": "verb",
       "pronunciation": "/ˈklærɪfaɪ/",
       "example": "Could you clarify the last point, please?",
-      "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa từ \"clarify\": Bàn tay ghi chú để làm rõ một ý.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa việc làm rõ thông tin qua trao đổi.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "clarify a point",
+        "clarify the meaning"
+      ],
+      "usageNote": "Clarify dùng khi làm cho thông tin rõ hơn; thường đi với point, meaning, detail hoặc question."
     },
     {
       "id": "comm-explain",
@@ -26,9 +31,15 @@
       "partOfSpeech": "verb",
       "pronunciation": "/ɪkˈspleɪn/",
       "example": "Can you explain why this answer is correct?",
-      "imageUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa từ \"explain\": Người học trao đổi và giải thích bài.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa việc giải thích ý tưởng trong một cuộc trao đổi.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "explain your idea",
+        "explain why"
+      ],
+      "usageNote": "Mẫu đúng là “explain something to someone” hoặc “explain why/how”; không dùng “discuss about” cho discuss.",
+      "commonMistake": "Dùng “explain something to someone”, không nói “explain me”."
     },
     {
       "id": "comm-suggest",
@@ -39,7 +50,13 @@
       "example": "I suggest reviewing these words after dinner.",
       "imageUrl": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa từ \"suggest\": Nhóm học sinh cùng đề xuất ý tưởng.",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "suggest a solution",
+        "suggest doing something"
+      ],
+      "usageNote": "Sau suggest dùng danh từ, V-ing hoặc “that + mệnh đề”; không dùng trực tiếp “suggest to do”.",
+      "commonMistake": "Không dùng “suggest to do”; dùng “suggest doing” hoặc “suggest that…”."
     },
     {
       "id": "comm-agree",
@@ -48,9 +65,13 @@
       "partOfSpeech": "verb",
       "pronunciation": "/əˈɡriː/",
       "example": "I agree with your plan because it is realistic.",
-      "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa từ \"agree\": Nhóm người cùng làm việc và thống nhất.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa mọi người cùng trao đổi và thống nhất ý kiến.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "agree with someone",
+        "agree on a plan"
+      ]
     },
     {
       "id": "comm-disagree",
@@ -61,7 +82,12 @@
       "example": "I understand your idea, but I disagree with this part.",
       "imageUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa từ \"disagree\": Cuộc thảo luận trong không gian làm việc.",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "disagree with an idea",
+        "respectfully disagree"
+      ],
+      "usageNote": "Có thể nói “disagree with someone/an idea” hoặc “disagree about/on an issue”."
     },
     {
       "id": "comm-solution",
@@ -70,9 +96,13 @@
       "partOfSpeech": "noun",
       "pronunciation": "/səˈluːʃən/",
       "example": "We found a simple solution to the problem.",
-      "imageUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa từ \"solution\": Mọi người cùng tìm giải pháp trên máy tính.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa mọi người cùng trao đổi để tìm giải pháp.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "find a solution",
+        "solution to a problem"
+      ]
     },
     {
       "id": "comm-issue",
@@ -81,9 +111,13 @@
       "partOfSpeech": "noun",
       "pronunciation": "/ˈɪʃuː/",
       "example": "There is one issue we need to discuss first.",
-      "imageUrl": "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa từ \"issue\": Bàn làm việc với tài liệu cần xem xét.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa một vấn đề cần được sắp xếp và xem xét.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "address an issue",
+        "raise an issue"
+      ]
     },
     {
       "id": "comm-improve",
@@ -92,9 +126,13 @@
       "partOfSpeech": "verb",
       "pronunciation": "/ɪmˈpruːv/",
       "example": "I practise a little every day to improve my speaking.",
-      "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa từ \"improve\": Sổ tay và bút trong một phiên học.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa việc cải thiện kỹ năng qua trao đổi và phản hồi.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "improve communication",
+        "improve your speaking"
+      ]
     },
     {
       "id": "comm-prepare",
@@ -103,9 +141,13 @@
       "partOfSpeech": "verb",
       "pronunciation": "/prɪˈpeə/",
       "example": "We prepare three questions before the discussion.",
-      "imageUrl": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa từ \"prepare\": Sổ ghi chép dùng để chuẩn bị buổi học.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa việc chuẩn bị nội dung cho một buổi trao đổi.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "prepare for a discussion",
+        "prepare questions"
+      ]
     },
     {
       "id": "comm-confidence",
@@ -114,9 +156,13 @@
       "partOfSpeech": "noun",
       "pronunciation": "/ˈkɒnfɪdəns/",
       "example": "Regular practice gives me more confidence when I speak.",
-      "imageUrl": "https://images.unsplash.com/photo-1491841550275-ad7854e35ca6?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa từ \"confidence\": Người học tự tin trình bày ý tưởng.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa sự tự tin khi giao tiếp.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "build confidence",
+        "speak with confidence"
+      ]
     },
     {
       "id": "comm-mistake",
@@ -125,9 +171,13 @@
       "partOfSpeech": "noun",
       "pronunciation": "/mɪˈsteɪk/",
       "example": "I made a mistake, checked it, and tried again.",
-      "imageUrl": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa từ \"mistake\": Người học kiểm tra lại bài trên màn hình.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa việc xem lại công việc để phát hiện và sửa lỗi.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "make a mistake",
+        "correct a mistake"
+      ]
     },
     {
       "id": "comm-progress",
@@ -138,7 +188,12 @@
       "example": "A short weekly review helps me notice my progress.",
       "imageUrl": "https://images.unsplash.com/photo-1432888622747-4eb9a8efeb07?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa từ \"progress\": Kế hoạch học tập và ghi chú tiến độ.",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "make progress",
+        "measure progress"
+      ],
+      "usageNote": "Progress thường không đếm được: “make progress”, không dùng “many progresses”."
     },
     {
       "id": "comm-discuss",
@@ -149,7 +204,13 @@
       "example": "Let's discuss the options before we choose one.",
       "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa từ \"discuss\": Nhóm cộng tác cùng trao đổi.",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "discuss a problem",
+        "discuss the options"
+      ],
+      "usageNote": "Discuss là ngoại động từ trực tiếp: “discuss the problem”, không cần thêm “about”.",
+      "commonMistake": "Không thêm “about” trực tiếp sau discuss: “discuss the problem”."
     },
     {
       "id": "comm-respond",
@@ -158,9 +219,15 @@
       "partOfSpeech": "verb",
       "pronunciation": "/rɪˈspɒnd/",
       "example": "Take a moment to respond clearly to the question.",
-      "imageUrl": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa từ \"respond\": Tài liệu và sổ ghi chú trong buổi trao đổi.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa cho từ respond (phản hồi) trong một cuộc trao đổi.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "respond to a question",
+        "respond quickly"
+      ],
+      "usageNote": "Mẫu phổ biến là “respond to a question/email”; cần giới từ “to”.",
+      "commonMistake": "Nhớ giới từ “to”: “respond to a question”."
     }
   ],
   "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1100&q=82",

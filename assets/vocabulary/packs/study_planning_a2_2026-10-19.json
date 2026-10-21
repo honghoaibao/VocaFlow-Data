@@ -17,7 +17,12 @@
       "example": "I prioritize the most difficult task first.",
       "imageUrl": "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa cho từ prioritize: ưu tiên",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "prioritize tasks",
+        "prioritize your study time"
+      ],
+      "usageNote": "Prioritize là động từ; prioritize A over B nghĩa là ưu tiên A hơn B."
     },
     {
       "id": "study-allocate",
@@ -28,7 +33,12 @@
       "example": "I allocate fifteen minutes to vocabulary practice.",
       "imageUrl": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa cho từ allocate: phân bổ; dành riêng",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "allocate time",
+        "allocate resources"
+      ],
+      "usageNote": "Allocate thường đi với “time/resources/budget” và có thể nêu đối tượng được phân bổ."
     },
     {
       "id": "study-distraction",
@@ -39,7 +49,11 @@
       "example": "I put my phone away to avoid distraction.",
       "imageUrl": "https://images.unsplash.com/photo-1497436072909-60f36b2d72a6?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa cho từ distraction: sự xao nhãng",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "avoid distractions",
+        "a major distraction"
+      ]
     },
     {
       "id": "study-achievable",
@@ -50,7 +64,11 @@
       "example": "Ten new words a week is an achievable goal for me.",
       "imageUrl": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa cho từ achievable: có thể đạt được",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "achievable goal",
+        "realistic and achievable"
+      ]
     },
     {
       "id": "study-productive",
@@ -61,7 +79,11 @@
       "example": "A short, focused session can be productive.",
       "imageUrl": "https://images.unsplash.com/photo-1483794344563-d27a8d18014e?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa cho từ productive: hiệu quả; tạo ra kết quả",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "productive session",
+        "productive use of time"
+      ]
     },
     {
       "id": "study-break-down",
@@ -72,7 +94,13 @@
       "example": "Break down a large assignment into smaller steps.",
       "imageUrl": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa cho từ break down: chia nhỏ (nhiệm vụ)",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "break down a task",
+        "break a task down"
+      ],
+      "usageNote": "“Break down a task” nghĩa là chia một nhiệm vụ thành phần nhỏ; đây là phrasal verb.",
+      "commonMistake": "Khi dùng đại từ tân ngữ, đặt ở giữa phrasal verb: “break it down”."
     },
     {
       "id": "study-checklist",
@@ -83,7 +111,11 @@
       "example": "I use a checklist to keep track of each step.",
       "imageUrl": "https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa cho từ checklist: danh sách việc cần làm",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "make a checklist",
+        "tick off a checklist"
+      ]
     },
     {
       "id": "study-flexible",
@@ -94,7 +126,11 @@
       "example": "My study plan is flexible when school gets busy.",
       "imageUrl": "https://images.unsplash.com/photo-1518621736915-f3b1c41bfd00?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa cho từ flexible: linh hoạt",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "flexible schedule",
+        "remain flexible"
+      ]
     },
     {
       "id": "study-reflect",
@@ -105,7 +141,12 @@
       "example": "After practice, I reflect on what was difficult.",
       "imageUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa cho từ reflect: nhìn lại; suy ngẫm",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "reflect on progress",
+        "time to reflect"
+      ],
+      "usageNote": "Khi nghĩa là suy ngẫm, reflect thường đi với “on”: reflect on your progress."
     },
     {
       "id": "study-estimate",
@@ -116,7 +157,11 @@
       "example": "Estimate how long each task will take.",
       "imageUrl": "https://images.unsplash.com/photo-1543269865-cbf427effbad?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa cho từ estimate: ước tính",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "estimate the time",
+        "roughly estimate"
+      ]
     },
     {
       "id": "study-postpone",
@@ -127,7 +172,13 @@
       "example": "Try not to postpone a five-minute review.",
       "imageUrl": "https://images.unsplash.com/photo-1584697964358-3e14ca57658b?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa cho từ postpone: hoãn lại",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "postpone a meeting",
+        "postpone doing something"
+      ],
+      "usageNote": "Postpone đi với danh từ hoặc V-ing: “postpone the meeting”, “postpone studying”.",
+      "commonMistake": "Không dùng “postpone to study”; dùng “postpone studying”."
     },
     {
       "id": "study-milestone",
@@ -138,7 +189,11 @@
       "example": "Finishing your first book is an important milestone.",
       "imageUrl": "https://images.unsplash.com/photo-1529070538774-1843cb3265df?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa cho từ milestone: cột mốc",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "reach a milestone",
+        "important milestone"
+      ]
     }
   ],
   "imageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1100&q=82",

@@ -17,7 +17,11 @@
       "pronunciation": "/ˈfəʊ.kəs/",
       "imageUrl": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa chủ đề \"focus\" — tập trung; sự tập trung",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "focus on a task",
+        "stay focused"
+      ]
     },
     {
       "id": "exam-revise",
@@ -28,7 +32,12 @@
       "pronunciation": "/rɪˈvaɪz/",
       "imageUrl": "https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa chủ đề \"revise\" — ôn tập",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "revise for an exam",
+        "revise grammar"
+      ],
+      "usageNote": "Trong Anh-Anh, revise thường mang nghĩa ôn lại kiến thức trước bài kiểm tra."
     },
     {
       "id": "exam-memorise",
@@ -39,7 +48,11 @@
       "pronunciation": "/ˈmem.ə.raɪz/",
       "imageUrl": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa chủ đề \"memorise\" — ghi nhớ",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "memorise a phrase",
+        "memorise new vocabulary"
+      ]
     },
     {
       "id": "exam-attempt",
@@ -50,7 +63,11 @@
       "pronunciation": "/əˈtempt/",
       "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa chủ đề \"attempt\" — cố gắng; lần thử",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "make an attempt",
+        "attempt to answer"
+      ]
     },
     {
       "id": "exam-correct",
@@ -61,7 +78,11 @@
       "pronunciation": "/kəˈrekt/",
       "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Ảnh minh họa chủ đề \"correct\" — đúng; sửa lỗi",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "correct answer",
+        "correct a mistake"
+      ]
     },
     {
       "id": "exam-mistake",
@@ -72,7 +93,11 @@
       "pronunciation": "/mɪˈsteɪk/",
       "imageUrl": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Minh họa cho từ mistake: lỗi; sự nhầm lẫn",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "make a mistake",
+        "learn from a mistake"
+      ]
     },
     {
       "id": "exam-result",
@@ -83,7 +108,11 @@
       "pronunciation": "/rɪˈzʌlt/",
       "imageUrl": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Minh họa cho từ result: kết quả",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "test results",
+        "as a result"
+      ]
     },
     {
       "id": "exam-progress",
@@ -94,7 +123,13 @@
       "pronunciation": "/ˈprəʊ.ɡres/",
       "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Minh họa cho từ progress: sự tiến bộ",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "make progress",
+        "track your progress"
+      ],
+      "usageNote": "Progress thường không đếm được: “make progress”, không dùng “many progresses”.",
+      "commonMistake": "Không dùng “progresses” hoặc “many progress” trong cách dùng phổ biến."
     },
     {
       "id": "exam-instruction",
@@ -105,7 +140,11 @@
       "pronunciation": "/ɪnˈstrʌk.ʃən/",
       "imageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Minh họa cho từ instruction: hướng dẫn; chỉ dẫn",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "follow instructions",
+        "read the instructions"
+      ]
     },
     {
       "id": "exam-option",
@@ -116,7 +155,11 @@
       "pronunciation": "/ˈɒp.ʃən/",
       "imageUrl": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Minh họa cho từ option: lựa chọn; phương án",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "choose an option",
+        "multiple-choice options"
+      ]
     },
     {
       "id": "exam-passage",
@@ -125,9 +168,14 @@
       "partOfSpeech": "noun",
       "example": "Read the passage once for the main idea.",
       "pronunciation": "/ˈpæs.ɪdʒ/",
-      "imageUrl": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ passage: đoạn văn",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1521898284481-a5ec348cb555?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa tài liệu đọc và luyện đọc hiểu tiếng Anh.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "reading passage",
+        "passage of text"
+      ],
+      "usageNote": "Trong bài đọc, passage thường chỉ một đoạn/bài văn được đưa ra để đọc."
     },
     {
       "id": "exam-evidence",
@@ -138,7 +186,13 @@
       "pronunciation": "/ˈev.ɪ.dəns/",
       "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Minh họa cho từ evidence: bằng chứng",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "find evidence",
+        "evidence for an answer"
+      ],
+      "usageNote": "Evidence thường không đếm được trong nghĩa “bằng chứng”; có thể nói “a piece of evidence”.",
+      "commonMistake": "Tránh “an evidence”; nói “some evidence” hoặc “a piece of evidence”."
     },
     {
       "id": "exam-score",
@@ -147,9 +201,13 @@
       "partOfSpeech": "noun/verb",
       "example": "Your score shows which skills need more practice.",
       "pronunciation": "/skɔːr/",
-      "imageUrl": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ score: điểm số",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1543286386-713bdd548da4?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa kết quả và việc theo dõi tiến độ học tập.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "get a high score",
+        "score a goal"
+      ]
     },
     {
       "id": "exam-deadline",
@@ -158,9 +216,13 @@
       "partOfSpeech": "noun",
       "example": "I set a deadline for finishing my revision.",
       "pronunciation": "/ˈded.laɪn/",
-      "imageUrl": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ deadline: hạn chót",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa việc lên kế hoạch và theo dõi thời hạn.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "meet a deadline",
+        "deadline for an assignment"
+      ]
     },
     {
       "id": "exam-strategy",
@@ -169,9 +231,13 @@
       "partOfSpeech": "noun",
       "example": "A clear strategy helps me manage exam time.",
       "pronunciation": "/ˈstræt.ə.dʒi/",
-      "imageUrl": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ strategy: chiến lược; cách làm",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa việc lập chiến lược và chuẩn bị tài liệu học tập.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "study strategy",
+        "strategy for solving a problem"
+      ]
     },
     {
       "id": "exam-manage-time",
@@ -182,7 +248,13 @@
       "pronunciation": "/ˈmæn.ɪdʒ taɪm/",
       "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Minh họa cho từ manage time: quản lý thời gian",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "manage your time",
+        "time-management skills"
+      ],
+      "usageNote": "Cụm “manage your time” tự nhiên hơn “control the time” khi nói về quản lý thời gian.",
+      "commonMistake": "“Manage time” thường cần sở hữu từ trong ngữ cảnh cụ thể: “manage your time”."
     }
   ],
   "imageUrl": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=1100&q=82",

@@ -17,7 +17,11 @@
       "pronunciation": "/ɪnˈvaɪrənmənt/",
       "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Minh họa cho từ environment: môi trường",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "protect the environment",
+        "natural environment"
+      ]
     },
     {
       "id": "climate-change",
@@ -28,7 +32,12 @@
       "pronunciation": "/ˈklaɪmət tʃeɪndʒ/",
       "imageUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Minh họa cho từ climate change: biến đổi khí hậu",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "tackle climate change",
+        "effects of climate change"
+      ],
+      "commonMistake": "Thường không cần mạo từ trước climate change khi nói về hiện tượng nói chung."
     },
     {
       "id": "emission",
@@ -37,9 +46,15 @@
       "example": "Cycling to school can help reduce carbon emissions.",
       "partOfSpeech": "noun",
       "pronunciation": "/ɪˈmɪʃən/",
-      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ emission: sự phát thải; lượng khí thải",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1500673922987-e212871fec22?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa tác động của hoạt động con người đến môi trường.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "carbon emissions",
+        "reduce emissions"
+      ],
+      "usageNote": "Khi nói chung về khí thải, “emissions” ở dạng số nhiều rất phổ biến; “carbon emissions” là cụm thường gặp.",
+      "commonMistake": "Phân biệt “an emission” (một lần/lượng phát thải) với “emissions” (khí thải nói chung)."
     },
     {
       "id": "renewable-energy",
@@ -50,7 +65,11 @@
       "pronunciation": "/rɪˌnjuːəbl ˈenədʒi/",
       "imageUrl": "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Minh họa cho từ renewable energy: năng lượng tái tạo",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "renewable energy source",
+        "use renewable energy"
+      ]
     },
     {
       "id": "biodiversity",
@@ -59,9 +78,14 @@
       "example": "Healthy forests support biodiversity.",
       "partOfSpeech": "noun",
       "pronunciation": "/ˌbaɪəʊdaɪˈvɜːsəti/",
-      "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ biodiversity: đa dạng sinh học",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa sự đa dạng của cảnh quan và hệ sinh thái tự nhiên.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "protect biodiversity",
+        "biodiversity loss"
+      ],
+      "usageNote": "Biodiversity là danh từ không đếm được trong cách dùng phổ biến."
     },
     {
       "id": "habitat",
@@ -70,9 +94,13 @@
       "example": "Plastic waste can damage the habitat of sea animals.",
       "partOfSpeech": "noun",
       "pronunciation": "/ˈhæbɪtæt/",
-      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ habitat: môi trường sống; nơi cư trú tự nhiên",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa cảnh quan tự nhiên và môi trường sống.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "natural habitat",
+        "destroy a habitat"
+      ]
     },
     {
       "id": "pollution",
@@ -83,7 +111,11 @@
       "pronunciation": "/pəˈluːʃən/",
       "imageUrl": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Minh họa cho từ pollution: sự ô nhiễm",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "air pollution",
+        "reduce pollution"
+      ]
     },
     {
       "id": "sustainable",
@@ -94,7 +126,11 @@
       "pronunciation": "/səˈsteɪnəbl/",
       "imageUrl": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Minh họa cho từ sustainable: bền vững",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "sustainable development",
+        "sustainable lifestyle"
+      ]
     },
     {
       "id": "recycle",
@@ -103,9 +139,13 @@
       "example": "Our class collects paper and bottles to recycle them.",
       "partOfSpeech": "verb",
       "pronunciation": "/ˌriːˈsaɪkl/",
-      "imageUrl": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ recycle: tái chế",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1516937941344-00b4e0337589?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa quy trình và hoạt động quản lý tài nguyên.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "recycle paper",
+        "recycle waste"
+      ]
     },
     {
       "id": "conserve",
@@ -114,9 +154,14 @@
       "example": "Turning off unused lights helps conserve electricity.",
       "partOfSpeech": "verb",
       "pronunciation": "/kənˈsɜːv/",
-      "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ conserve: bảo tồn; tiết kiệm",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa động vật hoang dã cần được bảo tồn.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "conserve energy",
+        "conserve water"
+      ],
+      "usageNote": "Conserve thường đi với tài nguyên cần giữ gìn như energy, water, wildlife."
     }
   ],
   "imageUrl": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=1100&q=82",

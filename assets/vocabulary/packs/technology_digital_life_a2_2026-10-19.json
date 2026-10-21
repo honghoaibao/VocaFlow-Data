@@ -15,9 +15,13 @@
       "example": "I use a small device to listen to English recordings.",
       "partOfSpeech": "noun",
       "pronunciation": "/dɪˈvaɪs/",
-      "imageUrl": "https://images.unsplash.com/photo-1588058365815-c96ac30ee30f?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ device: thiết bị",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa thiết bị di động và công nghệ số.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "mobile device",
+        "electronic device"
+      ]
     },
     {
       "id": "screen-time",
@@ -28,7 +32,12 @@
       "pronunciation": "/ˈskriːn taɪm/",
       "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Minh họa cho từ screen time: thời gian sử dụng màn hình",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "limit screen time",
+        "reduce screen time"
+      ],
+      "usageNote": "Screen time nói về thời lượng sử dụng màn hình; dùng “reduce/limit screen time”."
     },
     {
       "id": "privacy",
@@ -39,7 +48,13 @@
       "pronunciation": "/ˈprɪvəsi/",
       "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Minh họa cho từ privacy: quyền riêng tư; sự riêng tư",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "protect your privacy",
+        "privacy settings"
+      ],
+      "usageNote": "Privacy là danh từ; “private” là tính từ, như trong “private information”.",
+      "commonMistake": "Phân biệt danh từ privacy với tính từ private."
     },
     {
       "id": "password",
@@ -50,7 +65,11 @@
       "pronunciation": "/ˈpɑːswɜːd/",
       "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Minh họa cho từ password: mật khẩu",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "strong password",
+        "reset a password"
+      ]
     },
     {
       "id": "download",
@@ -59,9 +78,13 @@
       "example": "You can download the audio before your journey.",
       "partOfSpeech": "verb",
       "pronunciation": "/ˌdaʊnˈləʊd/",
-      "imageUrl": "https://images.unsplash.com/photo-1588058365815-c96ac30ee30f?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ download: tải xuống",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa dữ liệu số và thao tác tải nội dung.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "download a file",
+        "download an app"
+      ]
     },
     {
       "id": "upload",
@@ -72,7 +95,11 @@
       "pronunciation": "/ˌʌpˈləʊd/",
       "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Minh họa cho từ upload: tải lên",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "upload a file",
+        "upload an assignment"
+      ]
     },
     {
       "id": "reliable",
@@ -81,9 +108,15 @@
       "example": "Use a reliable source when you check information.",
       "partOfSpeech": "adjective",
       "pronunciation": "/rɪˈlaɪəbl/",
-      "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ reliable: đáng tin cậy",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa kết nối mạng và độ tin cậy của công nghệ.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "reliable source",
+        "reliable connection"
+      ],
+      "usageNote": "Reliable là tính từ, thường đứng trước danh từ: “a reliable source”.",
+      "commonMistake": "Reliable là tính từ; trạng từ tương ứng là reliably."
     },
     {
       "id": "search-engine",
@@ -92,9 +125,13 @@
       "example": "A search engine helps us find information online.",
       "partOfSpeech": "noun",
       "pronunciation": "/ˈsɜːtʃ ˌendʒɪn/",
-      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ search engine: công cụ tìm kiếm",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa việc tìm kiếm và xử lý thông tin số.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "use a search engine",
+        "search engine results"
+      ]
     },
     {
       "id": "notification",
@@ -103,9 +140,14 @@
       "example": "I turn off unnecessary notifications while studying.",
       "partOfSpeech": "noun",
       "pronunciation": "/ˌnəʊtɪfɪˈkeɪʃən/",
-      "imageUrl": "https://images.unsplash.com/photo-1588058365815-c96ac30ee30f?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ notification: thông báo",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://images.unsplash.com/photo-1535378620166-273708d44e4c?auto=format&fit=crop&w=1100&q=82",
+      "imageAlt": "Ảnh minh họa giao diện và thông tin trên thiết bị số.",
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "receive a notification",
+        "turn off notifications"
+      ],
+      "usageNote": "Notification là thông báo riêng lẻ; notifications thường dùng khi nói chung về các thông báo."
     },
     {
       "id": "update",
@@ -116,7 +158,11 @@
       "pronunciation": "/ˌʌpˈdeɪt/",
       "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1100&q=82",
       "imageAlt": "Minh họa cho từ update: bản cập nhật; cập nhật",
-      "imageCredit": "Unsplash"
+      "imageCredit": "Unsplash",
+      "collocations": [
+        "app update",
+        "update software"
+      ]
     }
   ],
   "imageUrl": "https://images.unsplash.com/photo-1588058365815-c96ac30ee30f?auto=format&fit=crop&w=1100&q=82",
