@@ -88,3 +88,8 @@ Before publishing, review duplicate words/IDs across packs, misleading translati
 - Add at least one practical exercise and include enough context for the learner to check the answer. Keep answers close to the exercise or explain how to verify them.
 - Give each article an appropriate cover image with relevant imageAlt and accurate imageCredit. Do not use a third-party video thumbnail without permission.
 - Count text from the blocks actually rendered by the app. Update readingMinutes conservatively after editing.
+
+
+## 10. Compatibility with vocabulary lessons
+
+When an article teaches vocabulary or describes study methods, align its examples with the VocaFlow lesson flow: familiarization, meaning retrieval, contextual cloze, typed recall, matching when practical, and spaced review driven by learner results. For published vocabulary packs, follow the dedicated [Vocabulary Pack Authoring Guide](vocabulary-pack-authoring-guide.md). Pack covers, word images, article covers/blocks, and discovery thumbnails must use distinct underlying image sources across the whole published catalog.
