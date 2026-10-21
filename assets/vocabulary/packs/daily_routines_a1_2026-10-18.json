@@ -15,9 +15,9 @@
       "example": "Reading every day is a good habit.",
       "partOfSpeech": "noun",
       "pronunciation": "/ˈhæbɪt/",
-      "imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ \"habit\": thói quen.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1/habit.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"habit\" — thói quen.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "improve",
@@ -26,9 +26,9 @@
       "example": "I want to improve my English.",
       "partOfSpeech": "verb",
       "pronunciation": "/ɪmˈpruːv/",
-      "imageUrl": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa chủ đề \"improve\" — cải thiện; tiến bộ",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1/improve.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"improve\" — cải thiện; tiến bộ.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "usually",
@@ -37,9 +37,9 @@
       "example": "She usually gets up at six.",
       "partOfSpeech": "adverb",
       "pronunciation": "/ˈjuːʒuəli/",
-      "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ \"usually\": thường; thường lệ.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1/usually.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"usually\" — thường; thường lệ.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "confident",
@@ -48,9 +48,9 @@
       "example": "He feels confident before the test.",
       "partOfSpeech": "adjective",
       "pronunciation": "/ˈkɒnfɪdənt/",
-      "imageUrl": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ \"confident\": tự tin.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1/confident.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"confident\" — tự tin.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "schedule",
@@ -59,9 +59,9 @@
       "example": "I follow my study schedule.",
       "partOfSpeech": "noun",
       "pronunciation": "/ˈʃedjuːl/",
-      "imageUrl": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ \"schedule\": lịch trình.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1/schedule.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"schedule\" — lịch trình.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "prepare",
@@ -70,9 +70,9 @@
       "example": "I prepare my books every evening.",
       "partOfSpeech": "verb",
       "pronunciation": "/prɪˈpeə/",
-      "imageUrl": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa chủ đề \"prepare\" — chuẩn bị",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1/prepare.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"prepare\" — chuẩn bị.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "regular",
@@ -81,9 +81,9 @@
       "example": "Regular practice helps me remember words.",
       "partOfSpeech": "adjective",
       "pronunciation": "/ˈreɡjələ/",
-      "imageUrl": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa chủ đề \"regular\" — đều đặn; thường xuyên",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1/regular.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"regular\" — đều đặn; thường xuyên.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "review",
@@ -92,9 +92,9 @@
       "example": "I review new words before bed.",
       "partOfSpeech": "verb",
       "pronunciation": "/rɪˈvjuː/",
-      "imageUrl": "https://images.unsplash.com/photo-1498079022511-d15614cb1d5a?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa chủ đề \"review\" — ôn tập; xem lại",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1/review.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"review\" — ôn tập; xem lại.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "break",
@@ -103,9 +103,9 @@
       "example": "I take a short break after studying.",
       "partOfSpeech": "noun",
       "pronunciation": "/breɪk/",
-      "imageUrl": "https://images.unsplash.com/photo-1511629091441-ee46146481b6?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa chủ đề \"break\" — giờ nghỉ; nghỉ giải lao",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1/break.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"break\" — giờ nghỉ; nghỉ giải lao.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "goal",
@@ -114,12 +114,12 @@
       "example": "My goal is to learn ten words today.",
       "partOfSpeech": "noun",
       "pronunciation": "/ɡəʊl/",
-      "imageUrl": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa chủ đề \"goal\" — mục tiêu",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1/goal.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"goal\" — mục tiêu.",
+      "imageCredit": "VocaFlow Original Illustration"
     }
   ],
-  "imageUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1100&q=82",
-  "imageAlt": "Ảnh minh họa chủ đề Daily Routines",
-  "imageCredit": "Unsplash"
+  "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1/cover.svg",
+  "imageAlt": "Minh họa gốc VocaFlow về thói quen hằng ngày: lịch, giờ giấc và kế hoạch học tập.",
+  "imageCredit": "VocaFlow Original Illustration"
 }
