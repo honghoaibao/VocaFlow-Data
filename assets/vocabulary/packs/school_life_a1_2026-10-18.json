@@ -15,9 +15,9 @@
       "partOfSpeech": "noun",
       "example": "My schoolbag is next to the desk.",
       "pronunciation": "/ˈskuːl.bæɡ/",
-      "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa chủ đề \"schoolbag\" — cặp sách",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/school-bag.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"schoolbag\" — cặp sách.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "classroom",
@@ -26,9 +26,9 @@
       "partOfSpeech": "noun",
       "example": "Our classroom is bright and clean.",
       "pronunciation": "/ˈklɑːs.ruːm/",
-      "imageUrl": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa chủ đề \"classroom\" — phòng học",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/classroom.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"classroom\" — phòng học.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "classmate",
@@ -37,9 +37,9 @@
       "partOfSpeech": "noun",
       "example": "My classmate helps me with English.",
       "pronunciation": "/ˈklɑːs.meɪt/",
-      "imageUrl": "https://images.unsplash.com/photo-1513258496099-48168024aec0?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa chủ đề \"classmate\" — bạn cùng lớp",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/classmate.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"classmate\" — bạn cùng lớp.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "timetable",
@@ -48,9 +48,9 @@
       "partOfSpeech": "noun",
       "example": "I check my timetable every Sunday.",
       "pronunciation": "/ˈtaɪm.teɪ.bəl/",
-      "imageUrl": "https://images.unsplash.com/photo-1491841550275-ad7854e35ca6?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ \"timetable\": thời khóa biểu.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/timetable.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"timetable\" — thời khóa biểu.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "lesson",
@@ -59,9 +59,9 @@
       "partOfSpeech": "noun",
       "example": "Our English lesson starts at eight.",
       "pronunciation": "/ˈles.ən/",
-      "imageUrl": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ \"lesson\": bài học; tiết học.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/lesson.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"lesson\" — bài học; tiết học.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "school-subject",
@@ -70,9 +70,9 @@
       "partOfSpeech": "noun",
       "example": "Science is my favourite subject.",
       "pronunciation": "/ˈsʌb.dʒekt/",
-      "imageUrl": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa chủ đề \"subject\" — môn học",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/school-subject.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"subject\" — môn học.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "homework-task",
@@ -81,9 +81,9 @@
       "partOfSpeech": "noun",
       "example": "I finish my homework before dinner.",
       "pronunciation": "/ˈhəʊm.wɜːk/",
-      "imageUrl": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa chủ đề \"homework\" — bài tập về nhà",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/homework-task.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"homework\" — bài tập về nhà.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "notebook",
@@ -92,9 +92,9 @@
       "partOfSpeech": "noun",
       "example": "She writes new words in her notebook.",
       "pronunciation": "/ˈnəʊt.bʊk/",
-      "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Minh họa cho từ \"notebook\": vở ghi chép.",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/notebook.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"notebook\" — vở ghi chép.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "pencil-case",
@@ -103,9 +103,9 @@
       "partOfSpeech": "noun",
       "example": "There are two pens in my pencil case.",
       "pronunciation": "/ˈpen.səl keɪs/",
-      "imageUrl": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa chủ đề \"pencil case\" — hộp bút",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/pencil-case.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"pencil case\" — hộp bút.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "school-library",
@@ -114,9 +114,9 @@
       "partOfSpeech": "noun",
       "example": "We borrow books from the library.",
       "pronunciation": "/ˈlaɪ.brər.i/",
-      "imageUrl": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa chủ đề \"library\" — thư viện",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/school-library.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"library\" — thư viện.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "borrow-book",
@@ -125,9 +125,9 @@
       "partOfSpeech": "verb",
       "example": "Can I borrow your dictionary?",
       "pronunciation": "/ˈbɒr.əʊ/",
-      "imageUrl": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa chủ đề \"borrow\" — mượn",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/borrow-book.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"borrow\" — mượn.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "explain-answer",
@@ -136,9 +136,9 @@
       "partOfSpeech": "verb",
       "example": "The teacher explains the new words.",
       "pronunciation": "/ɪkˈspleɪn/",
-      "imageUrl": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa chủ đề \"explain\" — giải thích",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/explain-answer.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"explain\" — giải thích.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "ask-question",
@@ -147,9 +147,9 @@
       "partOfSpeech": "noun",
       "example": "Please ask a question if you need help.",
       "pronunciation": "/ˈkwes.tʃən/",
-      "imageUrl": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa chủ đề \"question\" — câu hỏi",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/ask-question.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"question\" — câu hỏi.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "give-answer",
@@ -158,9 +158,9 @@
       "partOfSpeech": "noun/verb",
       "example": "I know the answer to this question.",
       "pronunciation": "/ˈɑːn.sər/",
-      "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa chủ đề \"answer\" — câu trả lời; trả lời",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/give-answer.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"answer\" — câu trả lời; trả lời.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "school-project",
@@ -169,9 +169,9 @@
       "partOfSpeech": "noun",
       "example": "Our group is working on a science project.",
       "pronunciation": "/ˈprɒdʒ.ekt/",
-      "imageUrl": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa chủ đề \"project\" — dự án; bài tập lớn",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/school-project.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"project\" — dự án; bài tập lớn.",
+      "imageCredit": "VocaFlow Original Illustration"
     },
     {
       "id": "school-uniform",
@@ -180,12 +180,12 @@
       "partOfSpeech": "noun",
       "example": "We wear our school uniform on weekdays.",
       "pronunciation": "/ˈjuː.nɪ.fɔːm/",
-      "imageUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1100&q=82",
-      "imageAlt": "Ảnh minh họa chủ đề \"uniform\" — đồng phục",
-      "imageCredit": "Unsplash"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/school-uniform.svg",
+      "imageAlt": "Minh họa gốc VocaFlow cho từ \"uniform\" — đồng phục.",
+      "imageCredit": "VocaFlow Original Illustration"
     }
   ],
-  "imageUrl": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1100&q=82",
-  "imageAlt": "Ảnh minh họa chủ đề School Life",
-  "imageCredit": "Unsplash"
+  "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/cover.svg",
+  "imageAlt": "Minh họa gốc VocaFlow về lớp học, đồ dùng học tập và sinh hoạt ở trường.",
+  "imageCredit": "VocaFlow Original Illustration"
 }
