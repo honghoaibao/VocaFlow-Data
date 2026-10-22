@@ -6,7 +6,7 @@ import json
 import re
 import sys
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import unquote, urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
@@ -63,6 +63,59 @@ def validate_image_fields(entry: dict, context: str) -> None:
     credit = entry.get("imageCredit")
     if not isinstance(credit, str) or not credit.strip() or len(credit.strip()) > 120:
         fail(f"{context}: imageCredit must identify the image source")
+
+    # First-party SVG URLs must resolve to an actual asset in this repository.
+    is_first_party_svg = (
+        parsed.hostname == "raw.githubusercontent.com"
+        and parsed.path.startswith("/honghoaibao/VocaFlow-Data/main/assets/illustrations/")
+    )
+    if is_first_party_svg:
+        relative_path = unquote(parsed.path.split("/main/", 1)[-1])
+        if ".." in Path(relative_path).parts or not (ROOT / relative_path).is_file():
+            fail(f"{context}: first-party image URL points to a missing/unsafe SVG asset")
+
+    # Images hosted elsewhere need a distinct source page and a documented rights review.
+    if not is_first_party_svg:
+        source_url = entry.get("imageSourceUrl")
+        source = urlparse(source_url if isinstance(source_url, str) else "")
+        if (
+            source.scheme != "https"
+            or not source.hostname
+            or source.username
+            or source.password
+            or source_url == image_url
+        ):
+            fail(f"{context}: external images require a distinct HTTPS imageSourceUrl")
+        rights_note = entry.get("imageRightsNote")
+        license_name = entry.get("imageLicense")
+        license_url = entry.get("imageLicenseUrl")
+        valid_license_url = False
+        if isinstance(license_url, str) and license_url.strip():
+            license_parsed = urlparse(license_url)
+            valid_license_url = (
+                license_parsed.scheme == "https"
+                and bool(license_parsed.hostname)
+                and not license_parsed.username
+                and not license_parsed.password
+            )
+            if not valid_license_url:
+                fail(f"{context}: imageLicenseUrl must be a safe HTTPS URL")
+        has_rights_note = isinstance(rights_note, str) and bool(rights_note.strip())
+        has_license_and_url = (
+            isinstance(license_name, str)
+            and bool(license_name.strip())
+            and valid_license_url
+        )
+        if not has_rights_note and not has_license_and_url:
+            fail(
+                f"{context}: external images require imageRightsNote or a verified "
+                "imageLicense plus imageLicenseUrl"
+            )
+        author = entry.get("imageAuthor")
+        if author is not None and (
+            not isinstance(author, str) or len(author.strip()) > 200
+        ):
+            fail(f"{context}: imageAuthor must be a string of at most 200 characters")
 
 
 def validate_vocabulary_and_articles() -> None:

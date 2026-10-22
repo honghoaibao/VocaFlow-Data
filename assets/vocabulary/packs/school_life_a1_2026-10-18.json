@@ -26,9 +26,14 @@
       "partOfSpeech": "noun",
       "example": "Our classroom is bright and clean.",
       "pronunciation": "/ˈklɑːs.ruːm/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/classroom.svg",
-      "imageAlt": "Minh họa gốc VocaFlow cho từ \"classroom\" — phòng học.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Fairfield_Public_School_Classroom.jpg/960px-Fairfield_Public_School_Classroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageAlt": "A real classroom with desks and chairs, illustrating classroom (phòng học).",
+      "imageCredit": "Yucalyptus — Wikimedia Commons (CC0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Fairfield_Public_School_Classroom.jpg",
+      "imageAuthor": "Yucalyptus",
+      "imageLicense": "CC0 1.0 (Creative Commons Zero / Public Domain Dedication)",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "imageRightsNote": "The Commons file page reports CC0 1.0. Source and author retained for traceability; re-check the file page if the asset is changed."
     },
     {
       "id": "classmate",

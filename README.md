@@ -11,7 +11,7 @@ Repository này lưu **dữ liệu JSON đã xuất bản và minh họa vector 
 - 6 bài viết gốc do VocaFlow biên soạn. Nội dung gồm học từ vựng, hiện tại đơn, đọc hiểu, kế hoạch học 15 phút và bài hướng dẫn dài về xây dựng hệ thống học tiếng Anh bền vững (đăng ngày 2026-10-20), có ví dụ, bài tự luyện và 3 ảnh minh họa trong bài.
 - Metadata ảnh: 7 bộ từ, 88 mục từ, 6 bìa bài viết, 4 ảnh trong bài và 18 thumbnail nguồn học dùng minh họa SVG gốc VocaFlow, mỗi vị trí có URL riêng và mô tả đúng nội dung. Hai thumbnail YouTube riêng biệt được giữ nguyên cho đúng video tương ứng. Validator kiểm tra tính duy nhất xuyên suốt bộ từ, bài viết và nguồn học; URL bị dùng lại sẽ làm kiểm định thất bại.
 - Ứng dụng Android đọc các URL này để hiển thị ảnh và dùng bộ nhớ đệm ảnh của thiết bị. Khi ngoại tuyến, ảnh đã tải trước đó có thể tiếp tục hiển thị; dữ liệu JSON có bộ nhớ đệm riêng.
-- Chuẩn biên tập: [docs/editorial-style-guide.md](docs/editorial-style-guide.md). Chuẩn bộ từ: [docs/vocabulary-learning-standard.md](docs/vocabulary-learning-standard.md), gồm tiêu chí chọn từ, ảnh không trùng, hoạt động truy hồi và lịch ôn thích ứng. Bài viết và ví dụ vẫn phải do VocaFlow tự viết.
+- Quy trình URL ảnh và giấy phép: [docs/image-source-and-url-workflow.md](docs/image-source-and-url-workflow.md). Công cụ tìm ứng viên Wikimedia Commons: [tool/find_image_candidates.py](tool/find_image_candidates.py), chỉ xuất danh sách JSON để duyệt, không tự sửa nội dung. Chuẩn biên tập: [docs/editorial-style-guide.md](docs/editorial-style-guide.md). Chuẩn bộ từ: [docs/vocabulary-learning-standard.md](docs/vocabulary-learning-standard.md). Bài viết và ví dụ vẫn phải do VocaFlow tự viết.
 
 ## Cấu trúc
 

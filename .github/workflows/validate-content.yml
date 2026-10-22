@@ -20,5 +20,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
-      - name: Validate manifests, dates, statuses, IDs and HTTPS links
+      - name: Syntax-check direct image candidate tool
+        run: python3 -m py_compile tool/find_image_candidates.py
+      - name: Validate manifests, dates, statuses, IDs, images and HTTPS links
         run: python3 tool/validate_content.py
