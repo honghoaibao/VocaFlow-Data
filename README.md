@@ -1,5 +1,9 @@
 # VocaFlow-Data
 
+## Tiếp nối phiên làm việc
+
+Trước khi bổ sung hoặc sửa nội dung ở phiên mới, đọc [`AGENTS.md`](AGENTS.md) và [`docs/SESSION_CONTINUITY.md`](docs/SESSION_CONTINUITY.md). Quy tắc bắt buộc: không làm lại hoặc tạo bản trùng của việc đã hoàn thành; kiểm tra manifest, commit, PR và CI hiện tại trước khi thay đổi.
+
 Kho dữ liệu công khai dành cho ứng dụng học tiếng Anh **VocaFlow**. Mã nguồn ứng dụng chính vẫn được quản lý trong repository riêng tư `honghoaibao/VocaFlow`.
 
 Repository này lưu **dữ liệu JSON đã xuất bản và minh họa vector SVG gốc**: bộ từ, bài viết do VocaFlow biên soạn, nguồn học đã duyệt và ảnh minh họa theo từng từ/chủ đề. Ứng dụng đọc qua HTTPS từ nhánh `main`; không cần và không được nhúng GitHub token vào APK.
