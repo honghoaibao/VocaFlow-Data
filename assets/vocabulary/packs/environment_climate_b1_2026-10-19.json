@@ -48,9 +48,14 @@
       "example": "Solar power is a form of renewable energy.",
       "partOfSpeech": "noun",
       "pronunciation": "/rɪˌnjuːəbl ˈenədʒi/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/environment-climate-b1/renewable-energy.svg",
-      "imageAlt": "Minh họa gốc VocaFlow cho từ \"renewable energy\" — năng lượng tái tạo.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Solar_panels-4.jpg/960px-Solar_panels-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageAlt": "Solar panels mounted on the ground, illustrating renewable energy (năng lượng tái tạo).",
+      "imageCredit": "Wikideas1 — Wikimedia Commons (CC0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Solar_panels-4.jpg",
+      "imageAuthor": "Wikideas1",
+      "imageLicense": "CC0 1.0 (Creative Commons Zero / Public Domain Dedication)",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "imageRightsNote": "The Commons file page reports CC0 1.0. Source and author retained for traceability; re-check the file page if the asset is changed."
     },
     {
       "id": "biodiversity",
@@ -70,9 +75,14 @@
       "example": "Plastic waste can damage the habitat of sea animals.",
       "partOfSpeech": "noun",
       "pronunciation": "/ˈhæbɪtæt/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/environment-climate-b1/habitat.svg",
-      "imageAlt": "Minh họa gốc VocaFlow cho từ \"habitat\" — môi trường sống; nơi cư trú tự nhiên.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Spruce_forest_at_Holma.jpg/960px-Spruce_forest_at_Holma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageAlt": "A dense spruce forest, illustrating habitat (môi trường sống tự nhiên).",
+      "imageCredit": "W.carter — Wikimedia Commons (CC0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Spruce_forest_at_Holma.jpg",
+      "imageAuthor": "W.carter",
+      "imageLicense": "CC0 1.0 (Creative Commons Zero / Public Domain Dedication)",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "imageRightsNote": "The Commons file page reports CC0 1.0. Source and author retained for traceability; re-check the file page if the asset is changed."
     },
     {
       "id": "pollution",
