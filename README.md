@@ -36,6 +36,10 @@ assets/
         links-approved-YYYY-MM-DD.json
 ```
 
+## Làm việc liên tục giữa các phiên
+
+Trước khi sửa nội dung hoặc công cụ, hãy đọc [`AGENTS.md`](AGENTS.md). Tệp này quy định không tạo lại bộ từ, bài viết, ảnh, công cụ hay tài liệu đã hoàn thành chỉ vì bắt đầu phiên ChatGPT mới. Hãy kiểm tra `main`, PR, commit và CI hiện tại; tiếp tục công việc đang có hoặc dùng lại kết quả đã hoàn tất. Nhật ký bàn giao dùng chung nằm trong [tài liệu session continuity của VocaFlow](https://github.com/honghoaibao/VocaFlow/blob/main/docs/session-continuity.md).
+
 ## Quy tắc xuất bản
 
 - Chỉ nội dung có `"status": "published"` mới được đưa vào manifest từ vựng/bài viết.
