@@ -28,7 +28,9 @@
       "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow.",
       "imageUrl": "https://img.youtube.com/vi/iQ06VFmBGC4/hqdefault.jpg",
       "imageAlt": "Ảnh minh họa nguồn học: VOA Learning English — Lesson 1: Who Are You?",
-      "imageCredit": "YouTube thumbnail"
+      "imageCredit": "YouTube thumbnail",
+      "imageSourceUrl": "https://www.youtube.com/watch?v=iQ06VFmBGC4",
+      "imageRightsNote": "Official thumbnail associated with this linked YouTube video only; review current YouTube/platform terms before reuse. This note is not a blanket license for independent redistribution."
     },
     {
       "id": "video-bbc-english-in-a-minute-boxset",
@@ -56,7 +58,9 @@
       "thumbnailRightsNote": "Không sao chép thumbnail; dùng hình dự phòng của VocaFlow.",
       "imageUrl": "https://img.youtube.com/vi/bRnGm3y0IFU/hqdefault.jpg",
       "imageAlt": "Ảnh minh họa nguồn học: BBC Learning English — English in a Minute: Vocabulary Box Set",
-      "imageCredit": "YouTube thumbnail"
+      "imageCredit": "YouTube thumbnail",
+      "imageSourceUrl": "https://www.youtube.com/watch?v=bRnGm3y0IFU",
+      "imageRightsNote": "Official thumbnail associated with this linked YouTube video only; review current YouTube/platform terms before reuse. This note is not a blanket license for independent redistribution."
     },
     {
       "id": "article-bc-present-simple",
