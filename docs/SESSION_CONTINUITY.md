@@ -77,9 +77,11 @@ Chỉ ghi kết quả đã thực hiện và kiểm tra. Không biến dự đ�
 
 **Kiểm tra trước, chỉ bổ sung phần còn thiếu hoặc phần được yêu cầu mới, xác minh kết quả rồi ghi lại để phiên sau không phải làm lại.**
 
-### 2026-10-23 — Làm mới minh họa bộ từ Daily Routines A1
-- **Trạng thái:** Đề xuất qua [PR #13](https://github.com/honghoaibao/VocaFlow-Data/pull/13); chỉ được xem là đã xuất bản sau khi PR được gộp vào `main`.
-- **File dữ liệu chuẩn:** `assets/vocabulary/packs/daily_routines_a1_2026-10-18.json`; giữ nguyên pack ID, filename, `publishDate`, từ, nghĩa và ví dụ.
-- **Ảnh gốc:** 11 SVG mới tại `assets/illustrations/vocabulary/daily-routines-a1-refresh-2026-10-23/` (10 ảnh riêng cho từng từ và 1 bìa). Tất cả được vẽ bằng vector gốc VocaFlow, không nhúng ảnh hoặc tài nguyên của bên thứ ba; các URL đều trỏ tới kho VocaFlow-Data.
-- **Metadata:** Đã cập nhật `imageUrl`, `imageAlt`, `imageCredit` cho 10 mục từ và bìa. Kiểm tra cấu trúc xác nhận 10 ID từ duy nhất, 11 URL ảnh duy nhất và đủ alt/credit. GitHub Actions validator đã thành công ở commit nội dung `48fb7426938adbd536e0dc3fb86f1c086c8a17a3`; commit ghi chú này cần được CI kiểm tra lại.
-- **Không làm lại:** Dùng lại pack hiện có và thư mục ảnh có ngày riêng để tránh ghi đè URL đã phát hành. Không tạo bản sao bộ từ hoặc tái sử dụng URL ảnh giữa các mục.
+### 2026-10-23 — Thay bộ SVG nháp bằng ảnh PNG CC0 lấy từ mạng cho Daily Routines A1
+- **Trạng thái:** Đề xuất trong [PR #14](https://github.com/honghoaibao/VocaFlow-Data/pull/14); không đánh dấu phát hành trước khi PR được gộp.
+- **Phạm vi chuẩn:** Cập nhật bộ từ hiện có `assets/vocabulary/packs/daily_routines_a1_2026-10-18.json`; giữ ID bộ từ, tên tệp, ngày xuất bản, nghĩa, ví dụ và 10 ID từ.
+- **Ảnh:** 11 tệp PNG thật (10 ảnh từ + 1 bìa), 720×480, được tải từ các trang file Wikimedia Commons đã duyệt và lưu tại `assets/illustrations/vocabulary/daily-routines-a1-photos-2026-10-23/`. URL hiển thị trong app đều trỏ về file trong VocaFlow-Data, không dùng URL trực tiếp của Wikimedia tại runtime.
+- **Quyền sử dụng:** Mỗi bản ghi giữ `imageSourceUrl`, `imageAuthor`, `imageLicense`, `imageLicenseUrl`, `imageRightsNote`, `imageAlt` và `imageCredit`. Chỉ nhập các trang ghi CC0 1.0; các file đã tải được chuyển/cắt sang PNG tối ưu bằng Pillow. 11 ảnh mới có URL duy nhất, tổng dung lượng khoảng 3.7 MB.
+- **Loại bỏ phương án nháp:** Thư mục `daily-routines-a1-refresh-2026-10-23/` chứa bộ SVG nháp trước đó đã bị xoá khỏi nhánh PR; không khôi phục hoặc tạo thêm bản SVG tương tự. Các hình SVG cũ ở thư mục chuẩn khác không bị thay đổi.
+- **Kiểm chứng:** Import workflow [run #39942988700](https://github.com/honghoaibao/VocaFlow-Data/actions/runs/39942988700) hoàn tất thành công, tải 11 file PNG, cập nhật JSON, chạy `python3 tool/validate_content.py` thành công, kiểm tra diff và commit kết quả lên nhánh. Commit chứa file ảnh sau import là `c3aa97595c715b4fda57082eeaf02cc4d8d089d4`. Các lần chạy tự động tiếp theo trên commit bot có trạng thái `action_required`, nên không được coi đó là CI đã chạy lại.
+- **Không làm lại:** Không tìm/đăng bộ ảnh thứ hai cho cùng pack; tiếp tục từ PR #14, xác minh PNG và giấy phép đã lưu rồi đồng bộ JSON sang repo Android.
