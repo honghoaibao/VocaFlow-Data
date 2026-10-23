@@ -85,3 +85,9 @@ Chỉ ghi kết quả đã thực hiện và kiểm tra. Không biến dự đ�
 - **Loại bỏ phương án nháp:** Thư mục `daily-routines-a1-refresh-2026-10-23/` chứa bộ SVG nháp trước đó đã bị xoá khỏi nhánh PR; không khôi phục hoặc tạo thêm bản SVG tương tự. Các hình SVG cũ ở thư mục chuẩn khác không bị thay đổi.
 - **Kiểm chứng:** Import workflow [run #39943350273](https://github.com/honghoaibao/VocaFlow-Data/actions/runs/39943350273) thành công sau khi sửa bước staging để dùng được khi thư mục SVG đã bị xóa; validator trên nhánh thành công ở [run #39943350195](https://github.com/honghoaibao/VocaFlow-Data/actions/runs/39943350195). Sau khi gộp, data validator thành công trên `main` ở [run #39943529405](https://github.com/honghoaibao/VocaFlow-Data/actions/runs/39943529405). Đã xác minh trên `main` có đủ 11 PNG và pack JSON tham chiếu các URL PNG nội bộ.
 - **Không làm lại:** Không tìm/đăng bộ ảnh thứ hai cho cùng pack; tiếp tục từ PR #14, xác minh PNG và giấy phép đã lưu rồi đồng bộ JSON sang repo Android.
+
+### 2026-10-23 — Siết tiêu chí tìm ảnh theo chính từ vựng
+- **Trạng thái:** Đã cập nhật tài liệu hướng dẫn hiện có; không nhập/thay ảnh và không sửa nội dung bộ từ trong đợt này.
+- **File chuẩn đã sửa:** `docs/image-source-and-url-workflow.md`, `README.md`, `docs/SESSION_CONTINUITY.md`.
+- **Quy tắc mới:** Bắt đầu tìm bằng đúng `word` (ví dụ `habits`); nếu chưa đạt mới thử dạng từ gần, collocation và cụm mô tả thị giác bám sát `meaning`/`example`. Chấm độ phù hợp 0–3; chỉ duyệt mức 2–3 (trực tiếp hoặc liên tưởng rõ). Độ liên quan và giấy phép là hai điều kiện bắt buộc độc lập.
+- **Giới hạn:** Đây là thay đổi tài liệu. Chưa thay 11 PNG hiện hành và chưa xác nhận từng ảnh cũ đạt tiêu chí mới; cần kiểm tra chúng riêng trước khi quyết định thay ảnh.
