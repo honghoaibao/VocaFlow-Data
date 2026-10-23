@@ -76,3 +76,10 @@ Chỉ ghi kết quả đã thực hiện và kiểm tra. Không biến dự đ�
 ## Nguyên tắc cuối
 
 **Kiểm tra trước, chỉ bổ sung phần còn thiếu hoặc phần được yêu cầu mới, xác minh kết quả rồi ghi lại để phiên sau không phải làm lại.**
+
+### 2026-10-23 — Làm mới minh họa bộ từ Daily Routines A1
+- **Trạng thái:** Đề xuất qua [PR #13](https://github.com/honghoaibao/VocaFlow-Data/pull/13); chỉ được xem là đã xuất bản sau khi PR được gộp vào `main`.
+- **File dữ liệu chuẩn:** `assets/vocabulary/packs/daily_routines_a1_2026-10-18.json`; giữ nguyên pack ID, filename, `publishDate`, từ, nghĩa và ví dụ.
+- **Ảnh gốc:** 11 SVG mới tại `assets/illustrations/vocabulary/daily-routines-a1-refresh-2026-10-23/` (10 ảnh riêng cho từng từ và 1 bìa). Tất cả được vẽ bằng vector gốc VocaFlow, không nhúng ảnh hoặc tài nguyên của bên thứ ba; các URL đều trỏ tới kho VocaFlow-Data.
+- **Metadata:** Đã cập nhật `imageUrl`, `imageAlt`, `imageCredit` cho 10 mục từ và bìa. Kiểm tra cấu trúc xác nhận 10 ID từ duy nhất, 11 URL ảnh duy nhất và đủ alt/credit. GitHub Actions validator đã thành công ở commit nội dung `48fb7426938adbd536e0dc3fb86f1c086c8a17a3`; commit ghi chú này cần được CI kiểm tra lại.
+- **Không làm lại:** Dùng lại pack hiện có và thư mục ảnh có ngày riêng để tránh ghi đè URL đã phát hành. Không tạo bản sao bộ từ hoặc tái sử dụng URL ảnh giữa các mục.
