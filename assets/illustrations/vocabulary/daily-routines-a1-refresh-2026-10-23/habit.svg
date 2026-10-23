@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480" role="img" aria-labelledby="title desc">
+<title id="title">Habit — VocaFlow Original Illustration</title>
+<desc id="desc">Original vector illustration for VocaFlow Daily Routines A1. A checked habit tracker and small growing plant symbolize daily routines.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E3F3FF"/><stop offset="1" stop-color="#F7FDFF"/></linearGradient>
+ <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2868F6"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
+ <linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#C9F5E8"/><stop offset="1" stop-color="#78DCC4"/></linearGradient>
+ <linearGradient id="sun" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFE7B5"/><stop offset="1" stop-color="#FFBE78"/></linearGradient>
+ <filter id="shadow" x="-25%" y="-25%" width="150%" height="170%"><feDropShadow dx="0" dy="9" stdDeviation="10" flood-color="#10295A" flood-opacity=".13"/></filter>
+ <filter id="soft" x="-25%" y="-25%" width="150%" height="170%"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#10295A" flood-opacity=".10"/></filter>
+</defs>
+<rect width="720" height="480" rx="34" fill="url(#bg)"/>
+<circle cx="86" cy="96" r="64" fill="#FFFFFF" opacity=".48"/><circle cx="646" cy="112" r="82" fill="#FFFFFF" opacity=".32"/><circle cx="640" cy="376" r="95" fill="#A7F0E0" opacity=".25"/>
+<path d="M0 338 C110 300 180 400 300 362 S520 318 720 365 V480 H0Z" fill="#FFFFFF" opacity=".2"/>
+<rect x="44" y="28" width="632" height="424" rx="30" fill="#FFFFFF" opacity=".84" stroke="#FFFFFF" stroke-width="2"/>
+<g transform="translate(360 208)" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="0" cy="116" rx="150" ry="18" fill="#E4EFFB"/>
+<g filter="url(#shadow)"><rect x="-113" y="-115" width="208" height="224" rx="19" fill="#FFF" stroke="#D7E7FA" stroke-width="3"/><path d="M-113 -96 Q-113 -115 -94 -115 H76 Q95 -115 95 -96 V-64 H-113Z" fill="url(#blue)"/><circle cx="-78" cy="-90" r="4" fill="#FFF"/><circle cx="-63" cy="-90" r="4" fill="#FFF" opacity=".65"/><path d="M-37 -90 H58" stroke="#FFF" stroke-width="7"/>
+<g stroke="#D5E3F6" stroke-width="3"><path d="M-58 -35 H60"/><path d="M-58 9 H60"/><path d="M-58 53 H60"/></g><g fill="#E5F8F1" stroke="#63CBAE" stroke-width="2"><rect x="-86" y="-52" width="19" height="19" rx="5"/><rect x="-86" y="-8" width="19" height="19" rx="5"/><rect x="-86" y="36" width="19" height="19" rx="5"/></g><g fill="none" stroke="#1FAE92" stroke-width="4"><path d="m-82 -43 5 5 9-11"/><path d="m-82 1 5 5 9-11"/><path d="m-82 45 5 5 9-11"/></g></g>
+<g transform="translate(120 48)" filter="url(#soft)"><path d="M-33 40 H38 L28 58 H-24Z" fill="#FFCE86"/><path d="M-28 39 Q-20 4 0 0 Q22 5 29 39Z" fill="#FFF" stroke="#C7DDF6" stroke-width="3"/><path d="M0 2 V-42" stroke="#258D72" stroke-width="5"/><path d="M0 -20 Q-39 -49 -35 -11 Q-17 3 0 -20Z" fill="#73D5B3"/><path d="M0 -31 Q34 -60 40 -25 Q22 -6 0 -31Z" fill="#3AB797"/></g>
+<path d="M-147 -86 l8 -15 8 15 15 8 -15 8 -8 15 -8 -15 -15 -8Z" fill="#FFC966"/><circle cx="148" cy="-92" r="8" fill="#48C5F2"/>
+</g>
+<rect x="110" y="374" width="500" height="52" rx="18" fill="#F2F7FF" stroke="#DDEBFF"/>
+<text x="360" y="397" font-family="sans-serif" font-size="19" font-weight="800" letter-spacing="1.1" text-anchor="middle" fill="#102653">HABIT</text>
+<text x="360" y="416" font-family="sans-serif" font-size="10" font-weight="700" letter-spacing="2.2" text-anchor="middle" fill="#53729E">DAILY ROUTINES  •  A1</text>
+<metadata>Original vector artwork created for VocaFlow from scratch; no third-party images or external image assets are embedded.</metadata>
+</svg>
