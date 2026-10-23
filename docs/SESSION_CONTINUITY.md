@@ -91,3 +91,13 @@ Chỉ ghi kết quả đã thực hiện và kiểm tra. Không biến dự đ�
 - **File chuẩn đã sửa:** `docs/image-source-and-url-workflow.md`, `README.md`, `docs/SESSION_CONTINUITY.md`.
 - **Quy tắc mới:** Bắt đầu tìm bằng đúng `word` (ví dụ `habits`); nếu chưa đạt mới thử dạng từ gần, collocation và cụm mô tả thị giác bám sát `meaning`/`example`. Chấm độ phù hợp 0–3; chỉ duyệt mức 2–3 (trực tiếp hoặc liên tưởng rõ). Độ liên quan và giấy phép là hai điều kiện bắt buộc độc lập.
 - **Giới hạn:** Đây là thay đổi tài liệu. Chưa thay 11 PNG hiện hành và chưa xác nhận từng ảnh cũ đạt tiêu chí mới; cần kiểm tra chúng riêng trước khi quyết định thay ảnh.
+
+
+### 2026-10-23 — Thay bộ PNG Daily Routines bằng ảnh khớp nghĩa hơn
+- **Trạng thái:** Đang triển khai qua PR riêng; chỉ đánh dấu hoàn tất sau khi workflow nhập PNG, validator và đồng bộ Android đều thành công.
+- **Phạm vi:** Giữ nguyên bộ từ, ID và nội dung học; thay ảnh của 10 mục từ cùng ảnh bìa bằng bộ PNG mới trong `assets/illustrations/vocabulary/daily-routines-a1-semantic-photos-2026-10-23/`.
+- **Tiêu chí:** Tìm theo từ cần học trước; duyệt hình ảnh thực tế và đối chiếu nghĩa/câu ví dụ. Các ứng viên được khóa trong script chỉ lấy từ trang Wikimedia Commons có ghi CC0 1.0. Ảnh được tải về, chuyển sang PNG và app chỉ dùng URL trong repository.
+- **Nguồn ảnh mới:** Habit cycle, Workflow progress, alarm clock (usually), Confidence and courage, Daily Planner Template, School Supplies, Student taking notes, Person taking notes, Cup of tea, Objetivos target, Breakfast menu a coffee and toasts (cover).
+- **File chuẩn:** `tool/import_daily_routines_png.py`, `.github/workflows/import-daily-routines-png.yml`, pack JSON chuẩn và sau đó là bản JSON offline ở repository Android.
+- **Kiểm chứng:** Chưa ghi là hoàn tất trước khi GitHub Actions thực sự tải đủ 11 nguồn, tạo PNG, chạy validator và CI Android thành công.
+- **Giới hạn:** Một vài nghĩa trừu tượng như `confident` và `break` vẫn được minh họa bằng hình mang tính biểu tượng, không phải hành động được chụp trực tiếp.

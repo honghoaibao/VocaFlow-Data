@@ -16,7 +16,7 @@ jobs:
   import-pngs-and-validate:
     if: >-
       github.event.pull_request.head.repo.full_name == github.repository &&
-      github.event.pull_request.head.ref == 'content/daily-routines-png-refresh-20261023'
+      github.event.pull_request.head.ref == 'content/daily-routines-semantic-images-20261023'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout the import PR branch
@@ -54,5 +54,5 @@ jobs:
             echo "No generated changes to commit."
             exit 0
           fi
-          git commit -m "Store reviewed CC0 Daily Routines artwork as PNG"
+          git commit -m "Replace Daily Routines images with word-matched PNGs"
           git push origin "HEAD:${BRANCH_NAME}"
