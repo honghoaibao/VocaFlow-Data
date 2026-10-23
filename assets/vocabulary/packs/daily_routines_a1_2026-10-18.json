@@ -15,9 +15,14 @@
       "example": "Reading every day is a good habit.",
       "partOfSpeech": "noun",
       "pronunciation": "/ˈhæbɪt/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-refresh-2026-10-23/habit.svg",
-      "imageAlt": "Minh họa vector gốc VocaFlow cho “habit”: thẻ theo dõi thói quen với ba mục đã hoàn thành và cây non đang phát triển.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-photos-2026-10-23/habit.png",
+      "imageAlt": "PNG minh họa chiếc bảng kẹp giấy với các ô checklist đã được đánh dấu.",
+      "imageCredit": "Wikimedia Commons — Pixabay creator 472301-472301; Wikimedia Commons upload by Amousey (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Questionnaire-checklist-completed.png",
+      "imageAuthor": "Pixabay creator 472301-472301; Wikimedia Commons upload by Amousey",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page explicitly states CC0 1.0. Downloaded from the original-file URL and converted/cropped to PNG for VocaFlow. No endorsement by a depicted person is implied."
     },
     {
       "id": "improve",
@@ -26,9 +31,14 @@
       "example": "I want to improve my English.",
       "partOfSpeech": "verb",
       "pronunciation": "/ɪmˈpruːv/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-refresh-2026-10-23/improve.svg",
-      "imageAlt": "Minh họa vector gốc VocaFlow cho “improve”: các bậc tiến bộ đi lên cùng mũi tên thể hiện sự cải thiện từng bước.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-photos-2026-10-23/improve.png",
+      "imageAlt": "Ảnh chụp cây đậu pinto non đang phát triển, gợi ý sự cải thiện và tiến bộ.",
+      "imageCredit": "Wikimedia Commons — Datadoggieein (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pinto_Bean_Plant.jpg",
+      "imageAuthor": "Datadoggieein",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page explicitly states CC0 1.0. Downloaded from the original-file URL and converted/cropped to PNG for VocaFlow. No endorsement by a depicted person is implied."
     },
     {
       "id": "usually",
@@ -37,9 +47,14 @@
       "example": "She usually gets up at six.",
       "partOfSpeech": "adverb",
       "pronunciation": "/ˈjuːʒuəli/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-refresh-2026-10-23/usually.svg",
-      "imageAlt": "Minh họa vector gốc VocaFlow cho “usually”: đồng hồ cùng các mũi tên lặp lại thể hiện hành động diễn ra thường xuyên.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-photos-2026-10-23/usually.png",
+      "imageAlt": "Ảnh chụp góc bàn buổi sáng với điện thoại, máy tính và tách trà.",
+      "imageCredit": "Wikimedia Commons — Chris Adamus (adamus) (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Morning_routine_(Unsplash).jpg",
+      "imageAuthor": "Chris Adamus (adamus)",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page explicitly states CC0 1.0. Downloaded from the original-file URL and converted/cropped to PNG for VocaFlow. No endorsement by a depicted person is implied."
     },
     {
       "id": "confident",
@@ -48,9 +63,14 @@
       "example": "He feels confident before the test.",
       "partOfSpeech": "adjective",
       "pronunciation": "/ˈkɒnfɪdənt/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-refresh-2026-10-23/confident.svg",
-      "imageAlt": "Minh họa vector gốc VocaFlow cho “confident”: nhân vật học sinh nguyên bản với dáng đứng cởi mở và tự tin.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-photos-2026-10-23/confident.png",
+      "imageAlt": "Ảnh chân dung một người phụ nữ đang mỉm cười, minh họa cảm giác tự tin; không ngụ ý tài trợ hay xác nhận sản phẩm.",
+      "imageCredit": "Wikimedia Commons — Mahesk (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Woman_smiling.png",
+      "imageAuthor": "Mahesk",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page explicitly states CC0 1.0. Downloaded from the original-file URL and converted/cropped to PNG for VocaFlow. No endorsement by a depicted person is implied."
     },
     {
       "id": "schedule",
@@ -59,9 +79,14 @@
       "example": "I follow my study schedule.",
       "partOfSpeech": "noun",
       "pronunciation": "/ˈʃedjuːl/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-refresh-2026-10-23/schedule.svg",
-      "imageAlt": "Minh họa vector gốc VocaFlow cho “schedule”: lịch tuần có các khối thời gian cùng đồng hồ nhỏ.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-photos-2026-10-23/schedule.png",
+      "imageAlt": "Ảnh chụp trang lịch với một ngày được khoanh tròn, minh họa lịch trình.",
+      "imageCredit": "Wikimedia Commons — Basti93 (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Calendar_image.jpg",
+      "imageAuthor": "Basti93",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page explicitly states CC0 1.0. Downloaded from the original-file URL and converted/cropped to PNG for VocaFlow. No endorsement by a depicted person is implied."
     },
     {
       "id": "prepare",
@@ -70,9 +95,14 @@
       "example": "I prepare my books every evening.",
       "partOfSpeech": "verb",
       "pronunciation": "/prɪˈpeə/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-refresh-2026-10-23/prepare.svg",
-      "imageAlt": "Minh họa vector gốc VocaFlow cho “prepare”: ba lô, sổ tay và danh sách kiểm tra thể hiện sự chuẩn bị.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-photos-2026-10-23/prepare.png",
+      "imageAlt": "Ảnh chụp ba lô học sinh nhiều ngăn cùng bộ phụ kiện đi học.",
+      "imageCredit": "Wikimedia Commons — לידור גלברג (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:93632_XFIX.jpg",
+      "imageAuthor": "לידור גלברג",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page explicitly states CC0 1.0. Downloaded from the original-file URL and converted/cropped to PNG for VocaFlow. No endorsement by a depicted person is implied."
     },
     {
       "id": "regular",
@@ -81,9 +111,14 @@
       "example": "Regular practice helps me remember words.",
       "partOfSpeech": "adjective",
       "pronunciation": "/ˈreɡjələ/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-refresh-2026-10-23/regular.svg",
-      "imageAlt": "Minh họa vector gốc VocaFlow cho “regular”: đồng hồ cùng mũi tên vòng thể hiện thói quen đều đặn, nhất quán.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-photos-2026-10-23/regular.png",
+      "imageAlt": "Ảnh chụp đồng hồ báo thức cổ trên phông nền hai màu pastel.",
+      "imageCredit": "Wikimedia Commons — Mosse photos (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Alarm-clock-art-background-1037993.jpg",
+      "imageAuthor": "Mosse photos",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page explicitly states CC0 1.0. Downloaded from the original-file URL and converted/cropped to PNG for VocaFlow. No endorsement by a depicted person is implied."
     },
     {
       "id": "review",
@@ -92,9 +127,14 @@
       "example": "I review new words before bed.",
       "partOfSpeech": "verb",
       "pronunciation": "/rɪˈvjuː/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-refresh-2026-10-23/review.svg",
-      "imageAlt": "Minh họa vector gốc VocaFlow cho “review”: quyển sách mở, ghi chú và kính lúp thể hiện việc ôn tập.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-photos-2026-10-23/review.png",
+      "imageAlt": "Ảnh chụp bút chì trên trang vở, phù hợp với việc ghi chú và ôn tập.",
+      "imageCredit": "Wikimedia Commons — Angelina Litvin (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pencil_shavings_on_a_notebook_(Unsplash).jpg",
+      "imageAuthor": "Angelina Litvin",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page explicitly states CC0 1.0. Downloaded from the original-file URL and converted/cropped to PNG for VocaFlow. No endorsement by a depicted person is implied."
     },
     {
       "id": "break",
@@ -103,9 +143,14 @@
       "example": "I take a short break after studying.",
       "partOfSpeech": "noun",
       "pronunciation": "/breɪk/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-refresh-2026-10-23/break.svg",
-      "imageAlt": "Minh họa vector gốc VocaFlow cho “break”: cốc nước ấm, làn hơi và chậu cây nhỏ gợi một quãng nghỉ nhẹ nhàng.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-photos-2026-10-23/break.png",
+      "imageAlt": "Hình ảnh chiếc tách trà màu xanh trên nền trong suốt.",
+      "imageCredit": "Wikimedia Commons — Ian Pegg (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cup_of_tea.png",
+      "imageAuthor": "Ian Pegg",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page explicitly states CC0 1.0. Downloaded from the original-file URL and converted/cropped to PNG for VocaFlow. No endorsement by a depicted person is implied."
     },
     {
       "id": "goal",
@@ -114,12 +159,22 @@
       "example": "My goal is to learn ten words today.",
       "partOfSpeech": "noun",
       "pronunciation": "/ɡəʊl/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-refresh-2026-10-23/goal.svg",
-      "imageAlt": "Minh họa vector gốc VocaFlow cho “goal”: bia mục tiêu với mũi tên và lá cờ đích đến thể hiện mục tiêu cá nhân.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-photos-2026-10-23/goal.png",
+      "imageAlt": "Ảnh minh họa chiếc cúp vàng, biểu tượng cho việc hoàn thành mục tiêu.",
+      "imageCredit": "Wikimedia Commons — Guigoma (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:PRtrophy.png",
+      "imageAuthor": "Guigoma",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page explicitly states CC0 1.0. Downloaded from the original-file URL and converted/cropped to PNG for VocaFlow. No endorsement by a depicted person is implied."
     }
   ],
-  "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-refresh-2026-10-23/cover.svg",
-  "imageAlt": "Minh họa vector gốc VocaFlow về lịch hằng ngày, đồng hồ, các thói quen đã hoàn thành và cây non đang phát triển.",
-  "imageCredit": "VocaFlow Original Illustration"
+  "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/daily-routines-a1-photos-2026-10-23/cover.png",
+  "imageAlt": "Ảnh bìa bộ từ: máy tính xách tay, sổ ghi chú và bút trên bàn làm việc.",
+  "imageCredit": "Wikimedia Commons — Eric Bailey (CC0 1.0)",
+  "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Laptop_picture_with_notepad.jpg",
+  "imageAuthor": "Eric Bailey",
+  "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+  "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "imageRightsNote": "The Wikimedia Commons file page explicitly states CC0 1.0. Downloaded from the original-file URL and converted/cropped to PNG for VocaFlow. No endorsement by a depicted person is implied."
 }

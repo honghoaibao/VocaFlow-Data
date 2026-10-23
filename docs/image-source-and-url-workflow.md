@@ -6,7 +6,7 @@ Quy trình này dành cho người biên tập nội dung. Không chạy tìm �
 
 Mỗi ảnh phải có imageUrl, imageAlt và imageCredit. Ảnh bên thứ ba phải lưu thêm imageSourceUrl và imageRightsNote; khi nguồn có giấy phép rõ ràng, lưu imageLicense, imageLicenseUrl và imageAuthor. imageUrl là URL ảnh trực tiếp; imageSourceUrl là trang hồ sơ/nguồn ảnh.
 
-Ảnh SVG do VocaFlow tạo phải nằm tại assets/illustrations/ với đường dẫn riêng cho từng vị trí, có alt text phù hợp và imageCredit ghi rõ VocaFlow Original Illustration. Không trỏ nhiều mục từ khác nhau về cùng một URL chỉ vì chủ đề gần nhau.
+Ảnh SVG do VocaFlow tự tạo phải nằm tại `assets/illustrations/` với đường dẫn riêng, alt text phù hợp và `imageCredit` ghi rõ `VocaFlow Original Illustration`. Ảnh PNG từ Internet chỉ được lưu nội bộ khi quyền tái phân phối cho phép; ưu tiên CC0/Public Domain, xác minh trang file nguồn và lưu tệp PNG trong repo. Với PNG nội bộ, `imageUrl` phải trỏ đến `raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/.../*.png`, còn `imageSourceUrl` phải là trang hồ sơ Commons chứ không phải URL ảnh nguồn. Không trỏ nhiều mục từ khác nhau về cùng một URL chỉ vì chủ đề gần nhau.
 
 ## 2. Tìm kiếm và xác minh ứng viên
 
@@ -31,7 +31,7 @@ Unsplash và Pexels cần dùng URL từ API chính thức và tuân thủ quy �
 
 ## 4. Quy tắc độ chính xác và trùng ảnh
 
-1. Viết mô tả thị giác cụ thể cho từng từ, không tìm một từ đa nghĩa đứng riêng.
+1. Viết mô tả thị giác cụ thể cho từng từ, không tìm một từ đa nghĩa đứng riêng. Với yêu cầu ảnh chụp/ảnh thật, ưu tiên tải file PNG có giấy phép tái sử dụng rõ ràng thay vì thay thế bằng SVG tự vẽ.
 2. Mở ảnh thật và đối chiếu với word, meaning, example và topic.
 3. Bìa bộ từ phải phản ánh chủ đề chung; từng từ phải có hình minh họa riêng, đúng nghĩa. Với từ trừu tượng có thể dùng SVG tự thiết kế.
 4. Không tái sử dụng URL ở bìa, từ vựng, bài viết hoặc thumbnail nguồn học khác.
