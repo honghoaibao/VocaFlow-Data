@@ -48,8 +48,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A -- assets/illustrations/vocabulary/daily-routines-a1-photos-2026-10-23
-          git add -A -- assets/illustrations/vocabulary/daily-routines-a1-refresh-2026-10-23
+          git add -A -- assets/illustrations/vocabulary/
           git add -A -- assets/vocabulary/packs/daily_routines_a1_2026-10-18.json
           if git diff --cached --quiet; then
             echo "No generated changes to commit."
