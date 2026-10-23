@@ -15,7 +15,7 @@ Repository này lưu **dữ liệu JSON đã xuất bản, SVG gốc VocaFlow v�
 - 6 bài viết gốc do VocaFlow biên soạn. Nội dung gồm học từ vựng, hiện tại đơn, đọc hiểu, kế hoạch học 15 phút và bài hướng dẫn dài về xây dựng hệ thống học tiếng Anh bền vững (đăng ngày 2026-10-20), có ví dụ, bài tự luyện và 3 ảnh minh họa trong bài.
 - Metadata ảnh: kho nội dung có 125 vị trí ảnh duy nhất: 109 URL minh họa SVG gốc VocaFlow, 11 ảnh PNG lấy từ Wikimedia Commons có giấy phép CC0 và lưu trực tiếp trong repo, 3 ảnh Commons CC0 hiện có và 2 thumbnail YouTube gắn với đúng video tương ứng. Mỗi vị trí ảnh có URL riêng; nguồn, tác giả và giấy phép của 11 PNG được lưu trong JSON. Validator kiểm tra URL trùng, file nội bộ bị thiếu và metadata nguồn/quyền.
 - Ứng dụng Android đọc các URL này để hiển thị ảnh và dùng bộ nhớ đệm ảnh của thiết bị. Khi ngoại tuyến, ảnh đã tải trước đó có thể tiếp tục hiển thị; dữ liệu JSON có bộ nhớ đệm riêng.
-- Quy trình URL ảnh và giấy phép: [docs/image-source-and-url-workflow.md](docs/image-source-and-url-workflow.md). Công cụ tìm ứng viên Wikimedia Commons: [tool/find_image_candidates.py](tool/find_image_candidates.py), chỉ xuất danh sách JSON để duyệt, không tự sửa nội dung. Chuẩn biên tập: [docs/editorial-style-guide.md](docs/editorial-style-guide.md). Chuẩn bộ từ: [docs/vocabulary-learning-standard.md](docs/vocabulary-learning-standard.md). Bài viết và ví dụ vẫn phải do VocaFlow tự viết.
+- Quy trình tìm ảnh, độ liên quan, URL và giấy phép: [`docs/image-source-and-url-workflow.md`](docs/image-source-and-url-workflow.md). **Luôn tìm bằng chính từ trong trường `word` trước** (ví dụ `habits`), rồi mới thử dạng từ gần, cụm từ thường dùng và mô tả thị giác đúng nghĩa. Chỉ duyệt ảnh có liên quan trực tiếp hoặc liên tưởng rõ (điểm 2–3/3) và có quyền tái phân phối đã xác minh. Công cụ tìm ứng viên Wikimedia Commons: [`tool/find_image_candidates.py`](tool/find_image_candidates.py), chỉ xuất danh sách JSON để duyệt, không tự sửa nội dung. Chuẩn biên tập: [`docs/editorial-style-guide.md`](docs/editorial-style-guide.md). Bài viết và ví dụ vẫn phải do VocaFlow tự viết.
 
 ## Cấu trúc
 
@@ -52,11 +52,12 @@ assets/
 ## Cập nhật nội dung
 
 1. Thêm tệp JSON mới vào đúng thư mục.
-2. Dùng SVG gốc cho hình vector tự thiết kế. Với ảnh chụp hoặc ảnh minh họa lấy từ mạng, ưu tiên Wikimedia Commons CC0/Public Domain; mở trang nguồn và xác minh quyền tải lại, sau đó lưu tệp PNG đã xử lý trực tiếp trong `assets/illustrations/`. `imageUrl` phải trỏ tới tệp trong repo; giữ `imageSourceUrl`, `imageAuthor`, `imageLicense`, `imageLicenseUrl`, `imageRightsNote`, `imageAlt` và `imageCredit` để truy xuất nguồn. Không đưa URL ảnh của bên thứ ba vào nội dung phát hành khi có thể lưu tệp hợp pháp trong repo. Không dùng lại URL giữa bìa, mục từ, bài viết và nguồn học.
-3. Kiểm tra JSON, schema, trạng thái xuất bản, ngày và metadata ảnh.
-4. Thêm đường dẫn vào manifest tương ứng.
-5. Chạy `python3 tool/validate_content.py` hoặc để GitHub Actions tự kiểm tra trước khi gộp.
-6. Commit lên `main`; VocaFlow tự tải nội dung đã duyệt khi khởi động và dùng bản JSON đóng gói sẵn khi ngoại tuyến. Sau mỗi thay đổi nội dung, nhớ đồng bộ các JSON đã duyệt sang `app/src/main/assets/assets/` để đảm bảo hai nguồn nhất quán.
+2. **Trước khi tìm ảnh, đọc `docs/image-source-and-url-workflow.md`.** Tìm chính xác từ/cụm từ trong `word` trước; nếu chưa có ảnh phù hợp, mới thử biến thể từ, collocation và mô tả thị giác đúng nghĩa. Mở ảnh thật và đối chiếu với `meaning`/ `example`; chỉ chấp nhận độ liên quan 2–3/3. Không chọn ảnh chỉ vì giấy phép tốt hoặc vì nó cùng chủ đề rộng.
+3. Với ảnh chụp hoặc ảnh minh họa lấy từ mạng, ưu tiên Wikimedia Commons CC0/Public Domain; mở trang nguồn và xác minh quyền tải lại, sau đó lưu tệp PNG đã xử lý trực tiếp trong `assets/illustrations/`. `imageUrl` phải trỏ tới tệp trong repo; giữ `imageSourceUrl`, `imageAuthor`, `imageLicense`, `imageLicenseUrl`, `imageRightsNote`, `imageAlt` và `imageCredit` để truy xuất nguồn. Không đưa URL ảnh của bên thứ ba vào nội dung phát hành khi có thể lưu tệp hợp pháp trong repo. Không dùng lại URL giữa bìa, mục từ, bài viết và nguồn học.
+4. Kiểm tra JSON, schema, trạng thái xuất bản, ngày và metadata ảnh.
+5. Thêm đường dẫn vào manifest tương ứng.
+6. Chạy `python3 tool/validate_content.py` hoặc để GitHub Actions tự kiểm tra trước khi gộp.
+7. Commit lên `main`; VocaFlow tự tải nội dung đã duyệt khi khởi động và dùng bản JSON đóng gói sẵn khi ngoại tuyến. Sau mỗi thay đổi nội dung, nhớ đồng bộ các JSON đã duyệt sang `app/src/main/assets/assets/` để đảm bảo hai nguồn nhất quán.
 
 ## Lưu ý
 
