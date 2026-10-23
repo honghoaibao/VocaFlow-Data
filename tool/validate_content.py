@@ -64,18 +64,46 @@ def validate_image_fields(entry: dict, context: str) -> None:
     if not isinstance(credit, str) or not credit.strip() or len(credit.strip()) > 120:
         fail(f"{context}: imageCredit must identify the image source")
 
-    # First-party SVG URLs must resolve to an actual asset in this repository.
-    is_first_party_svg = (
+    # First-party SVG artwork and first-party PNG files downloaded under a verified CC0
+    # license must resolve to files in this repository, not a third-party runtime URL.
+    is_first_party_path = (
         parsed.hostname == "raw.githubusercontent.com"
         and parsed.path.startswith("/honghoaibao/VocaFlow-Data/main/assets/illustrations/")
     )
-    if is_first_party_svg:
+    is_first_party_svg = is_first_party_path and parsed.path.lower().endswith(".svg")
+    is_first_party_png = is_first_party_path and parsed.path.lower().endswith(".png")
+    if is_first_party_svg or is_first_party_png:
         relative_path = unquote(parsed.path.split("/main/", 1)[-1])
-        if ".." in Path(relative_path).parts or not (ROOT / relative_path).is_file():
-            fail(f"{context}: first-party image URL points to a missing/unsafe SVG asset")
+        if "\\" in relative_path or ".." in Path(relative_path).parts or not (ROOT / relative_path).is_file():
+            fail(f"{context}: first-party image URL points to a missing/unsafe repository asset")
 
-    # Images hosted elsewhere need a distinct source page and a documented rights review.
-    if not is_first_party_svg:
+    if is_first_party_png:
+        # Downloaded PNGs must retain the Commons file page, author and exact CC0 grant.
+        source_url = entry.get("imageSourceUrl")
+        source = urlparse(source_url if isinstance(source_url, str) else "")
+        license_name = entry.get("imageLicense")
+        license_url = entry.get("imageLicenseUrl")
+        rights_note = entry.get("imageRightsNote")
+        author = entry.get("imageAuthor")
+        if (
+            source.scheme != "https"
+            or source.hostname != "commons.wikimedia.org"
+            or source.username
+            or source.password
+            or not isinstance(license_name, str)
+            or "cc0" not in license_name.casefold()
+            or license_url != "https://creativecommons.org/publicdomain/zero/1.0/"
+            or not isinstance(rights_note, str)
+            or not rights_note.strip()
+        ):
+            fail(f"{context}: first-party PNGs need a Commons source page, CC0 1.0 license, and rights note")
+        if author is not None and (
+            not isinstance(author, str) or len(author.strip()) > 200
+        ):
+            fail(f"{context}: imageAuthor must be a string of at most 200 characters")
+
+    # Direct remote images need a distinct source page and documented rights metadata.
+    if not is_first_party_svg and not is_first_party_png:
         source_url = entry.get("imageSourceUrl")
         source = urlparse(source_url if isinstance(source_url, str) else "")
         if (
