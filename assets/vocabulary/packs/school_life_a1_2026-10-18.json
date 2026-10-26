@@ -15,9 +15,14 @@
       "partOfSpeech": "noun",
       "example": "My schoolbag is next to the desk.",
       "pronunciation": "/ˈskuːl.bæɡ/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/school-bag.svg",
-      "imageAlt": "Minh họa gốc VocaFlow cho từ \"schoolbag\" — cặp sách.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1-semantic-photos-2026-10-26/school-bag.png",
+      "imageAlt": "A patterned schoolbag held beside a desk; the bag itself is the central subject.",
+      "imageCredit": "Wikimedia Commons — Alioune Badara Niang (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Schoolbag.jpg",
+      "imageAuthor": "Alioune Badara Niang",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page was reviewed and explicitly states CC0 1.0. Downloaded from the verified source URL and converted to a 720x480 PNG for VocaFlow. The repository copy keeps source, author and license metadata; no endorsement by a depicted person is implied."
     },
     {
       "id": "classroom",
@@ -26,14 +31,14 @@
       "partOfSpeech": "noun",
       "example": "Our classroom is bright and clean.",
       "pronunciation": "/ˈklɑːs.ruːm/",
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Fairfield_Public_School_Classroom.jpg/960px-Fairfield_Public_School_Classroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "imageAlt": "A real classroom with desks and chairs, illustrating classroom (phòng học).",
-      "imageCredit": "Yucalyptus — Wikimedia Commons (CC0)",
-      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Fairfield_Public_School_Classroom.jpg",
-      "imageAuthor": "Yucalyptus",
-      "imageLicense": "CC0 1.0 (Creative Commons Zero / Public Domain Dedication)",
-      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "imageRightsNote": "The Commons file page reports CC0 1.0. Source and author retained for traceability; re-check the file page if the asset is changed."
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1-semantic-photos-2026-10-26/classroom.png",
+      "imageAlt": "Rows of desks in a classroom, clearly showing the classroom setting.",
+      "imageCredit": "Wikimedia Commons — EnchantedInk (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Classroom_of_KMCLU.jpg",
+      "imageAuthor": "EnchantedInk",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page was reviewed and explicitly states CC0 1.0. Downloaded from the verified source URL and converted to a 720x480 PNG for VocaFlow. The repository copy keeps source, author and license metadata; no endorsement by a depicted person is implied."
     },
     {
       "id": "classmate",
@@ -42,9 +47,14 @@
       "partOfSpeech": "noun",
       "example": "My classmate helps me with English.",
       "pronunciation": "/ˈklɑːs.meɪt/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/classmate.svg",
-      "imageAlt": "Minh họa gốc VocaFlow cho từ \"classmate\" — bạn cùng lớp.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1-semantic-photos-2026-10-26/classmate.png",
+      "imageAlt": "A group of students in school uniform standing together, illustrating classmates.",
+      "imageCredit": "Wikimedia Commons — Kwameghana (Bright Kwame Ayisi) (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:A_group_of_students.jpg",
+      "imageAuthor": "Kwameghana (Bright Kwame Ayisi)",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page was reviewed and explicitly states CC0 1.0. Downloaded from the verified source URL and converted to a 720x480 PNG for VocaFlow. The repository copy keeps source, author and license metadata; no endorsement by a depicted person is implied."
     },
     {
       "id": "timetable",
@@ -64,9 +74,14 @@
       "partOfSpeech": "noun",
       "example": "Our English lesson starts at eight.",
       "pronunciation": "/ˈles.ən/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/lesson.svg",
-      "imageAlt": "Minh họa gốc VocaFlow cho từ \"lesson\" — bài học; tiết học.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1-semantic-photos-2026-10-26/lesson.png",
+      "imageAlt": "Students studying written learning material together.",
+      "imageCredit": "Wikimedia Commons — Kwameghana (Bright Kwame Ayisi) (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pupils_studying.jpg",
+      "imageAuthor": "Kwameghana (Bright Kwame Ayisi)",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page was reviewed and explicitly states CC0 1.0. Downloaded from the verified source URL and converted to a 720x480 PNG for VocaFlow. The repository copy keeps source, author and license metadata; no endorsement by a depicted person is implied."
     },
     {
       "id": "school-subject",
@@ -75,9 +90,14 @@
       "partOfSpeech": "noun",
       "example": "Science is my favourite subject.",
       "pronunciation": "/ˈsʌb.dʒekt/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/school-subject.svg",
-      "imageAlt": "Minh họa gốc VocaFlow cho từ \"subject\" — môn học.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1-semantic-photos-2026-10-26/school-subject.png",
+      "imageAlt": "A student performing a small science experiment in class, illustrating a school subject.",
+      "imageCredit": "Wikimedia Commons — Chase Bohannon; Paige Harper (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:A_Little_Science_Experiment.jpg",
+      "imageAuthor": "Chase Bohannon; Paige Harper",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page was reviewed and explicitly states CC0 1.0. Downloaded from the verified source URL and converted to a 720x480 PNG for VocaFlow. The repository copy keeps source, author and license metadata; no endorsement by a depicted person is implied."
     },
     {
       "id": "homework-task",
@@ -86,9 +106,14 @@
       "partOfSpeech": "noun",
       "example": "I finish my homework before dinner.",
       "pronunciation": "/ˈhəʊm.wɜːk/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/homework-task.svg",
-      "imageAlt": "Minh họa gốc VocaFlow cho từ \"homework\" — bài tập về nhà.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1-semantic-photos-2026-10-26/homework-task.png",
+      "imageAlt": "An adult helps a child write and complete homework at a table.",
+      "imageCredit": "Wikimedia Commons — Kwameghana (Bright Kwame Ayisi) (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Homework_01.jpg",
+      "imageAuthor": "Kwameghana (Bright Kwame Ayisi)",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page was reviewed and explicitly states CC0 1.0. Downloaded from the verified source URL and converted to a 720x480 PNG for VocaFlow. The repository copy keeps source, author and license metadata; no endorsement by a depicted person is implied."
     },
     {
       "id": "notebook",
@@ -97,9 +122,14 @@
       "partOfSpeech": "noun",
       "example": "She writes new words in her notebook.",
       "pronunciation": "/ˈnəʊt.bʊk/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/notebook.svg",
-      "imageAlt": "Minh họa gốc VocaFlow cho từ \"notebook\" — vở ghi chép.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1-semantic-photos-2026-10-26/notebook.png",
+      "imageAlt": "A student taking notes in a notebook during a lesson.",
+      "imageCredit": "Wikimedia Commons — Ulrich Wechselberger (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Student_taking_notes.jpg",
+      "imageAuthor": "Ulrich Wechselberger",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page was reviewed and explicitly states CC0 1.0. Downloaded from the verified source URL and converted to a 720x480 PNG for VocaFlow. The repository copy keeps source, author and license metadata; no endorsement by a depicted person is implied."
     },
     {
       "id": "pencil-case",
@@ -119,9 +149,14 @@
       "partOfSpeech": "noun",
       "example": "We borrow books from the library.",
       "pronunciation": "/ˈlaɪ.brər.i/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/school-library.svg",
-      "imageAlt": "Minh họa gốc VocaFlow cho từ \"library\" — thư viện.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1-semantic-photos-2026-10-26/school-library.png",
+      "imageAlt": "Students reading and studying among bookshelves and desks in a library.",
+      "imageCredit": "Wikimedia Commons — Bjeweld (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Students_and_Readers_in_the_Library.jpg",
+      "imageAuthor": "Bjeweld",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page was reviewed and explicitly states CC0 1.0. Downloaded from the verified source URL and converted to a 720x480 PNG for VocaFlow. The repository copy keeps source, author and license metadata; no endorsement by a depicted person is implied."
     },
     {
       "id": "borrow-book",
@@ -141,9 +176,14 @@
       "partOfSpeech": "verb",
       "example": "The teacher explains the new words.",
       "pronunciation": "/ɪkˈspleɪn/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/explain-answer.svg",
-      "imageAlt": "Minh họa gốc VocaFlow cho từ \"explain\" — giải thích.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1-semantic-photos-2026-10-26/explain-answer.png",
+      "imageAlt": "A teacher shows learning material to several students, illustrating an explanation.",
+      "imageCredit": "Wikimedia Commons — Kwameghana (Bright Kwame Ayisi) (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:A_teacher_showing_some_students_something_on_a_phone.jpg",
+      "imageAuthor": "Kwameghana (Bright Kwame Ayisi)",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page was reviewed and explicitly states CC0 1.0. Downloaded from the verified source URL and converted to a 720x480 PNG for VocaFlow. The repository copy keeps source, author and license metadata; no endorsement by a depicted person is implied."
     },
     {
       "id": "ask-question",
@@ -152,9 +192,14 @@
       "partOfSpeech": "noun",
       "example": "Please ask a question if you need help.",
       "pronunciation": "/ˈkwes.tʃən/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/ask-question.svg",
-      "imageAlt": "Minh họa gốc VocaFlow cho từ \"question\" — câu hỏi.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1-semantic-photos-2026-10-26/ask-question.png",
+      "imageAlt": "A student asks a question in a classroom.",
+      "imageCredit": "Wikimedia Commons — Kwameghana (Bright Kwame Ayisi) (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:A_student_asking_a_question_in_a_classroom_04.jpg",
+      "imageAuthor": "Kwameghana (Bright Kwame Ayisi)",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page was reviewed and explicitly states CC0 1.0. Downloaded from the verified source URL and converted to a 720x480 PNG for VocaFlow. The repository copy keeps source, author and license metadata; no endorsement by a depicted person is implied."
     },
     {
       "id": "give-answer",
@@ -163,9 +208,14 @@
       "partOfSpeech": "noun/verb",
       "example": "I know the answer to this question.",
       "pronunciation": "/ˈɑːn.sər/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/give-answer.svg",
-      "imageAlt": "Minh họa gốc VocaFlow cho từ \"answer\" — câu trả lời; trả lời.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1-semantic-photos-2026-10-26/give-answer.png",
+      "imageAlt": "A student writes on the classroom blackboard, illustrating answering a question.",
+      "imageCredit": "Wikimedia Commons — Kwameghana (Bright Kwame Ayisi) (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Student_writing_on_a_blackboard.jpg",
+      "imageAuthor": "Kwameghana (Bright Kwame Ayisi)",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page was reviewed and explicitly states CC0 1.0. Downloaded from the verified source URL and converted to a 720x480 PNG for VocaFlow. The repository copy keeps source, author and license metadata; no endorsement by a depicted person is implied."
     },
     {
       "id": "school-project",
@@ -174,9 +224,14 @@
       "partOfSpeech": "noun",
       "example": "Our group is working on a science project.",
       "pronunciation": "/ˈprɒdʒ.ekt/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/school-project.svg",
-      "imageAlt": "Minh họa gốc VocaFlow cho từ \"project\" — dự án; bài tập lớn.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1-semantic-photos-2026-10-26/school-project.png",
+      "imageAlt": "Students collaborating at a computer as part of a school project.",
+      "imageCredit": "Wikimedia Commons — Kwameghana (Bright Kwame Ayisi) (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Students_using_a_computer.jpg",
+      "imageAuthor": "Kwameghana (Bright Kwame Ayisi)",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page was reviewed and explicitly states CC0 1.0. Downloaded from the verified source URL and converted to a 720x480 PNG for VocaFlow. The repository copy keeps source, author and license metadata; no endorsement by a depicted person is implied."
     },
     {
       "id": "school-uniform",
@@ -185,12 +240,22 @@
       "partOfSpeech": "noun",
       "example": "We wear our school uniform on weekdays.",
       "pronunciation": "/ˈjuː.nɪ.fɔːm/",
-      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/school-uniform.svg",
-      "imageAlt": "Minh họa gốc VocaFlow cho từ \"uniform\" — đồng phục.",
-      "imageCredit": "VocaFlow Original Illustration"
+      "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1-semantic-photos-2026-10-26/school-uniform.png",
+      "imageAlt": "Pupils wearing matching school uniforms.",
+      "imageCredit": "Wikimedia Commons — Kwameghana (Bright Kwame Ayisi) (CC0 1.0)",
+      "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pupils_in_school_uniform.jpg",
+      "imageAuthor": "Kwameghana (Bright Kwame Ayisi)",
+      "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageRightsNote": "The Wikimedia Commons file page was reviewed and explicitly states CC0 1.0. Downloaded from the verified source URL and converted to a 720x480 PNG for VocaFlow. The repository copy keeps source, author and license metadata; no endorsement by a depicted person is implied."
     }
   ],
-  "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1/cover.svg",
-  "imageAlt": "Minh họa gốc VocaFlow về lớp học, đồ dùng học tập và sinh hoạt ở trường.",
-  "imageCredit": "VocaFlow Original Illustration"
+  "imageUrl": "https://raw.githubusercontent.com/honghoaibao/VocaFlow-Data/main/assets/illustrations/vocabulary/school-life-a1-semantic-photos-2026-10-26/cover.png",
+  "imageAlt": "A group of learners gathered around printed material for classroom learning and project work.",
+  "imageCredit": "Wikimedia Commons — Musa Bandey (CC0 1.0)",
+  "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Students_in_class.png",
+  "imageAuthor": "Musa Bandey",
+  "imageLicense": "CC0 1.0 Universal Public Domain Dedication",
+  "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "imageRightsNote": "The Wikimedia Commons file page was reviewed and explicitly states CC0 1.0. Downloaded from the verified source URL and converted to a 720x480 PNG for VocaFlow. The repository copy keeps source, author and license metadata; no endorsement by a depicted person is implied."
 }
