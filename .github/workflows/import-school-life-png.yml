@@ -55,4 +55,4 @@ jobs:
             exit 0
           fi
           git commit -m "Refresh School Life images with reviewed CC0 PNGs"
-          git push origin "HEAD:\${BRANCH_NAME}"
+          git push origin "HEAD:${BRANCH_NAME}"
