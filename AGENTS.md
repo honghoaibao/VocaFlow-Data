@@ -11,6 +11,15 @@
 - Run `python3 tool/validate_content.py` after content/schema/asset metadata changes and inspect the actual result.
 - After meaningful work, update the existing completion ledger in `docs/SESSION_CONTINUITY.md` with files, PR/commit, verification and limitations. Do not record plans as completed work.
 
+## GitHub Actions — avoid wasteful runs
+
+- Before starting or re-running a workflow, inspect its trigger, branch/path filters, and the latest result for the exact commit or PR head.
+- Group the approved image files, pack JSON, image-rights metadata, and documentation into one focused pull request wherever possible; avoid one-commit-per-image workflows.
+- Let the intended pull-request workflow validate the finished change. Do not manually dispatch or rerun a successful importer/validator just to create activity, and do not add a broad `push` trigger to a branch-specific import workflow.
+- Keep import workflows restricted to the intended branch and the small set of relevant files; generated files pushed by the workflow should not recursively trigger another import run.
+- If validation fails, inspect the first meaningful error, fix it, and rerun only after the correction. Do not rerun successful jobs or the full workflow for unrelated changes.
+- Docs-only edits should not launch APK builds. Run `python3 tool/validate_content.py` once after a complete content batch when local execution is available, then rely on the required PR check rather than redundantly starting equivalent workflows.
+
 ## Content integrity
 
 - Keep published learning content and approved links in this repository; never add learner progress, private user records, credentials or tokens.
