@@ -22,8 +22,8 @@ jobs:
       - name: Check out the import PR branch
         uses: actions/checkout@v4
         with:
-          ref: \${{ github.event.pull_request.head.ref }}
-          token: \${{ github.token }}
+          ref: ${{ github.event.pull_request.head.ref }}
+          token: ${{ github.token }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -44,7 +44,7 @@ jobs:
 
       - name: Commit imported images and pack metadata to this PR
         env:
-          BRANCH_NAME: \${{ github.event.pull_request.head.ref }}
+          BRANCH_NAME: ${{ github.event.pull_request.head.ref }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
