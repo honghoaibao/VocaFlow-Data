@@ -96,6 +96,14 @@ Mỗi bản ghi ảnh bên ngoài phải lưu tối thiểu:
 
 Không đánh đổi độ liên quan để tiết kiệm thời gian, lấp đủ số lượng ảnh hoặc giữ một ảnh đã chọn trước đó.
 
+## 7. Tiết kiệm lượt chạy GitHub Actions
+
+- Trước khi tạo hoặc chạy lại workflow, kiểm tra trigger, bộ lọc `paths`/nhánh và kết quả mới nhất của đúng commit hoặc PR head.
+- Gom các PNG đã duyệt, JSON bộ từ, metadata nguồn/giấy phép và tài liệu liên quan vào một PR có phạm vi rõ ràng; không tách commit hoặc PR cho từng ảnh chỉ để tạo hoạt động.
+- Với workflow nhập ảnh theo danh sách nguồn đã duyệt, dùng trigger hẹp trên PR và khóa rõ nhánh đích. Không thêm trigger `push` rộng hoặc `workflow_dispatch` nếu không có nhu cầu cụ thể đã xác minh.
+- Để workflow tương ứng chạy kiểm tra một lần trên thay đổi thực tế. Không chạy validator/importer thủ công hoặc rerun một lượt đã xanh chỉ để kiểm tra lại. Sau khi thay đổi hoàn chỉnh, chạy `python3 tool/validate_content.py` một lần khi có môi trường phù hợp; sau đó xem kết quả CI của đúng PR head.
+- Khi thất bại, đọc job/step lỗi đầu tiên có ý nghĩa, sửa nguyên nhân rồi chỉ chạy lại phần kiểm tra cần thiết. Thay đổi tài liệu đơn thuần không được kích hoạt build APK.
+
 ## Tham khảo chính thức
 
 - Wikimedia Commons API: https://api.wikimedia.org/wiki/Documentation/Code_samples/Images_and_media
